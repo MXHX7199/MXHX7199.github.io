@@ -56,6 +56,12 @@ Current research interests focuses on:
 - Brain-inspired Neuromorphic Computing (神经模态计算)
 
 
+Recruitment
+-----------
+<p>Our <a href="https://acalab.sjtu.edu.cn/CN/Default.aspx">team</a> is seeking self-motivated PhD, Master and Undergraduate students who are interested in Computer Architecture, Efficient AI acceleration, and PIM Design. If you are interested, please <a href="mailto:liufangxin@sjtu.edu.cn">email me</a> your CV.</p>
+
+
+
 Recent Visits to this Site
 -----------
 
