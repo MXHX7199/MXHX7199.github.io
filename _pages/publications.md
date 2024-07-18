@@ -19,6 +19,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p align="left"><font size=13 style="background: #F7F7F7">**HPCA 2024** <br> **(Top Conf. in Computer Architecture)** <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  </font> </p>  -->
+
+<!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 <tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Ning Yang, Shiyuan Huang, Haomin Li, and Li Jiang <br> <a href="#"> COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with  Adaptive Spike Speculation</a>  <strong>(Acceptance Rate: 22%)</strong>
 </td></tr>
@@ -27,7 +29,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhuoran Song, Houshu He,<u><b>Fangxin Liu*</b></u>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang <br> <a href="#"> SRender: Boosting Neural Radiance Field Efficiency via  Sensitivity-Aware Dynamic Precision Rendering</a>  <strong>(Acceptance Rate: 22%)</strong>
 </td></tr>
 
-<table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 <tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang <br> <a href="#"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
@@ -80,8 +81,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
 </td></tr>
+<!-- </table> -->
 
-
+<!-- During my Ph.D. -->
+<!-- <table width="100%" style="table-layout:auto;" style="font-size:inherit;" > -->
 <tr ><td style="font-size:inherit;" ><strong>ICCD 2022</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 

@@ -17,7 +17,7 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Jul./18/2024` Our two papers on the Accelerator of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
+`Jul./18/2024` Our two papers on the Accelerators of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
 
 `Jun./07/2024` Our paper on SNN Accelerator has been accepted by TPDS 2024!
 
