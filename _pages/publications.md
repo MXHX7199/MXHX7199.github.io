@@ -22,6 +22,21 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr ><td style="font-size:inherit;"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Zhiyan Song, Tao Yang, and Li Jiang <br> <a href="#"> TBUS: Taming Bipartite Unstructured Sparsity for Energy-Effcient DNN Acceleration</a>  <strong>(Acceptance Rate: 25%)</strong>
+</td></tr>
+
+<tr ><td bgcolor="#F7F7F7"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=,Zhiyan Song, Zongwu Wang and Li Jiang <br> <a href="#"> HOLES: Boosting Large Language Models Efficiency with Hardware-friendly Lossless Encoding</a>  <strong>(Acceptance Rate: 25%)</strong>
+</td></tr>
+
+
+<tr ><td style="font-size:inherit;"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zongwu Wang, <u><b>Fangxin Liu</b></u>, and Li Jiang <br> <a href="#"> PS4:A Low Power SNN Accelerator with Spike Speculative Scheme</a>  <strong>(Acceptance Rate: 25%)</strong>
+</td></tr>
+
+
+<tr ><td bgcolor="#F7F7F7"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Longyu Zhao, Zongwu Wang, <u><b>Fangxin Liu*</b></u>, and Li Jiang <br> <a href="#"> Ninja: A Hardware Assisted System for Accelerating Nested Address Translation</a>  <strong>(Acceptance Rate: 25%)</strong>
+</td></tr>
+
+
 <tr ><td style="font-size:inherit;"><strong>MICRO 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Ning Yang, Shiyuan Huang, Haomin Li, and Li Jiang <br> <a href="#"> COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with  Adaptive Spike Speculation</a>  <strong>(Acceptance Rate: 22%)</strong>
 </td></tr>
 

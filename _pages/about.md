@@ -17,7 +17,11 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Aug./2/2024` Our four papers on the Accelerations of LLMs, SNNs, and nested address translation in virtualized environments have been accepted by ICCD 2024! Congratulations to Ning Yang, Zongwu and Longyu.
+
 `Jul./18/2024` Our two papers on the Accelerators of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
+
+`Jul./06/2024` Fangxin Liu received 2023 Shanghai Doctoral Dissertation Award.
 
 `Jun./07/2024` Our paper on SNN Accelerator has been accepted by TPDS 2024!
 
@@ -53,9 +57,10 @@ Research
 -----------
 Current research interests focuses on:
 
-- Neural Network Acceleration (神经网络加速)
+- LLMs/Neural Network Acceleration (大模型/神经网络训练、推理加速)
 - In-memory Computing (存内计算)
 - Brain-inspired Neuromorphic Computing (神经模态计算)
+- AI Compilation Optimization (AI编译优化)
 
 
 Recruitment
