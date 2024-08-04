@@ -29,7 +29,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zongwu Wang, <u><b>Fangxin Liu</b></u>, and Li Jiang <br> <a href="#"> PS4:A Low Power SNN Accelerator with Spike Speculative Scheme</a>  <strong>(Acceptance Rate: 25%)</strong>
+<tr ><td style="font-size:inherit;"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zongwu Wang=, <u><b>Fangxin Liu=</b></u>, and Li Jiang <br> <a href="#"> PS4:A Low Power SNN Accelerator with Spike Speculative Scheme</a>  <strong>(Acceptance Rate: 25%)</strong>
 </td></tr>
 
 

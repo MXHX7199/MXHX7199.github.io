@@ -21,7 +21,7 @@ News
 
 `Jul./18/2024` Our two papers on the Accelerators of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
 
-`Jul./06/2024` Fangxin Liu received 2023 Shanghai Doctoral Dissertation Award.
+`Jul./06/2024` Fangxin Liu received 2023 ACM Shanghai Doctoral Dissertation Award.
 
 `Jun./07/2024` Our paper on SNN Accelerator has been accepted by TPDS 2024!
 
