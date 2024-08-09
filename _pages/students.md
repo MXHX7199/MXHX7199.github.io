@@ -1,21 +1,27 @@
 ---
 layout: archive
-title: "Awards"
-permalink: /awards/
+title: "Research Group"
+permalink: /students/
 author_profile: true
 redirect_from:
-  - /Awards
+  - /Research Group
 ---
 
 <!-- {% include base_path %} -->
+<h2> Phd </h2>
 
-* National Scholarship, 2022.
-* National Scholarship, 2021.
-* Wu Wen Jun Honorary Doctoral Scholarship, 2021.
-* Best Paper Award from DATE, 2022.
-* Spark Award from HUAWEI, 2022.
-* SJTU Principal's Award, 2023
-* Shanghai Outstanding Graduate Award, 2023.
-* CCF Architecture Doctoral Dissertation Nomination, 2023.
-* 2023 ACM Shanghai Doctoral Dissertation Award (only 3 students).
-* 2023 Shanghai CCF Outstanding Dissertation Award (only 2 students).
+* <a href="https://zongwuwang.github.io/">Zongwu Wang</a> (co-supervised, 2020-)
+* Shiyuan Huang (co-supervised, 2021-)
+* Ning Yang (co-supervised, 2021-)
+* Haomin Li (co-supervised, 2022-)
+* Runpei Cai (co-supervised, 2024-)
+* Hanjing Shen (co-supervised, 2024-)
+
+<h2> Master </h2>
+
+* Longyu Zhao (co-supervised, 2022-)
+* Peng Xu (co-supervised, 2022-)
+* Bowen Zhu (co-supervised, 2023-)
+* Yiwei Hu (co-supervised, 2023-)
+* Tianheng Huang (co-supervised, 2023-)
+* Gongye CHen (co-supervised, 2023-)
