@@ -22,6 +22,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr ><td bgcolor="#F7F7F7"><strong>IEEE TCAD 2024</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Shiyuan Huang, <u><b>Fangxin Liu*</b></u>, Tao Yang, Zongwu Wang Ning Yang, and Li Jiang <br> <a href="#"> SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation Algorithm</a>  <strong>(CCF Tier A)</strong>
+</td></tr>
+
+
 <tr ><td style="font-size:inherit;"><strong>ICCD 2024</strong><br>(Import. Conf. in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Zhiyan Song, Tao Yang, and Li Jiang <br> <a href="#"> TBUS: Taming Bipartite Unstructured Sparsity for Energy-Effcient DNN Acceleration</a>  <strong>(Acceptance Rate: 25%)</strong>
 </td></tr>
 

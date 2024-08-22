@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Aug./22/2024` Our paper on a novel compiler plug-in for efficient SpMM has been accepted by IEEE TCAD 2024! Congratulations to Shiyuan.
+
 `Aug./2/2024` Our four papers on the Accelerations of LLMs, SNNs, and nested address translation in virtualized environments have been accepted by ICCD 2024! Congratulations to Ning Yang, Zongwu and Longyu.
 
 `Jul./18/2024` Our two papers on the Accelerators of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
