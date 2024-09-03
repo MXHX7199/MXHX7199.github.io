@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Aug./26/2024` I received a grant from the NSFC Youth Fund titled "Neural Network Hardware-Software Co-design Architecture Based on Adaptive Compression Ecoding"
+
 `Aug./22/2024` Our paper on a novel compiler plug-in for efficient SpMM has been accepted by IEEE TCAD 2024! Congratulations to Shiyuan.
 
 `Aug./2/2024` Our four papers on the Accelerations of LLMs, SNNs, and nested address translation in virtualized environments have been accepted by ICCD 2024! Congratulations to Ning Yang, Zongwu and Longyu.

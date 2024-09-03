@@ -55,7 +55,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang <br> <a href="#"> LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a>  <strong>(Acceptance Rate: 21%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>ISCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang <br> <a href="#"> UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>  <strong>(Acceptance Rate: 18%)</strong>
+<tr ><td style="font-size:inherit;"><strong>ISCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10609641"> UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>  <strong>(Acceptance Rate: 18%)</strong>
 </td></tr>
 
 
@@ -65,32 +65,32 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a>  <strong>(Acceptance Rate: 23%)</strong>
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Jiahao Sun, <u><b>Fangxin Liu=</b></u>, Yijian Zhang, Li Jiang and Rui Yang <br> <a href="#">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 Î¼s Collision Detection</a>  <strong>(Acceptance Rate: 24%)</strong>
+<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Jiahao Sun, <u><b>Fangxin Liu=</b></u>, Yijian Zhang, Li Jiang and Rui Yang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10546586">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 Î¼s Collision Detection</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>ASPLOS 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zhuoran Song, Chunyu Qi, <u><b>Fangxin Liu=</b></u>, Naifeng Jing, Xiaoyao Liang <br> <a href="#">CMC: Video Transformer Acceleration via CODEC  Assisted Matrix Condensing</a>  <strong>(Acceptance Rate: 24%)</strong>
+<tr ><td style="font-size:inherit;"><strong>ASPLOS 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zhuoran Song, Chunyu Qi, <u><b>Fangxin Liu=</b></u>, Naifeng Jing, Xiaoyao Liang <br> <a href="https://dl.acm.org/doi/abs/10.1145/3620665.3640393">CMC: Video Transformer Acceleration via CODEC  Assisted Matrix Condensing</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 
 
-<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  <strong>(Acceptance Rate: 18%)</strong>
+<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10476472">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  <strong>(Acceptance Rate: 18%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <strong>(Acceptance Rate: 29%)</strong>
+<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10473823">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a>  <strong>(Acceptance Rate: 29%)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="https://ieeexplore.ieee.org/document/10473984">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a>  <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang<br> <a href="#">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a>  <strong>(Acceptance Rate: 29%)</strong>
+<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10473981">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a>  <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="#">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>  <strong>(Acceptance Rate: 29%)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10473907">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>  <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"  ><strong>ICCD 2023</strong></td><td style="font-size:inherit;"  > <u><b>Fangxin Liu=</b></u>, Ning Yang=, Li Jiang<br> <a href="#">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>  <strong>(Acceptance Rate: 28%)</strong>
+<tr ><td style="font-size:inherit;"  ><strong>ICCD 2023</strong></td><td style="font-size:inherit;"  > <u><b>Fangxin Liu=</b></u>, Ning Yang=, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10361000">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>  <strong>(Acceptance Rate: 28%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCAD 2023</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="#">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCAD 2023</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10323813">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
 </td></tr>
 
 
@@ -98,13 +98,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10247811">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
 </td></tr>
 <!-- </table> -->
 
 <!-- During my Ph.D. -->
 <!-- <table width="100%" style="table-layout:auto;" style="font-size:inherit;" > -->
-<tr ><td style="font-size:inherit;" ><strong>ICCD 2022</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>  <strong>(Acceptance Rate: 24%)</strong>
+<tr ><td style="font-size:inherit;" ><strong>ICCD 2022</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/9978437">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 
 
