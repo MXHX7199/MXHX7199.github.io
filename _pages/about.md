@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Sep./08/2024` Our two papers on the PQ Compression and SNN Quantization have been accepted by ASP-DAC 2025! Congratulations to Zongwu and Haomin.
+
 `Aug./26/2024` I received a grant from the NSFC Youth Fund titled "Neural Network Hardware-Software Co-design Architecture Based on Adaptive Compression Ecoding".
 
 `Aug./22/2024` Our paper on a novel compiler plug-in for efficient SpMM has been accepted by IEEE TCAD 2024! Congratulations to Shiyuan.
