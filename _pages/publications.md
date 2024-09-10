@@ -54,11 +54,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td bgcolor="#F7F7F7"><strong>MICRO 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhuoran Song, Houshu He,<u><b>Fangxin Liu*</b></u>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang <br> <a href="#"> SRender: Boosting Neural Radiance Field Efficiency via  Sensitivity-Aware Dynamic Precision Rendering</a>  <strong>(Acceptance Rate: 22%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang <br> <a href="#"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
+<tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang <br> <a href="https://ieeexplore.ieee.org/document/10561563"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
 
-<tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang <br> <a href="#"> LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a>  <strong>(Acceptance Rate: 21%)</strong>
+<tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3665314.3672279"> LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a>  <strong>(Acceptance Rate: 21%)</strong>
 </td></tr>
 
 <tr ><td style="font-size:inherit;"><strong>ISCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10609641"> UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>  <strong>(Acceptance Rate: 18%)</strong>

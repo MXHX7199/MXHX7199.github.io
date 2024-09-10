@@ -13,6 +13,7 @@ redirect_from:
 * <a href="https://zongwuwang.github.io/">Zongwu Wang</a> (co-supervised, 2020-)
 * Shiyuan Huang (co-supervised, 2021-)
 * Ning Yang (co-supervised, 2021-)
+* Yilong Zhao (co-supervised, 2022)
 * Haomin Li (co-supervised, 2022-)
 * Runpei Cai (co-supervised, 2024-)
 * Hanjing Shen (co-supervised, 2024-)
@@ -24,4 +25,4 @@ redirect_from:
 * Bowen Zhu (co-supervised, 2023-)
 * Yiwei Hu (co-supervised, 2023-)
 * Tianheng Huang (co-supervised, 2023-)
-* Gongye CHen (co-supervised, 2023-)
+* Gongye Chen (co-supervised, 2023-)
