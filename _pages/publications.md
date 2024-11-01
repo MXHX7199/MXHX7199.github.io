@@ -22,6 +22,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr ><td bgcolor="#F7F7F7"><strong>IEEE TCAS-AI 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang <br> <a href="#"> SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a> 
+</td></tr>
+
+<tr ><td style="font-size:inherit;"><strong>IEEE TODAES 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"> Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Ning Yang, Haomin Li and Li Jiang <br> <a href="#"> STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization</a>  <strong>(CCF Tier B)</strong>
+</td></tr>
+
 <tr ><td bgcolor="#F7F7F7"><strong>ASP-DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Zongwu Wang=, Peng Xu, Shiyuan Huang and Li Jiang <br> <a href="#"> Exploiting Differential-Based Data Encoding for Enhanced Query Efficiency</a>  <strong>(Acceptance Rate: 28%)</strong>
 </td></tr>
 
