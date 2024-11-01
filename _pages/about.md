@@ -17,6 +17,10 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Nov./01/2024` Our paper "SearchQ" on the post-training & data-free compression on LLMs have been accepted by TCAS-AI 2024! Congratulations to Ning Yang.
+
+`Oct./03/2024` Our Paper "STCO" on the AI Compilation Optimization have been accepted by TODAES 2024! Congratulations to Shiyuan.
+
 `Sep./08/2024` Our two papers on the PQ Compression and SNN Quantization have been accepted by ASP-DAC 2025! Congratulations to Zongwu and Haomin.
 
 `Aug./26/2024` I received a grant from the NSFC Youth Fund titled "Neural Network Hardware-Software Co-design Architecture Based on Adaptive Compression Ecoding".
