@@ -22,6 +22,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2025</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Shiyuan Huang=, Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang <br> <a href="#"> CROSS: Compiler-Driven Optimization of Sparse DNNs Using  Sparse/Dense Computation Kernels</a> <strong>(Acceptance Rate: 21%)</strong> 
+</td></tr>
+
+<tr ><td style="font-size:inherit;"><strong>HPCA 2025</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Houshu he, Gang Li, <u><b>Fangxin Liu</b></u>, Li Jiang, Xiaoyang Liang, and Zhuoran Song <br> <a href="#"> GSArch: Breaking Memory Barriers in 3D Guassian  Splatting Training via Arcitectural Support</a>  <strong>(Acceptance Rate: 21%)</strong> 
+</td></tr>
+
 <tr ><td bgcolor="#F7F7F7"><strong>IEEE TCAS-AI 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang <br> <a href="#"> SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a> 
 </td></tr>
 

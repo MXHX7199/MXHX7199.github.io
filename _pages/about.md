@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Nov./03/2024` Our two papers on the Acceleration with Sparse Compilation Optimization and Guassian Splatting have been accepted by HPCA 2025! Congratulations to Shiyuan.
+
 `Nov./01/2024` Our paper "SearchQ" on the post-training & data-free compression on LLMs have been accepted by TCAS-AI 2024! Congratulations to Ning Yang.
 
 `Oct./03/2024` Our Paper "STCO" on the AI Compilation Optimization have been accepted by TODAES 2024! Congratulations to Shiyuan.
