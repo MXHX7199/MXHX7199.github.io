@@ -22,6 +22,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+
 <tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>,  Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, and Li Jiang<br> <a href="#"> ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a>  <strong>(Acceptance Rate: 21%)</strong> 
 </td></tr>
 
@@ -43,7 +44,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Dongxu Lyu, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song, and Li Jiang<br> <a href="#"> TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</a>  <strong>(Acceptance Rate: 21%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Qi Sun, and Li Jiang <br> <a href="#"> OPS: Outlier-aware Precision-Slice Framework for LLM Acceleration</a>  <strong>(Acceptance Rate: 21%)</strong>  
+<tr ><td bgcolor="#F7F7F7"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Qi Sun, and Li Jiang <br> <a href="#"> OPS: Outlier-aware Precision-Slice Framework for LLM Acceleration</a>  <strong>(Acceptance Rate: 21%)</strong>  
 </td></tr>
 
 <tr ><td style="font-size:inherit;"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Zongwu Wang, <u><b>Fangxin Liu</b></u>, Peng Xu, Qingxiao Sun, Junping Zhao and Li Jiang <br> <a href="#">EVASION: Efficient KV Cache Compression via Product Quantization</a>  <strong>(Acceptance Rate: 21%)</strong> 
