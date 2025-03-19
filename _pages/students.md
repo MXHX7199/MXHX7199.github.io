@@ -11,10 +11,10 @@ redirect_from:
 <h2> Phd </h2>
 
 * <a href="https://zongwuwang.github.io/">Zongwu Wang</a> (co-supervised, 2020-)
-* Shiyuan Huang (co-supervised, 2021-)
-* Ning Yang (co-supervised, 2021-)
+* <a href="https://hsy0406.github.io/">Shiyuan Huang</a> (co-supervised, 2021-)
+* <a href="https://jlsbz.github.io/">Ning Yang</a> (co-supervised, 2021-)
 * Yilong Zhao (co-supervised, 2022)
-* Haomin Li (co-supervised, 2022-)
+* <a href="https://www.lihaomin.com/">Haomin Li</a> (co-supervised, 2022-)
 * Runpei Cai (co-supervised, 2024-)
 * Hanjing Shen (co-supervised, 2024-)
 
