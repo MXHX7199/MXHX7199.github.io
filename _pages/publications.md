@@ -23,16 +23,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 
-<tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>,  Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, and Li Jiang<br> <a href="#"> ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a>  <strong>(Acceptance Rate: 21%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>,  Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang, and Haibing Guan<br> <a href="http://arxiv.org/abs/2503.15916"> ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a>  <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, and Li Jiang <br> <a href="#"> MILLION: MasterIng Long-Context LLM InferenceVia Outlier-Immunized KV Product OuaNtization</a> <strong>(Acceptance Rate: 21%)</strong> 
+<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, Li Jiang, and Haibing Guan <br> <a href="#"> MILLION: MasterIng Long-Context LLM InferenceVia Outlier-Immunized KV Product OuaNtization</a> <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>DAC2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Zongwu Wang, and Li Jiang <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 21%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>DAC2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=,*</b></u>, Fangxin Liu=, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, Li Jiang, and <u><b>Fangxin Liu*</b></u> <br> <a href="#"> PISA:Efficient Precision-Slice Framework forLLMs with Adaptive Numerical Type</a>  <strong>(Acceptance Rate: 21%)</strong>  
+<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <u><b>Fangxin Liu*</b></u> <br> <a href="#"> PISA:Efficient Precision-Slice Framework forLLMs with Adaptive Numerical Type</a>  <strong>(Acceptance Rate: 23%)</strong>  
 </td></tr>
 
 <tr ><td style="font-size:inherit;"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Dongxu Lyu, and Li Jiang<br> <a href="#"> HyperDyn: Dynamic Dimensional Masking forEffcient Hyper-Dimensional Computing</a>  <strong>(Acceptance Rate: 21%)</strong> 
