@@ -38,7 +38,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Dongxu Lyu, and Li Jiang<br> <a href="#"> HyperDyn: Dynamic Dimensional Masking forEffcient Hyper-Dimensional Computing</a>  <strong>(Acceptance Rate: 21%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zewen Sun, Zongwu Wang, and Li Jiang <br> <a href="#"> HyperNeO: Efficient and AccurateHyper-Dimensional Regression via Neural Optimization</a> <strong>(Acceptance Rate: 21%)</strong>  
+<tr ><td bgcolor="#F7F7F7"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zewen Sun, Zongwu Wang, and Li Jiang <br> <a href="#"> HyperNeO: Efficient and AccurateHyper-Dimensional Regression via Neural Optimization</a> <strong>(Acceptance Rate: 21%)</strong>  
 </td></tr>
 
 <tr ><td style="font-size:inherit;"><strong>DATE 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Dongxu Lyu, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song, and Li Jiang<br> <a href="#"> TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</a>  <strong>(Acceptance Rate: 21%)</strong> 
