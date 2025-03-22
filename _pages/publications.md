@@ -29,7 +29,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, Li Jiang, and Haibing Guan <br> <a href="#"> MILLION: MasterIng Long-Context LLM InferenceVia Outlier-Immunized KV Product OuaNtization</a> <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>DAC2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=,*</b></u>, Fangxin Liu=, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 23%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>DAC2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <u><b>Fangxin Liu*</b></u> <br> <a href="#"> PISA:Efficient Precision-Slice Framework forLLMs with Adaptive Numerical Type</a>  <strong>(Acceptance Rate: 23%)</strong>  
