@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Apr./16/2025` Our paper on "Enhancing Robustness of Binary Hyper-Dimensional Computing" has been accepted by ACM TACO 2025! Congratulations to Haomin.
+
 `Mar./22/2025` Our two papers on brain-inspired computing (HDC) and Quantum-Classical Computing have been accepted by ISCA 2025! Congratulations to Haomin.
 
 `Feb./15/2025` Our four papers on LLM acceleration and FHE have been accepted by DAC 2025 ! Congratulations to Haomin, Zongwu, Ning Yang.
