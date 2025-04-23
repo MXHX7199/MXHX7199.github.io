@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Fangxin (Leon) Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU), specializing in neural network acceleration (e.g., neural network compression and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
+Fangxin (Leon) Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU), specializing in neural network acceleration (e.g., mixed-precision computing and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
 
-He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. 
+I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. My work has been recognized with several honors, including the Spark Award from HUAWEI, the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM China Shanghai Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2022. Up to now, I have published over 50 research papers (as <u><b>first or corresponding author</b></u>), with more than <u><b>30</b></u> of them in <u><b>CCF Tier A</b></u>, including top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, DAC, IEEE TC, TPDS, and TCAD.
 <!-- You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
 
 The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future.
