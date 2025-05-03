@@ -8,9 +8,15 @@ redirect_from:
 ---
 <table width="100%" align="center" border="0" cellpadding="20">
   <tbody>
+    <!-- 第一行：图片部分 -->
     <tr>
-      <td width="25%"><img class="rounded shadow media-img ml-4" src="../images/EfficientLLM.html" width="223" height="160"></td>
-      <td width="73%" valign="top">
+      <td align="center">
+        <iframe class="rounded shadow media-img" src="../images/EfficientLLM.html" width="223" height="160"></iframe>
+      </td>
+    </tr>
+    <!-- 第二行：文本部分 -->
+    <tr>
+      <td valign="top">
         <p>
           <strong><font color="#1b6fc2">Efficient LLM</font></strong>
           <br>
@@ -20,7 +26,9 @@ redirect_from:
           LLMs demand unprecedented computation due to their massive scale—modern LLMs are over 1000× larger than traditional models, posing critical efficiency and deployment challenges. Our research focuses on enabling efficient LLM computation through model compression techniques such as quantization, structured/unstructured sparsity, and low-rank decomposition, and we further push the boundary with hardware-software co-design across ASICs, FPGAs, GPUs, and PIM architectures. We develop customized accelerators and compiler stacks that align compression patterns with hardware capabilities to maximize performance and energy efficiency.
           
           We pioneer new methods that enable end-to-end acceleration of LLM inference, fine-tuning, and even training, significantly reducing cost and latency. Our work supports long-context and multi-modal reasoning under constrained resources, and includes runtime optimizations like KV cache compression, attention sparsity exploitation, and multi-granular parallelism scheduling. Beyond traditional platforms, we explore neuromorphic computing paradigms, leveraging event-driven SNNs and in-memory computing to realize orders-of-magnitude gains in energy efficiency. Together, these innovations form a unified approach to sustainable and scalable LLM deployment across diverse edge and datacenter environments.
-    </p></td></tr>
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
