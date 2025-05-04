@@ -22,7 +22,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
-<tr ><td style="font-size:inherit;"><strong>ASPLOS 2026</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"> Jiahao Sun, Yijian Zhang, <u><b>Fangxin Liu*</b></u>, Li Jiang, and Rui Yang <br> <a href="#"> A Sub-10 μs In-Memory-Search Collision Detection Accelerator Based on RRAM-TCAMs</a>  <strong>(Acceptance Rate: 23%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>IEEE TCAD 2025</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"> Jiahao Sun, Yijian Zhang, <u><b>Fangxin Liu*</b></u>, Li Jiang, and Rui Yang <br> <a href="#"> A Sub-10 μs In-Memory-Search Collision Detection Accelerator Based on RRAM-TCAMs</a>  <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>ASPLOS 2026</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"><u><b>Fangxin Liu=*</b></u>, Haomin Li=, Bowen Zhu, Zongwu Wang, Zhuoran Song, Haibing Guan, and Li Jiang <br> <a href="#"> ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering</a> <strong>(Acceptance Rate: 23%)</strong> 
