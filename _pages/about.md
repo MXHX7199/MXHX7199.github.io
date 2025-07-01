@@ -17,7 +17,9 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`May/03/2025` Our paper on "Collision Detection Accelerator Based on RRAM-TCAMs" has been accepted by IEEE TCAD 2025! Congratulations to Yijian.
+`Jul/01/2025` Our three papers on PIM-based LLM acceleration, circuit optimization for nonlinear operations, and PCIe tracing for edge AI have been accepted to ICCAD 2025. Congratulations to Yiwe, Zhixiong, and Zhibai.
+
+`May/03/2025` Our paper on "Collision Ditection Accelerator Based on RRAM-TCAMs" has been accepted by IEEE TCAD 2025! Congratulations to Yijian.
 
 `Apr./29/2025` Our two papers on "PIM+NeRF" and "PIM+Database (OLAP and OLTP)" have been accepted by ASPLOS 2026! Congratulations to Haomin and Yilong.
 
