@@ -22,6 +22,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+
 <tr ><td bgcolor="#F7F7F7"><strong>ICCAD 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhixiong Zhao=, Haomin Li=, <u><b>Fangxin Liu*</b></u>, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang<br> <a href="#"> QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</a> <strong>(Acceptance Rate: 24%)</strong> 
 </td></tr>
 
@@ -171,10 +172,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/10247811">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
 </td></tr>
-<!-- </table> -->
 
-<!-- During my Ph.D. -->
-<!-- <table width="100%" style="table-layout:auto;" style="font-size:inherit;" > -->
 <tr ><td style="font-size:inherit;" ><strong>ICCD 2022</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/abstract/document/9978437">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 
@@ -245,6 +243,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Tao Yang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a>
 </td></tr>
+
 </table>
 
 <!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
