@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Jul/06/2025` Our paper on Adaptive Dynamic Layer-skipping Framework for LLM acceleration has been accepted to ACM MM 2025. Congratulations to Junjie.
+
 `Jul/01/2025` Our three papers on PIM-based LLM acceleration, circuit optimization for nonlinear operations, and PCIe tracing for edge AI have been accepted to ICCAD 2025. Congratulations to Yiwe, Zhixiong, and Zhibai.
 
 `May/03/2025` Our paper on "Collision Ditection Accelerator Based on RRAM-TCAMs" has been accepted by IEEE TCAD 2025! Congratulations to Yijian.
