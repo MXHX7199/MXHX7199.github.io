@@ -22,7 +22,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
-<tr ><td style="font-size:inherit;"><strong>ACM MM 2025</strong><br>(Top Conf. in AI)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan<br> <a href="#"> ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process</a>  <strong>(Acceptance Rate: 24%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>ACM MM 2025</strong><br>(Top Conf. in AI)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=*</b></u>, Junjie Wang=, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan<br> <a href="#"> ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process</a>  <strong>(Acceptance Rate: 24%)</strong> 
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>ICCAD 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhixiong Zhao=, Haomin Li=, <u><b>Fangxin Liu*</b></u>, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang<br> <a href="#"> QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</a> <strong>(Acceptance Rate: 24%)</strong> 
