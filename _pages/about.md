@@ -13,7 +13,9 @@ Fangxin (Leon) Liu is an Assistant Professor at Shanghai Jiao Tong University (S
 I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. My work has been recognized with several honors, including the Spark Award from HUAWEI, the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM China Shanghai Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2022. Up to now, I have published over 50 papers (as <u><b>first or corresponding author</b></u>), with more than <u><b>30</b></u> of them in <u><b>CCF Tier A</b></u>, including top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, DAC, IEEE TC, TPDS, and TCAD.
 <!-- You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
 
-The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future.
+My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to 40% reductions in computational costs for large-scale AI deployments. I am committed to bridging cutting-edge research with practical industry solutions and welcome opportunities for further collaboration.
+<!-- 
+The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future. -->
 
 News
 -----------
