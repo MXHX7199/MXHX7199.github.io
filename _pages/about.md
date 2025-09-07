@@ -17,6 +17,11 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Sep./05/2025` Our paper "BLADE" on DRAM-based LLM Acceleration has been accepted to [ASP-DAC 2026](https://www.aspdac.com/aspdac2026). Congratulations to Yilong.
+
+
+`Aug./29/2025` The "FlexQuant" quantization framework for LLM Acceleration has been reported by [Asystem Team](https://mp.weixin.qq.com/s/E3WQiKRk5-jLML5Mg0jEgw) From Ant Group (Chinese: 蚂蚁集团). Congratulations to Zongwu.
+
 `Aug./21/2025` Our paper on Flexbile Quantization for LLM Acceleration has been accepted to EMNLP 2025. Congratulations to Zongwu and Jinghong.
 
 `Jul./15/2025` Our paper on Quantum Computing Acceleration has been accepted to MICRO-58 (2025). 

@@ -13,6 +13,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr ><td bgcolor="#F7F7F7"><strong>ASP-DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Yilong Zhao, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Mingjian Li, Mingxing Zhang, Chixiao Chen, Li Jiang<br> <a href="#"> BLADE: Boosting LLM Decoding's Communication Efficiency in DRAM-based PIM</a> <strong>(Acceptance Rate: 29%)</strong> 
+</td></tr>
+
+<tr ><td style="font-size:inherit;"><strong>EMNLP 2025</strong><br>(Top Conf. in NLP)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=</b></u>, Wongwu Wang, Jinhong Xia, Junping Zhao*, Shouren Zhao, Jinjin Li, Jian Liu, Li Jiang*, Haibing Guan <br> <a href="#">  FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization</a>  <strong>(Acceptance Rate: 22%)</strong>  <font color=538F79><b>[Applied at Ant Group]</b></font>
+</td></tr>
+
 <tr ><td style="font-size:inherit;"><strong>ACM MM 2025</strong><br>(Top Conf. in AI)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=*</b></u>, Junjie Wang=, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan<br> <a href="#"> ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process</a>  <strong>(Oral)</strong> 
 </td></tr>
 
@@ -45,10 +51,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;">  <u><b>Fangxin Liu=</b></u>,  Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang, and Haibing Guan<br> <a href="http://arxiv.org/abs/2503.15916"> ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a>  <strong>(Acceptance Rate: 23%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, Li Jiang, and Haibing Guan <br> <a href="https://arxiv.org/abs/2504.03661"> MILLION: MasterIng Long-Context LLM InferenceVia Outlier-Immunized KV Product OuaNtization</a> <strong>(Acceptance Rate: 23%)</strong> 
+<tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, Li Jiang, and Haibing Guan <br> <a href="https://arxiv.org/abs/2504.03661"> MILLION: MasterIng Long-Context LLM InferenceVia Outlier-Immunized KV Product OuaNtization</a> <strong>(Acceptance Rate: 23%)</strong>  <font color=538F79><b>[Applied at HUAWEI]</b></font>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=*</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 23%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=*</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan <br> <a href="#"> BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>  <strong>(Acceptance Rate: 23%)</strong>  <font color=538F79><b>[Applied at ZTE]</b></font>
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <u><b>Fangxin Liu*</b></u> <br> <a href="#"> PISA:Efficient Precision-Slice Framework forLLMs with Adaptive Numerical Type</a>  <strong>(Acceptance Rate: 23%)</strong>  
@@ -75,10 +81,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"><strong>HPCA 2025</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Houshu he, Gang Li, <u><b>Fangxin Liu</b></u>, Li Jiang, Xiaoyang Liang, and Zhuoran Song <br> <a href="#"> GSArch: Breaking Memory Barriers in 3D Guassian  Splatting Training via Arcitectural Support</a>  <strong>(Acceptance Rate: 21%)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>IEEE TCAS-AI 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10744537"> SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a> 
+<tr ><td bgcolor="#F7F7F7"><strong>IEEE TCAS-AI 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10744537"> SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a>  <font color=538F79><b>[Applied at HUAWEI]</b></font>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>IEEE TODAES 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"> Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Ning Yang, Haomin Li and Li Jiang <br> <a href="https://dl.acm.org/doi/abs/10.1145/3701033"> STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization</a>  <strong>(CCF Tier B)</strong>
+<tr ><td style="font-size:inherit;"><strong>IEEE TODAES 2024</strong><br>(Imp. Jour. in Design Automation)</td><td style="font-size:inherit;"> Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Ning Yang, Haomin Li and Li Jiang <br> <a href="https://dl.acm.org/doi/abs/10.1145/3701033"> STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization</a>  <strong>(CCF Tier B)</strong>  <font color=538F79><b>[Applied at Yizhu Tech.]</b></font>
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>ASP-DAC 2025</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Zongwu Wang=, Peng Xu, Shiyuan Huang and Li Jiang <br> <a href="https://dl.acm.org/doi/abs/10.1145/3658617.3697565"> Exploiting Differential-Based Data Encoding for Enhanced Query Efficiency</a>  <strong>(Acceptance Rate: 28%)</strong>
@@ -113,7 +119,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td bgcolor="#F7F7F7"><strong>MICRO 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhuoran Song, Houshu He,<u><b>Fangxin Liu*</b></u>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang <br> <a href="https://ieeexplore.ieee.org/abstract/document/10764630"> SRender: Boosting Neural Radiance Field Efficiency via  Sensitivity-Aware Dynamic Precision Rendering</a>  <strong>(Acceptance Rate: 22%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang <br> <a href="https://ieeexplore.ieee.org/document/10561563"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
+<tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang,and Li Jiang <br> <a href="https://ieeexplore.ieee.org/document/10561563"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
 
