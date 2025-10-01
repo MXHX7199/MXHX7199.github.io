@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Fangxin (Leon) Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU). I am also a Research Fellow at the Shanghai Qi Zhi Institute and an Associate Professor at Shanghai Customs College (part-time). My research focuses on neural network acceleration (e.g., mixed-precision computing and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
+Fangxin (Leon) Liu is an Assistant Professor and Ph.D. supervisor at Shanghai Jiao Tong University (SJTU). I also serve as a Research Fellow at the Shanghai Qi Zhi Institute and a part-time Associate Professor at Shanghai Customs College. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
 
 I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. My work has been recognized with several honors, including the Spark Award from HUAWEI, the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM China Shanghai Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2022. Up to now, I have published over 50 papers (as <u><b>first or corresponding author</b></u>), with more than <u><b>30</b></u> of them in <u><b>CCF Tier A</b></u>, including top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, DAC, IEEE TC, TPDS, and TCAD.
 <!-- You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
@@ -19,6 +19,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Sep./20/2025` Our team won the Grand Prize (Chinese: 图计算系统设计大赛特等奖) in the [CCF Sys2025][https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A] Graph Computing System Design Competition, and was also honored with the Best Project Poster Award (Chinese: 最佳项目海报奖). Congratulations to Zongwu, Chenyang, and teammates.
+
 `Sep./05/2025` Our paper "BLADE" on DRAM-based LLM Acceleration has been accepted to [ASP-DAC 2026](https://www.aspdac.com/aspdac2026). Congratulations to Yilong.
 
 
