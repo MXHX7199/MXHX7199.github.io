@@ -19,5 +19,5 @@ redirect_from:
 * CCF Architecture Doctoral Dissertation Nomination, 2023.
 * 2023 ACM Shanghai Doctoral Dissertation Award (only 3 students).
 * 2023 Shanghai CCF Outstanding Dissertation Award (only 2 students).
-* CCF Sys2025 Graph Computing System Design Competition
-* CCF Sys2025 Best Project Poster Award
+* CCF Sys2025 Graph Computing System Design Competition (only 2 teams).
+* CCF Sys2025 Best Project Poster Award (only 1 project).
