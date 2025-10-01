@@ -19,7 +19,7 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Sep./20/2025` Our team won the Grand Prize (Chinese: 图计算系统设计大赛特等奖) in the [CCF Sys2025](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A) Graph Computing System Design Competition, and was also honored with the Best Project Poster Award (Chinese: 最佳项目海报奖). Congratulations to Zongwu, Chenyang, and teammates.
+`Sep./20/2025` Our team won the Grand Prize (Chinese: 图计算系统设计大赛特等奖) in the [CCF Sys2025 Graph Computing System Design Competition](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A), and was also honored with the [Best Project Poster Award](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A) (Chinese: 最佳项目海报奖). Congratulations to Zongwu, Chenyang, and teammates.
 
 `Sep./05/2025` Our paper "BLADE" on DRAM-based LLM Acceleration has been accepted to [ASP-DAC 2026](https://www.aspdac.com/aspdac2026). Congratulations to Yilong.
 
