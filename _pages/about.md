@@ -19,6 +19,9 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Oct./11/2025` Our team won the [First Prize and Third Prize](https://mp.weixin.qq.com/s/wZfZkDkeL2mrB8OWYXd4Jw) in the 2nd Open Source Community Competition on Integrated Chip and Chiplet Technology (Chinese: [第二届集成芯片和芯粒技术开源社区大赛一等奖](https://mp.weixin.qq.com/s/1r7IpKMPQMPnPtRcgxYwxQ)), which was held alongside the [3rd Integrated Chip and Chiplet Conference](https://mp.weixin.qq.com/s/uk7T5agpwqQtEFaLGzAyNA) co-hosted by Wuhan University, Institute of Computing Technology of the Chinese Academy of Sciences, and Fudan University . Congratulations to Ning Yang, Junjie and teammates.
+
+
 `Sep./20/2025` Our team won the Grand Prize (Chinese: 图计算系统设计大赛特等奖) in the [CCF Sys2025 Graph Computing System Design Competition](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A), and was also honored with the [Best Project Poster Award](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A) (Chinese: 最佳项目海报奖). Congratulations to Zongwu, Chenyang, and teammates.
 
 `Sep./05/2025` Our paper "BLADE" on DRAM-based LLM Acceleration has been accepted to [ASP-DAC 2026](https://www.aspdac.com/aspdac2026). Congratulations to Yilong.

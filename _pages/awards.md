@@ -21,3 +21,4 @@ redirect_from:
 * 2023 Shanghai CCF Outstanding Dissertation Award (only 2 students).
 * CCF Sys2025 Graph Computing System Design Competition (only 2 teams).
 * CCF Sys2025 Best Project Poster Award (only 1 project).
+* 1st Prize and 3rd Prize in the 2nd Open Source Community Competition on Integrated Chip and Chiplet Technology.
