@@ -19,6 +19,20 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+Nov./11/2025 Our two papers on graph-based memory optimization and sparse Transformer acceleration have been accepted to PPoPP 2026. Congratulations to Hanjing and all co-authors!
+
+Nov./11/2025 Our three papers on Large Number Modular Multiplication, LLM Inference Acceleration, and CPU-GPU Heterogeneous Computing have been accepted to DATE 2026. Congratulations to Haomin, Yuwei, Yuang and all co-authors!
+
+Nov./10/2025 Our paper "ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process" has been awarded [Outstanding Paper](https://acmmm2025.org/awards/) in Systems Theme at ACM MM 2025. Congratulations to Junjie and all co-authors!
+
+Nov./08/2025 Our two papers on 3D Gaussian Splatting (3DGS) Acceleration have been accepted to HPCA 2026. Congratulations to Haomin and all co-authors!
+
+Nov./08/2025 Our paper "SpecQuant" on Frequency-Domain Low-Bit Quantization has been accepted to AAAI 2026. Congratulations to Zhixiong and all co-authors!
+
+Nov./03/2025 Our paper "MIXQ" on Mixed-Precision Compiler Acceleration has been accepted to ACM TACO 2025! Congratulations to Shiyuan and all co-authors!
+
+Nov./02/2025 Our paper on Variable-Length Encoding for Mixed-Precision LLM Acceleration has been accepted to ACM TACO 2025! Congratulations to Ning Yang and all co-authors!
+
 `Oct./11/2025` Our team won the [First Prize and Third Prize](https://mp.weixin.qq.com/s/wZfZkDkeL2mrB8OWYXd4Jw) in the 2nd Open Source Community Competition on Integrated Chip and Chiplet Technology (Chinese: [第二届集成芯片和芯粒技术开源社区大赛一等奖](https://mp.weixin.qq.com/s/1r7IpKMPQMPnPtRcgxYwxQ)), which was held alongside the [3rd Integrated Chip and Chiplet Conference](https://mp.weixin.qq.com/s/uk7T5agpwqQtEFaLGzAyNA) co-hosted by Wuhan University, Institute of Computing Technology of the Chinese Academy of Sciences, and Fudan University . Congratulations to Ning Yang, Junjie and teammates.
 
 
