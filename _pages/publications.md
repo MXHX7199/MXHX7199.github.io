@@ -14,22 +14,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 
-<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2026</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Jingkui Yang, Zongwu Wang, CHenyang Guan, Yu Feng, Li Jiang, and Haibing Guan<br> <a href="#">EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse</a> <strong>(Acceptance Rate: 10.6%)</strong> 
+<tr ><td bgcolor="#F7F7F7"><strong>ASPLOS 2026</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Jingkui Yang, Zongwu Wang, CHenyang Guan, Yu Feng, Li Jiang, and Haibing Guan<br> <a href="#">EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse</a> <strong>(Acceptance Rate: 10.6%)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>HPCA 2026</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> He Zhu, Zheng Liu, Xingyang Li, Anbang Wu, Jieru Zhao, <u><b>Fangxin Liu</b></u>, Yiming Gan, Jingwen Leng, and Yu Feng <br> <a href="#">Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering and Accelerated Stereo Rasterization</a>  <strong>(Acceptance Rate: 10.6%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>ASPLOS 2026</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> He Zhu, Zheng Liu, Xingyang Li, Anbang Wu, Jieru Zhao, <u><b>Fangxin Liu</b></u>, Yiming Gan, Jingwen Leng, and Yu Feng <br> <a href="#">Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering and Accelerated Stereo Rasterization</a>  <strong>(Acceptance Rate: 10.6%)</strong> 
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>TACO 2025</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Ning Yang, <u><b>Fangxin Liu*</b></u>, Junjie Wang, Chenyang Guan, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan<br> <a> Rethinking Variable-Length Encoding: Exploiting Bit Sparsity for Parallel Decoding in LLM Accelerators</a> <strong>(CCF Tier A)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>IEEE TCAD 2025</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"> Shiyuan Huang, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Ning Yang, Haomin Li, Haibing Guan, and Li Jiang<br> <a href="#"> MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</a>  <strong>(CCF Tier A)</strong> 
+<tr ><td style="font-size:inherit;"><strong>TACO 2025</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"> Shiyuan Huang, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Ning Yang, Haomin Li, Haibing Guan, and Li Jiang<br> <a href="#"> MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</a>  <strong>(CCF Tier A)</strong> 
 </td></tr>
 
-<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2026</strong><br>(Top Conf. in Computer System)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Hanjing Shen, <u><b>Fangxin Liu=,*</b></u>, Jian Liu, Li Jiang, and Haibing Guan<br> <a href="#"> BEEMS: Boosting Machine Vision Efficiency via Computation  Graph-Based Memory Smoothing</a> <strong>(Acceptance Rate: 11.5%)</strong> 
+<tr ><td bgcolor="#F7F7F7"><strong>PPoPP 2026</strong><br>(Top Conf. in Computer System)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Hanjing Shen, <u><b>Fangxin Liu=,*</b></u>, Jian Liu, Li Jiang, and Haibing Guan<br> <a href="#"> BEEMS: Boosting Machine Vision Efficiency via Computation  Graph-Based Memory Smoothing</a> <strong>(Acceptance Rate: 11.5%)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;"><strong>HPCA 2026</strong><br>(Top Conf. in Computer System)</td><td style="font-size:inherit;"> Wenhao Dai, Haodong Deng, Mengfei Rong, Xinyu Yang, Hongyu Liu, <u><b>Fangxin Liu</b></u>, Hailong Yang, Qianwen Cao, and Qingxiao Sun <br> <a href="#">  Accelerating Sparse Transformer Inference on GPU</a>  <strong>(Acceptance Rate: 11.5%)</strong> 
+<tr ><td style="font-size:inherit;"><strong>PPoPP 2026</strong><br>(Top Conf. in Computer System)</td><td style="font-size:inherit;"> Wenhao Dai, Haodong Deng, Mengfei Rong, Xinyu Yang, Hongyu Liu, <u><b>Fangxin Liu</b></u>, Hailong Yang, Qianwen Cao, and Qingxiao Sun <br> <a href="#">  Accelerating Sparse Transformer Inference on GPU</a>  <strong>(Acceptance Rate: 11.5%)</strong> 
 </td></tr>
 
 <tr ><td bgcolor="#F7F7F7"><strong>DATE 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7">  Haomin Li, <u><b>Fangxin Liu*</b></u>, Chenyang Guan, Zongwu Wang, Li Jiang and Haibing Guan<br> <a href="#"> LaMoS: Enabling Efficient Lrge Number Modular Multiplication through SRAM-based CiM Acceleration</a> <strong>(Acceptance Rate: 25%)</strong> 
