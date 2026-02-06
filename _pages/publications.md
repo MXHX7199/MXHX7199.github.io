@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
-<tr ><td bgcolor="#F7F7F7"><strong>Technical Report</strong><br>(with Huawei MindSpore)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, ZQinghua Zhang=, Hanjing Shen=, Zhibo Liang, Li Jiang, Haibing Guan, Chong Bao, and Xuefeng Jin<br> <a href="#">EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse</a> <strong>[Applied at HUAWEI]</strong> 
+<tr ><td bgcolor="#F7F7F7"><strong>Technical Report</strong><br>(with Huawei MindSpore)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Qinghua Zhang=, Hanjing Shen=, Zhibo Liang, Li Jiang, Haibing Guan, Chong Bao, and Xuefeng Jin<br> <a href="http://arxiv.org/abs/2602.00748"> HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures</a> <strong>[Applied at HUAWEI]</strong> 
 </td></tr>
 
 <tr ><td style="font-size:inherit;"><strong>TACO 2026</strong><br>(Top Jour. in Computer Architecture)</td><td style="font-size:inherit;"> Ning Yang=, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Haomin Li, Hongbo Zhao, Xinran Liang, Li Jiang, and Haibing Guan<<br> <a href="#">NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</a>  <strong>(CCF Tier A)</strong> 
