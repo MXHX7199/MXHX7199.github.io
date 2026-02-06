@@ -19,7 +19,11 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Nov./26/2025` O Our two papers on MoE memory bottleneck optimization and 3DGS collaborative rendering acceleration have been accepted to ASPLOS 2026. Congratulations to Ning Yang and all co-authors!
+`Jan./24/2026` Our paper "NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression" has been accepted to ACM TACO 2026. Congratulations to Ning Yang and all co-authors!
+
+`Jan./21/2026` Our work “TFLOP: An FPGA-Affinity Edge LLM Accelerator with Unified LUT-based Optimization” has received the Special Feature Award at the ASP-DAC University LSI Design Contest 2026.
+
+`Nov./26/2025` Our two papers on MoE memory bottleneck optimization and 3DGS collaborative rendering acceleration have been accepted to ASPLOS 2026. Congratulations to Ning Yang and all co-authors!
 
 `Nov./11/2025` Our two papers on graph-based memory optimization and sparse Transformer acceleration have been accepted to PPoPP 2026. Congratulations to Hanjing and all co-authors!
 

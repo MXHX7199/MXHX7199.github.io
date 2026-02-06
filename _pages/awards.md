@@ -23,3 +23,4 @@ redirect_from:
 * CCF Sys2025 Best Project Poster Award (only 1 project).
 * 1st Prize and 3rd Prize in the 2nd Open Source Community Competition on Integrated Chip and Chiplet Technology.
 * ACM MM 2025 Outstanding Paper (Systems Theme, Only 3 papers).
+* Special Feature Award, ASP-DAC University LSI Design Contest 2026 (Only 2 teams).
