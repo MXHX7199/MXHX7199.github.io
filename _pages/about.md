@@ -19,9 +19,11 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Feb./04/2026` Our joint technical report with Huawei MindSpore team, HyperOffload (a supernode memory management framework), is released. It enables proactive remote memory scheduling, overlaps data transfer and computation, cuts peak memory by 26% with end-to-end performance lossless in MindSpore. arXiv: [http://arxiv.org/abs/2602.00748](http://arxiv.org/abs/2602.00748)
+
 `Jan./24/2026` Our paper "NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression" has been accepted to ACM TACO 2026. Congratulations to Ning Yang and all co-authors!
 
-`Jan./21/2026` Our work “TFLOP: An FPGA-Affinity Edge LLM Accelerator with Unified LUT-based Optimization” has received the Special Feature Award at the ASP-DAC University LSI Design Contest 2026.
+`Jan./21/2026` Our work “TFLOP: An FPGA-Affinity Edge LLM Accelerator with Unified LUT-based Optimization” has received the [Special Feature Award](https://mp.weixin.qq.com/s/rLS4hiEnpIpnJWj6FWYikg) at the ASP-DAC University LSI Design Contest 2026.
 
 `Nov./26/2025` Our two papers on MoE memory bottleneck optimization and 3DGS collaborative rendering acceleration have been accepted to ASPLOS 2026. Congratulations to Ning Yang and all co-authors!
 
