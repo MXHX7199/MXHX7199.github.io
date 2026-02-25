@@ -19,6 +19,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Feb./24/2026` Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to DAC 2026. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!
+
 `Feb./04/2026` Our joint technical report with Huawei MindSpore team, HyperOffload (a supernode memory management framework), is released. It enables proactive remote memory scheduling, overlaps data transfer and computation, cuts peak memory by 26% with end-to-end performance lossless in MindSpore. arXiv: [http://arxiv.org/abs/2602.00748](http://arxiv.org/abs/2602.00748)
 
 `Jan./24/2026` Our paper "NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression" has been accepted to ACM TACO 2026. Congratulations to Ning Yang and all co-authors!

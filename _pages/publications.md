@@ -13,6 +13,25 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- After joining SJTU. -->
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<tr><td style="font-size:inherit;"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Haomin Li, Bowen Zhu, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Xinran Liang, Li Jiang and Haibing Guan<br> <a href="#">GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</a> <strong>(CCF Tier A)</strong>
+</td></tr>
+
+<tr><td bgcolor="#F7F7F7"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" bgcolor="#F7F7F7"> Haomin Li, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Shiyuan Huang, Ning Yang, Chenyang Guan, Tao Yang, Xinran Liang and Haibing Guan<br> <a href="#">Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</a> <strong>(CCF Tier A)</strong>
+</td></tr>
+
+
+
+<tr><td style="font-size:inherit;"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Chenyang Guan <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Ning Yang and Haibing Guan<br> <a href="#">ExQuant: Global Expert Ranking–Guided Mixed-Precision Quantization for Efficient MoE Inference</a> <strong>(CCF Tier A)</strong>
+</td></tr>
+
+<tr><td bgcolor="#F7F7F7"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" bgcolor="#F7F7F7"> Zhibai Huang, Chen Chen, James Yen, Yihan Shen, Yongchen Xie, Zhixiang Wei, Kailiang Xu, Yun Wang, <u><b>Fangxin Liu*</b></u>, Tao Song, Mingyuan Xia and Zhengwei Qi<br> <a href="#">The Phantom of PCIe: Constraining Generative Artificial Intelligences for Practical Peripherals Trace Synthesizing</a> <strong>(CCF Tier A)</strong>
+</td></tr>
+
+<tr><td style="font-size:inherit;"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Zhibai Huang, James Yen, Zhixiang Wei, Yun Wang, <u><b>Fangxin Liu*</b></u> and Zhengwei Qi<br> <a href="#">SkiST: Memory-Efficient Fine-Tuning of Spiking Neural Networks via Spatio-Temporal Adaptation</a> <strong>(CCF Tier A)</strong>
+</td></tr>
+
+
+
 <tr ><td bgcolor="#F7F7F7"><strong>Technical Report</strong><br>(with Huawei MindSpore)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Qinghua Zhang=, Hanjing Shen=, Zhibo Liang, Li Jiang, Haibing Guan, Chong Bao, and Xuefeng Jin<br> <a href="http://arxiv.org/abs/2602.00748"> HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures</a> <strong>[Applied at HUAWEI]</strong> 
 </td></tr>
 
