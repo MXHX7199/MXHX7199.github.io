@@ -3,10 +3,11 @@ permalink: /
 title: "Welcome to Fangxin Liu's Homepage~"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 <style>
   .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #333; line-height: 1.6; }
   
@@ -41,7 +42,7 @@ redirect_from:
   }
   .stat-sub {
     font-size: 10px;
-    color: #888;
+    color: #999;
     line-height: 1.2;
     margin-top: 3px;
     display: block;
@@ -51,7 +52,7 @@ redirect_from:
   .news-box { margin-top: 25px; }
   .news-item {
     display: flex;
-    margin-bottom: 20px; /* 充足的回车间距 */
+    margin-bottom: 20px;
     align-items: flex-start;
   }
   .news-date {
@@ -94,10 +95,10 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
   <div class="stat-card">
     <span class="stat-num">60+</span>
     <span class="stat-label">Total Pubs</span>
-    <span class="stat-sub">as 1st or Corr. Author/span>
+    <span class="stat-sub">as 1st or Corr. Author</span>
   </div>
   <div class="stat-card">
-    <span class="stat-num">5+</span>
+    <span class="stat-num">4+</span>
     <span class="stat-label">Industrial Adoption</span>
     <span class="stat-sub">Applied at Huawei, Ant, etc.</span>
   </div>
@@ -132,7 +133,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 <div class="news-item">
   <span class="news-date">Jan. 24, 2026</span>
-  <div class="news-text">📄 Our paper "NICE: Deep Neural Network Acceleration via Index Assisted Compression" has been accepted to <b>ACM TACO 2026</b>.</div>
+  <div class="news-text">📄 Our paper "NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression" has been accepted to <b>ACM TACO 2026</b>.</div>
 </div>
 
 <div class="news-item">
@@ -147,7 +148,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 <div class="news-item">
   <span class="news-date">Nov. 11, 2025</span>
-  <div class="news-text">📄 Two papers on graph-based memory and sparse Transformer accepted to <b>PPoPP 2026</b>.</div>
+  <div class="news-text">📄 Two papers on graph-based memory and sparse Transformer acceleration accepted to <b>PPoPP 2026</b>.</div>
 </div>
 
 <div class="news-item">
@@ -182,6 +183,8 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item"><span class="news-date">Nov. 18, 2022</span><div class="news-text">📄 Paper "SIMSnn" accepted by <b>DATE 2023</b>.</div></div>
 
 </details>
+
+</div>
 
 ---
 
