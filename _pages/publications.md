@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 <style>
   .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 100%; color: #333; }
   .pub-legend { font-size: 13px; color: #666; margin-bottom: 25px; padding: 12px 15px; background: #fbfbfb; border-left: 5px solid #538F79; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
@@ -39,7 +40,69 @@ author_profile: true
     .pub-links { gap: 5px; }
     .link-btn { padding: 1px 6px; font-size: 11px; }
   }
+
+ /* 强制单行容器 */
+  .stats-simple-row {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important; /* 强制不换行 */
+    justify-content: space-between;
+    align-items: center;
+    background: #fcfcfc;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    padding: 10px 0;
+    margin: 20px 0 30px 0;
+    width: 100%;
+  }
+
+  .stat-unit {
+    flex: 1;
+    text-align: center;
+    border-right: 1px dotted #ddd;
+    padding: 0 5px;
+    min-width: 0; /* 防止内容撑开容器 */
+  }
+
+  .stat-unit:last-child {
+    border-right: none;
+  }
+
+  .stat-num {
+    font-size: 19px;
+    font-weight: 800;
+    color: #538F79;
+    display: block;
+    line-height: 1.1;
+  }
+
+  .stat-text {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: #333;
+    white-space: nowrap; /* 强制文字不换行 */
+  }
+
+  .stat-sub {
+    font-size: 10px;
+    color: #999;
+    display: block;
+    transform: scale(0.9); /* 让备注更小更精致 */
+  }
+
+  /* 移动端微调：依然保持一行，缩小字号 */
+  @media (max-width: 600px) {
+    .stat-num { font-size: 16px; }
+    .stat-text { font-size: 11px; }
+    .stat-sub { display: none; }
+  }
 </style>
+
+<div class="stats-simple-row"><div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">Architecture</span><span class="stat-sub">ISCA / MICRO / HPCA / ASPLOS</span></div>
+
+<div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">EDA / Automation</span><span class="stat-sub">DAC / ICCAD</span></div>
+
+<div class="stat-unit" style="border-bottom:none;"><span class="stat-num" style="color: #d48806;">3+</span><span class="stat-text" style="color: #d48806;">Awards</span><span class="stat-sub">Best Paper / Oral</span></div></div>
 
 <div class="pub-container">
   <div class="pub-legend">
