@@ -137,7 +137,7 @@ author_profile: true
     <div class="pub-content">
       <a href="#" class="pub-title">COMET: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices</a>
       <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
-      <div class="pub-authors">Yilong Zhao, Onur Mutlu, Mingyu Gao, <b>Fangxin Liu*</b>, Jian Liu, Haibing Guan, Li Jiang</div>
+      <div class="pub-authors">Yilong Zhao, Onur Mutlu, Mingyu Gao, <b>Fangxin Liu*</b>, Jian Liu, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
   </div>
