@@ -98,7 +98,7 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
     <span class="stat-sub">as 1st or Corr. Author</span>
   </div>
   <div class="stat-card">
-    <span class="stat-num">4+</span>
+    <span class="stat-num">5+</span>
     <span class="stat-label">Industrial Adoption</span>
     <span class="stat-sub">Applied at Huawei, Ant, etc.</span>
   </div>
