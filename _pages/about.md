@@ -113,7 +113,7 @@ My research has been successfully adopted by leading technology companies, inclu
 ---
 
 ### 🔥 Recruitment
-Our [team](https://acalab.sjtu.edu.cn/CN/Default.aspx) is actively seeking self-motivated **PhD, Master, and Undergraduate students** who are interested in Computer Architecture, Efficient AI acceleration, and PIM Design. If you are interested, please [email me](mailto:liufangxin@sjtu.edu.cn) your CV.
+Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-motivated **PhD, Master, and Undergraduate students** interested in Computer Architecture, Efficient AI acceleration, and PIM Design. If you are interested, please [email me](mailto:liufangxin@sjtu.edu.cn) your CV.
 
 ---
 
@@ -121,95 +121,67 @@ Our [team](https://acalab.sjtu.edu.cn/CN/Default.aspx) is actively seeking self-
 <div class="news-box">
 
 <div class="news-item">
-  <span class="news-date">Feb./24/2026</span>
+  <span class="news-date">Feb. 24, 2026</span>
   <div class="news-text">🚀 Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Feb./04/2026</span>
-  <div class="news-text">📄 Our joint technical report with Huawei MindSpore team, <b>HyperOffload</b> (a supernode memory management framework), is released. It cuts peak memory by 26% with end-to-end performance lossless. arXiv: <a href="http://arxiv.org/abs/2602.00748">2602.00748</a></div>
+  <span class="news-date">Feb. 04, 2026</span>
+  <div class="news-text">📄 Our joint technical report with Huawei MindSpore team, <b>HyperOffload</b>, is released. It cuts peak memory by 26% with end-to-end performance lossless. arXiv: <a href="http://arxiv.org/abs/2602.00748">2602.00748</a></div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Jan./24/2026</span>
-  <div class="news-text">📄 Our paper "NICE: Deep Neural Network Acceleration via Index Assisted Compression" has been accepted to <b>ACM TACO 2026</b>. Congratulations to Ning Yang!</div>
+  <span class="news-date">Jan. 24, 2026</span>
+  <div class="news-text">📄 Our paper "NICE: Deep Neural Network Acceleration via Index Assisted Compression" has been accepted to <b>ACM TACO 2026</b>.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Jan./21/2026</span>
-  <div class="news-text">🏆 Our work “TFLOP” has received the <b>Special Feature Award</b> at the ASP-DAC University LSI Design Contest 2026.</div>
+  <span class="news-date">Jan. 21, 2026</span>
+  <div class="news-text">🏆 Our work “TFLOP” has received the <a href="https://mp.weixin.qq.com/s/rLS4hiEnpIpnJWj6FWYikg"><b>Special Feature Award</b></a> at the ASP-DAC University LSI Design Contest 2026.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Nov./26/2025</span>
-  <div class="news-text">📄 Our two papers on MoE memory bottleneck and 3DGS rendering have been accepted to <b>ASPLOS 2026</b>. Congratulations to Ning Yang and all!</div>
+  <span class="news-date">Nov. 26, 2025</span>
+  <div class="news-text">📄 Our two papers on MoE memory bottleneck and 3DGS rendering have been accepted to <b>ASPLOS 2026</b>.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Nov./11/2025</span>
-  <div class="news-text">📄 Two papers on graph-based memory and sparse Transformer accepted to <b>PPoPP 2026</b>. Congrats to Hanjing!</div>
+  <span class="news-date">Nov. 11, 2025</span>
+  <div class="news-text">📄 Two papers on graph-based memory and sparse Transformer accepted to <b>PPoPP 2026</b>.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Nov./11/2025</span>
-  <div class="news-text">📄 Three papers on Modular Multiplication, LLM, and Heterogeneous Computing accepted to <b>DATE 2026</b>.</div>
+  <span class="news-date">Nov. 11, 2025</span>
+  <div class="news-text">📄 Three papers on Modular Multiplication, LLM, and CPU-GPU computing accepted to <b>DATE 2026</b>.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">Nov./10/2025</span>
-  <div class="news-text">🏆 <b>ASTER</b> awarded <b>Outstanding Paper</b> (Systems Theme) at ACM MM 2025. Congratulations to Junjie!</div>
+  <span class="news-date">Nov. 10, 2025</span>
+  <div class="news-text">🏆 <b>ASTER</b> awarded <a href="https://acmmm2025.org/awards/"><b>Outstanding Paper</b></a> in Systems Theme at ACM MM 2025.</div>
 </div>
 
 <details>
-<summary>🕒 Click to view all 40+ Archived News (2025 - 2022)</summary>
+<summary>🕒 Click to view all Archived News (2025 - 2022)</summary>
 <br>
 
-<div class="news-item"><span class="news-date">Nov./08/2025</span><div class="news-text">📄 Two papers on 3DGS Acceleration accepted to <b>HPCA 2026</b>. Congrats to Haomin!</div></div>
-<div class="news-item"><span class="news-date">Nov./08/2025</span><div class="news-text">📄 Paper "SpecQuant" accepted to <b>AAAI 2026</b>. Congrats to Zhixiong!</div></div>
-<div class="news-item"><span class="news-date">Nov./03/2025</span><div class="news-text">📄 Paper "MIXQ" on Mixed-Precision Compiler accepted to <b>ACM TACO 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./02/2025</span><div class="news-text">📄 Paper on Variable-Length Encoding for LLMs accepted to <b>ACM TACO 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Oct./11/2025</span><div class="news-text">🏆 Won <b>First & Third Prize</b> in the 2nd Chiplet Technology Open Source Competition.</div></div>
-<div class="news-item"><span class="news-date">Sep./20/2025</span><div class="news-text">🏆 Won <b>Grand Prize</b> and <b>Best Poster Award</b> in CCF Sys2025 Graph Computing Competition.</div></div>
-<div class="news-item"><span class="news-date">Sep./05/2025</span><div class="news-text">📄 Paper "BLADE" on DRAM-based LLM Acceleration accepted to <b>ASP-DAC 2026</b>.</div></div>
-<div class="news-item"><span class="news-date">Aug./29/2025</span><div class="news-text">📰 "FlexQuant" framework reported by <b>Ant Group Asystem Team</b>. Congrats to Zongwu!</div></div>
-<div class="news-item"><span class="news-date">Aug./21/2025</span><div class="news-text">📄 Paper on Flexible Quantization for LLM accepted to <b>EMNLP 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./15/2025</span><div class="news-text">📄 Paper on Quantum Computing Acceleration accepted to <b>MICRO-58 (2025)</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./06/2025</span><div class="news-text">📄 Adaptive Dynamic Layer-skipping for LLM accepted to <b>ACM MM (Oral) 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./01/2025</span><div class="news-text">📄 Three papers on PIM-LLM, Circuit Opt, and PCIe Tracing accepted to <b>ICCAD 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">May./03/2025</span><div class="news-text">📄 "Collision Detection Accelerator Based on RRAM-TCAMs" accepted to <b>IEEE TCAD 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Apr./29/2025</span><div class="news-text">📄 Two papers on PIM+NeRF and PIM+Database accepted to <b>ASPLOS 2026</b>.</div></div>
-<div class="news-item"><span class="news-date">Apr./16/2025</span><div class="news-text">📄 "Enhancing Robustness of Binary HDC" accepted to <b>ACM TACO 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Mar./22/2025</span><div class="news-text">📄 Two papers on HDC and Quantum-Classical Computing accepted to <b>ISCA 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Feb./15/2025</span><div class="news-text">📄 Four papers on LLM acceleration and FHE accepted to <b>DAC 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./13/2024</span><div class="news-text">📄 Five papers on HDC and LLM acceleration accepted to <b>DATE 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./03/2024</span><div class="news-text">📄 Two papers on Sparse Compilation and Gaussian Splatting accepted to <b>HPCA 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./01/2024</span><div class="news-text">📄 "SearchQ" on data-free LLM compression accepted to <b>TCAS-AI 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Oct./03/2024</span><div class="news-text">📄 "STCO" on AI Compilation accepted to <b>TODAES 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Sep./08/2024</span><div class="news-text">📄 Two papers on PQ Compression and SNN Quantization accepted to <b>ASP-DAC 2025</b>.</div></div>
-<div class="news-item"><span class="news-date">Aug./26/2024</span><div class="news-text">💰 Received <b>NSFC Youth Fund</b> grant for Adaptive Compression Encoding.</div></div>
-<div class="news-item"><span class="news-date">Aug./22/2024</span><div class="news-text">📄 Paper on compiler plug-in for SpMM accepted to <b>IEEE TCAD 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Aug./02/2024</span><div class="news-text">📄 Four papers on LLMs, SNNs, and Nested Address Translation accepted to <b>ICCD 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./18/2024</span><div class="news-text">📄 Two papers on SNN and NeRF accelerators accepted to <b>MICRO 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./06/2024</span><div class="news-text">🏆 Received <b>2023 ACM Shanghai Doctoral Dissertation Award</b>.</div></div>
-<div class="news-item"><span class="news-date">Jun./07/2024</span><div class="news-text">📄 Paper on SNN Accelerator accepted to <b>TPDS 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">May./25/2024</span><div class="news-text">📄 Three papers accepted by <b>ChinaSys24</b> in Hangzhou.</div></div>
-<div class="news-item"><span class="news-date">May./20/2024</span><div class="news-text">📄 "LowPASS" ReRAM SNN Accelerator accepted to <b>ISLPED 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Mar./20/2024</span><div class="news-text">📄 "UM-PIM" uniform memory mechanism accepted to <b>ISCA 2024</b>.</div></div>
-<div class="news-item"><span class="news-date">Mar./18/2024</span><div class="news-text">🏆 Received <b>2023 Shanghai CCF Outstanding Dissertation Award</b>.</div></div>
-<div class="news-item"><span class="news-date">Feb./27/2024</span><div class="news-text">📄 Two papers accepted by <b>DAC 2024</b>. Congrats to Ning Yang!</div></div>
-<div class="news-item"><span class="news-date">Dec./29/2023</span><div class="news-text">📰 "SPARK" framework reported by <b>Jiqizhixin (机器之心)</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./12/2023</span><div class="news-text">📄 "RTSA" accepted by <b>DATE 2024</b>. Congrats to Jiahao!</div></div>
-<div class="news-item"><span class="news-date">Oct./23/2023</span><div class="news-text">📄 "SPARK" accepted by <b>HPCA 2024</b>. Congrats to Ning Yang!</div></div>
-<div class="news-item"><span class="news-date">Sep./09/2023</span><div class="news-text">📄 Four papers accepted by <b>ASP-DAC 2023</b>.</div></div>
-<div class="news-item"><span class="news-date">Aug./25/2023</span><div class="news-text">📄 "PSQ" accepted by <b>ICCD 2023</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./21/2023</span><div class="news-text">📄 "HyperNode" accepted by <b>ICCAD 2023</b>.</div></div>
-<div class="news-item"><span class="news-date">Jul./18/2023</span><div class="news-text">📄 "ERA-BS" accepted by <b>IEEE TC 2023</b>.</div></div>
-<div class="news-item"><span class="news-date">Feb./24/2023</span><div class="news-text">📄 "HyperAttack" accepted by <b>DAC 2023</b>.</div></div>
-<div class="news-item"><span class="news-date">Nov./18/2022</span><div class="news-text">📄 "SIMSnn" accepted by <b>DATE 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov. 08, 2025</span><div class="news-text">📄 Two papers on 3DGS Acceleration accepted to <b>HPCA 2026</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov. 08, 2025</span><div class="news-text">📄 Paper "SpecQuant" accepted to <b>AAAI 2026</b>.</div></div>
+<div class="news-item"><span class="news-date">Oct. 11, 2025</span><div class="news-text">🏆 Won <a href="https://mp.weixin.qq.com/s/wZfZkDkeL2mrB8OWYXd4Jw"><b>First & Third Prize</b></a> in the 2nd <a href="https://mp.weixin.qq.com/s/uk7T5agpwqQtEFaLGzAyNA">Chiplet Technology</a> Open Source Competition.</div></div>
+<div class="news-item"><span class="news-date">Sep. 20, 2025</span><div class="news-text">🏆 Won <a href="https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A"><b>Grand Prize and Best Project Poster Award</b></a> in CCF Sys2025 Graph Computing Competition.</div></div>
+<div class="news-item"><span class="news-date">Sep. 05, 2025</span><div class="news-text">📄 Paper "BLADE" on DRAM-based LLM Acceleration accepted to <a href="https://www.aspdac.com/aspdac2026"><b>ASP-DAC 2026</b></a>.</div></div>
+<div class="news-item"><span class="news-date">Aug. 29, 2025</span><div class="news-text">📰 "FlexQuant" framework reported by <a href="https://mp.weixin.qq.com/s/E3WQiKRk5-jLML5Mg0jEgw"><b>Ant Group Asystem Team</b></a>.</div></div>
+<div class="news-item"><span class="news-date">Aug. 21, 2025</span><div class="news-text">📄 Paper on Flexible Quantization for LLM accepted to <b>EMNLP 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul. 06, 2025</span><div class="news-text">📄 Adaptive Dynamic Layer-skipping Framework for LLM accepted to <b>ACM MM (Oral) 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul. 01, 2025</span><div class="news-text">📄 Three papers on PIM-LLM, circuit optimization, and PCIe tracing accepted to <b>ICCAD 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">May. 03, 2025</span><div class="news-text">📄 Paper on "Collision Detection Accelerator Based on RRAM-TCAMs" accepted to <b>IEEE TCAD 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Apr. 29, 2025</span><div class="news-text">📄 Two papers on "PIM+NeRF" and "PIM+Database" accepted by <b>ASPLOS 2026</b>.</div></div>
+<div class="news-item"><span class="news-date">Aug. 26, 2024</span><div class="news-text">💰 Received grant from <b>NSFC Youth Fund</b> for Adaptive Compression Encoding.</div></div>
+<div class="news-item"><span class="news-date">Jul. 06, 2024</span><div class="news-text">🏆 Received <b>2023 ACM Shanghai Doctoral Dissertation Award</b>.</div></div>
+<div class="news-item"><span class="news-date">Mar. 18, 2024</span><div class="news-text">🏆 Received <b>2023 Shanghai CCF Outstanding Dissertation Award</b>.</div></div>
+<div class="news-item"><span class="news-date">Dec. 29, 2023</span><div class="news-text">📰 "SPARK" framework reported in <a href="https://mp.weixin.qq.com/s/SvLTyAyY8mZEmPL4OZ5Bcw"><b>Jiqizhixin (机器之心)</b></a>.</div></div>
+<div class="news-item"><span class="news-date">Nov. 18, 2022</span><div class="news-text">📄 Paper "SIMSnn" accepted by <b>DATE 2023</b>.</div></div>
 
 </details>
-
-</div>
 
 ---
 
