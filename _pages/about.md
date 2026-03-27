@@ -81,7 +81,7 @@ redirect_from:
   }
 </style>
 
-Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. I also serve as a Research Fellow at the **Shanghai Qi Zhi Institute** and a part-time Associate Professor at **Shanghai Customs College**. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
+Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. I also serve as a Research Fellow at the **Shanghai Qi Zhi Institute**. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
 
 I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To date, I have published over **60 papers** as **first or corresponding author**, with more than **40 in CCF Tier A** venues, including top-tier architecture conferences and journals such as **ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD**. My work has been recognized with honors such as the **Spark Award from HUAWEI**, the **Outstanding Doctoral Dissertation Award** from the Shanghai Computer Society, the **ACM China Shanghai Excellent Doctoral Dissertation Award**, and the **Best Paper Award at DATE 2022**.
 
