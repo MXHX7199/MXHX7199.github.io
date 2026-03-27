@@ -794,15 +794,17 @@ author_profile: true
     </div>
   </div>
 
-<div class="year-header">2023</div>
+<div class="pub-container">
+
+  <div class="year-header">2023</div>
 
   <div class="pub-item">
     <span class="pub-venue">[IEEE TC '23]</span>
     <div class="pub-content">
-      <a href="#" class="pub-title">ERA-BS: Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
+      <a href="https://ieeexplore.ieee.org/document/972425" class="pub-title">ERA-BS: Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
       <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+      <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/972425" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
   </div>
 
@@ -829,6 +831,56 @@ author_profile: true
   <div class="year-header">2022</div>
 
   <div class="pub-item">
+    <span class="pub-venue">[SIGIR '22]</span>
+    <div class="pub-content">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761" class="pub-title">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>
+      <span class="tag-italic">(Top Conf. in IR)</span><span class="tag tag-acc">Acc: 24%</span>
+      <div class="pub-authors"><b>Fangxin Liu</b>, Haomin Li, Xiaokang Yang, Li Jiang</div>
+      <div class="pub-links"><a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[TCAD '22]</span>
+    <div class="pub-content">
+      <a href="https://ieeexplore.ieee.org/document/972425" class="pub-title">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a>
+      <span class="tag tag-ccf">CCF-A</span><span class="tag-italic">(Top Jour. in EDA)</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang</div>
+      <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/972425" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[DAC '22]</span>
+    <div class="pub-content">
+      <a href="/files/%5BDAC-2022%5DEBSP_preprint.pdf" class="pub-title">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks</a>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 24.7%</span>
+      <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang</div>
+      <div class="pub-links"><a href="/files/%5BDAC-2022%5DEBSP_preprint.pdf" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[DAC '22]</span>
+    <div class="pub-content">
+      <a href="/files/%5BDAC-2022%5DPIM-DH_preprint.pdf" class="pub-title">PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration</a>
+      <span class="tag tag-acc">Acc: 24.7%</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo</div>
+      <div class="pub-links"><a href="/files/%5BDAC-2022%5DPIM-DH_preprint.pdf" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[DAC '22]</span>
+    <div class="pub-content">
+      <a href="/files/%5BDAC-2022%5DSATO_preprint.pdf" class="pub-title">SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture</a>
+      <span class="tag tag-acc">Acc: 24.7%</span>
+      <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang</div>
+      <div class="pub-links"><a href="/files/%5BDAC-2022%5DSATO_preprint.pdf" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
     <span class="pub-venue">[DATE '22]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Self-Terminated Write of MLC ReRAM for Efficient Neuromorphic Computing</a>
@@ -841,40 +893,20 @@ author_profile: true
   <div class="pub-item">
     <span class="pub-venue">[AAAI '22]</span>
     <div class="pub-content">
-      <a href="#" class="pub-title">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between ANNs and SNNs</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20061" class="pub-title">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between ANNs and SNNs</a>
       <span class="tag tag-award">🏆 Oral (Top 15%)</span><span class="tag-italic">(Top Conf. in AI)</span>
       <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+      <div class="pub-links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20061" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
   </div>
 
   <div class="pub-item">
-    <span class="pub-venue">[TCAD '22]</span>
+    <span class="pub-venue">[ICASSP '22]</span>
     <div class="pub-content">
-      <a href="#" class="pub-title">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a>
-      <span class="tag tag-ccf">CCF-A</span><span class="tag-italic">(Top Jour. in EDA)</span>
-      <div class="pub-authors"><b>Fangxin Liu</b>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <span class="pub-venue">[DAC '22]</span>
-    <div class="pub-content">
-      <a href="#" class="pub-title">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized DNNs</a>
-      <span class="tag tag-acc">Acc: 24.7%</span><span class="tag-italic">(Top Conf. in EDA)</span>
-      <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Li Jiang</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <span class="pub-venue">[SIGIR '22]</span>
-    <div class="pub-content">
-      <a href="#" class="pub-title">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>
-      <span class="tag tag-acc">Acc: 24%</span><span class="tag-italic">(Top Conf. in IR)</span>
-      <div class="pub-authors"><b>Fangxin Liu</b>, Haomin Li, Xiaokang Yang, Li Jiang</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+      <a href="/files/%5BICASSP-22%5DDynSNN_preprint.pdf" class="pub-title">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a>
+      <span class="tag-italic">(Top Conf. in Signal Processing)</span><span class="tag tag-ccf" style="color:#67c23a; background:#f0f9eb; border:1px solid #e1f3d8;">CCF-B</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai</div>
+      <div class="pub-links"><a href="/files/%5BICASSP-22%5DDynSNN_preprint.pdf" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
   </div>
 
@@ -888,8 +920,88 @@ author_profile: true
     </div>
   </div>
 
-</div>
+  <div class="pub-item">
+    <span class="pub-venue">[ASPDAC '22]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">HAWIS: Hardware-Aware Automated Width Search for Accurate Robust BNN on ReRAM</a>
+      <span class="tag-italic">(Top Conf. in EDA)</span>
+      <div class="pub-authors">Qidong Tang, <b>Fangxin Liu</b>, et al.</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
 
+  <div class="pub-item">
+    <span class="pub-venue">[DAC '22]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a>
+      <span class="tag-italic">(Top Conf. in EDA)</span>
+      <div class="pub-authors">Tao Yang, <b>Fangxin Liu</b>, et al.</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[ICMR '22]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval</a>
+      <div class="pub-authors">Yongbiao Chen, <b>Fangxin Liu</b>, et al.</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="year-header">2021</div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[Frontiers '21]</span>
+    <div class="pub-content">
+      <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full" class="pub-title">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient SNN Training</a>
+      <span class="tag-italic">(SCI Tier 2, Impact Factor: 4.7)</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao=, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
+      <div class="pub-links"><a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[ICCD '21]</span>
+    <div class="pub-content">
+      <a href="https://ieeexplore.ieee.org/document/9643646" class="pub-title">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of NN</a>
+      <span class="tag tag-acc">Acc: 24.4%</span>
+      <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang</div>
+      <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/9643646" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[ICCV '21]</span>
+    <div class="pub-content">
+      <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html" class="pub-title">Improving NN Efficiency via Post-training Quantization with Adaptive Floating-Point</a>
+      <span class="tag tag-acc">Acc: 25.9%</span><span class="tag-italic">(Top Conf. in Vision)</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang</div>
+      <div class="pub-links"><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[ICCAD '21]</span>
+    <div class="pub-content">
+      <a href="https://ieeexplore.ieee.org/document/9643569" class="pub-title">Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator</a>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 23.5%</span>
+      <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang</div>
+      <div class="pub-links"><a href="https://ieeexplore.ieee.org/document/9643569" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[GLSVLSI '21]</span>
+    <div class="pub-content">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3453688.3461491" class="pub-title">IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration</a>
+      <span class="tag tag-acc">Acc: 24%</span>
+      <div class="pub-authors"><b>Fangxin Liu=</b>, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang</div>
+      <div class="pub-links"><a href="https://dl.acm.org/doi/abs/10.1145/3453688.3461491" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+</div>
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a></u> -->
 <!-- <font color=538F79>{=} denotes equal contribution; &emsp; {*} denotes corresponding author</font> -->
 
