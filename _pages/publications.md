@@ -6,13 +6,927 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a></u>
+<div style="font-size: 13px; color: #666; margin-bottom: 20px; padding: 6px 12px; background: #f9f9f9; border-left: 4px solid #538F79;">
+    <span style="margin-right: 20px;"><b>{=}</b> Equal contribution &nbsp; <b>{*}</b> Corresponding author</span>
+    <a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[Google Scholar Profile]</a>
+</div>
 
-<font color=538F79>{=} denotes equal contribution; &emsp; {*} denotes corresponding author</font>
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2026</div>
+
+<!-- <div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 100px; font-weight: 800;">[ISCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Harmonia: A Unified Hierarchical Scheduling Framework for Sparse Matrix Multiplication</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 100px;">Jingkui Yang=, <u><b>Fangxin Liu=,*</b></u>, Xin Ju, Ning Yang, Chenyang Guan, Junjie Wang, Zongwu Wang, Mei Wen, Jian Liu, Li Jiang, Haibing Guan</div>
+</div> -->
+
+<!-- <div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 100px; font-weight: 800;">[ISCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 100px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Chenyang Guan, Haomin Li, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, Haibing Guan</div>
+</div>
+
+<!-- <div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 100px; font-weight: 800;">[ISCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">COMET: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 100px;">Yilong Zhao, Onur Mutlu, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Jian Liu, Haibing Guan, Li Jiang</div>
+</div> -->
+
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li, Bowen Zhu, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Xinran Liang, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li, <u><b>Fangxin Liu*</b></u>, Z. Wang, S. Huang, N. Yang, C. Guan, T. Yang, X. Liang, H. Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ExQuant: Global Expert Ranking–Guided Mixed-Precision Quantization for Efficient MoE Inference</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Chenyang Guan, <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Ning Yang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">The Phantom of PCIe: Constraining Generative AIs for Practical Peripherals Trace Synthesizing</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zhibai Huang, Chen Chen, James Yen, ... <u><b>Fangxin Liu*</b></u>, Tao Song, Mingyuan Xia, Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SkiST: Memory-Efficient Fine-Tuning of Spiking Neural Networks via Spatio-Temporal Adaptation</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zhibai Huang, James Yen, Zhixiang Wei, Yun Wang, <u><b>Fangxin Liu*</b></u> and Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[Technical Report]</span> <a href="http://arxiv.org/abs/2602.00748" style="font-weight: 700; color: #222; text-decoration: none;">HyperOffload: Graph-Driven Hierarchical Memory Management for LLMs on SuperNode</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e; font-weight: bold;">Applied at HUAWEI MindSpore</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Qinghua Zhang=, Hanjing Shen=, Zhibo Liang, Li Jiang, Haibing Guan, Xuefeng Jin</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Ning Yang=, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Haomin Li, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 10.6%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Jingkui Yang, Zongwu Wang, Chenyang Guan, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 10.6%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">He Zhu, Zheng Liu, Xingyang Li, Anbang Wu, Jieru Zhao, <u><b>Fangxin Liu</b></u>, Jingwen Leng, Yu Feng</div>
+</div>
+
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[PPoPP '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BEEMS: Boosting Machine Vision Efficiency via Computation Graph-Based Memory Smoothing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 11.5%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Systems)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Hanjing Shen, <u><b>Fangxin Liu=,*</b></u>, Jian Liu, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[PPoPP '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Accelerating Sparse Transformer Inference on GPU</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 11.5%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Wenhao Dai, Haodong Deng, Mengfei Rong, Xinyu Yang, <u><b>Fangxin Liu</b></u>, Hailong Yang, Qianwen Cao, Qingxiao Sun</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li, <u><b>Fangxin Liu*</b></u>, Chenyang Guan, Zongwu Wang, Li Jiang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[AAAI '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 17.6%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zhixiong Zhao, <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Chenyang Guan, Zongwu Wang, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ORANGE: Exploring Ockham's Razor for Neural Rendering by Accelerating 3DGS on NPUs</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 19.7%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li, Yue Liang, <u><b>Fangxin Liu=,*</b></u>, Bowen Zhu, Zongwu Wang, Yu Feng, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 19.7%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Xiaotong Huang, He Zhu, Tianrui Ma, <u><b>Fangxin Liu</b></u>, Zhezhi He, Yiming Gan, Jingwen Leng, Yu Feng, Minyi Guo</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BLADE: Boosting LLM Decoding's Communication Efficiency in DRAM-based PIM</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Yilong Zhao, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Mingjian Li, Mingxing Zhang, Chixiao Chen, Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2025</div>
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Arch)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Haomin Li=, Bowen Zhu, Zongwu Wang, Zhuoran Song, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Yilong Zhao, Mingyu Gao, Huanchen Zhang, <u><b>Fangxin Liu*</b></u>, Gongye Chen, He Xian, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Rethinking Variable-Length Encoding: Bit Sparsity for Parallel Decoding in LLM Accelerators</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Ning Yang, <u><b>Fangxin Liu*</b></u>, Junjie Wang, Chenyang Guan, Zongwu Wang, Junping Zhao, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Shiyuan Huang, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Ning Yang, Haomin Li, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[EMNLP '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at Ant Group</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wongwu Wang, Jinhong Xia, Junping Zhao*, Shouren Zhao, Li Jiang*, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ACM MM '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via MDP</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Outstanding Paper</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Junjie Wang=, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration via Pattern Exploiting</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zhixiong Zhao=, Haomin Li=, <u><b>Fangxin Liu*</b></u>, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PLAIN: Leveraging High Internal Bandwidth in PIM for LLM Inference via Mixed-Precision</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Yiwei Hu, <u><b>Fangxin Liu=*</b></u>, Zongwu Wang, Yilong Zhao, Tao Yang, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">DevTrace: Efficient and Fine-grained PCIe Transaction Tracing for Edge Intelligence Workloads</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zhibai Huang, Kailiang Xu, Zhixiang Wei, Yinghao Deng, Chen Chen, James Yen, <u><b>Fangxin Liu*</b></u>, MingYuan Xia, Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">A Sub-10 μs In-Memory-Search Collision Detection Accelerator Based on RRAM-TCAMs</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in EDA)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Jiahao Sun, Yijian Zhang, <u><b>Fangxin Liu*</b></u>, Li Jiang, and Rui Yang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">FATE: Boosting HDC Intelligence Performance with Flexible Numerical Data Type</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 21%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=*</b></u>, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Chenning Tao, Liqiang Lu, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, <u><b>Fangxin Liu</b></u>, Kaiwen Zhou, Jianwei Yin</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">MILLION: MasterIng Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e; font-weight: bold;">Applied at HUAWEI</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Xuan Wang, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e; font-weight: bold;">Applied at ZTE</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <u><b>Fangxin Liu*</b></u></div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Dongxu Lyu, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperNeO: Efficient and Accurate Hyper-Dimensional Regression via Neural Optimization</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zewen Sun, Zongwu Wang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TAIL: Temporal Asynchronous Execution for Efficient SNNs with Inter-Layer Parallelism</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Z. Wang, D. Lyu, S. Huang, N. Yang, Q. Sun, Z. Song, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">OPS: Outlier-aware Precision-Slice Framework for LLM Acceleration</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Qi Sun, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EVASION: Efficient KV Cache Compression via Product Quantization</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu</b></u>, Peng Xu, Qingxiao Sun, Junping Zhao and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '25]</span> <a href="https://ieeexplore.ieee.org/abstract/document/10946829" style="font-weight: 700; color: #222; text-decoration: none;">CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Shiyuan Huang=, Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">GSArch: Breaking Memory Barriers in 3D Gaussian Splatting Training via Architectural Support</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Houshu He, Gang Li, <u><b>Fangxin Liu</b></u>, Li Jiang, Xiaoyang Liang, and Zhuoran Song</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Exploiting Differential-Based Data Encoding for Enhanced Query Efficiency</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Zongwu Wang=, Peng Xu, Shiyuan Huang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14.2px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13.2px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Zewen Sun, Zongwu Wang, Shiyuan Huang, Ning Yang, and Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2024</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAS-AI '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e; font-weight: bold;">Applied at HUAWEI</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TODAES '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e; font-weight: bold;">Applied at Yizhu Tech.</span> <span style="font-size: 11px; color: #67c23a; background: #f0f9eb; padding: 0px 4px; border-radius: 3px; border: 1px solid #e1f3d8;">CCF-B</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Ning Yang, Haomin Li and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang, <u><b>Fangxin Liu*</b></u>, Tao Yang, Zongwu Wang Ning Yang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">T-BUS: Taming Bipartite Unstructured Sparsity for Energy-Efficient DNN Acceleration</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Import. Conf. in Arch)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Zhiyan Song, Tao Yang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HOLES: Boosting LLMs Efficiency with Hardware-friendly Lossless Encoding</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zhiyan Song, Zongwu Wang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PS4: A Low Power SNN Accelerator with Spike Speculative Scheme</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang=, <u><b>Fangxin Liu=</b></u>, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Ninja: A Hardware Assisted System for Accelerating Nested Address Translation</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Longyu Zhao, Zongwu Wang, <u><b>Fangxin Liu*</b></u>, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[MICRO '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 22%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Ning Yang, Shiyuan Huang, Haomin Li, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[MICRO '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 22%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhuoran Song, Houshu He, <u><b>Fangxin Liu*</b></u>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TPDS '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Z. Wang, W. Zhao, N. Yang, Y. Chen, S. Huang, H. Li, T. Yang, S. Pei, X. Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISLPED '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 18%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Arch)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Naifeng Jing, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 μs Collision Detection</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Jiahao Sun, <u><b>Fangxin Liu=</b></u>, Yijian Zhang, Li Jiang and Rui Yang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Arch)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhuoran Song, Chunyu Qi, <u><b>Fangxin Liu=</b></u>, Naifeng Jing, Xiaoyao Liang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 18%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Arch)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2023</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f; font-weight: bold;">Acc: 23%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[IEEE TC '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ERA-BS: Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Arch)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2022</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[SIGIR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in IR)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Haomin Li, Xiaokang Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized DNNs</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PIM-DH: ReRAM based PIM Architecture for Deep Hashing Acceleration</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Tao Yang, Cheng Zhuo</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICASSP '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a> <span style="font-size: 11px; color: #67c23a; background: #f0f9eb; padding: 0px 4px; border-radius: 3px; border: 1px solid #e1f3d8;">CCF-B</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Signal Processing)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[AAAI '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between ANNs and SNNs</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Oral (Top 15%)</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICMR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Multimedia Retrieval)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICMR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval</a></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Self-Terminated Write of MLC ReRAM for Efficient Neuromorphic Computing</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Best Paper Award</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">Best Paper Nomination</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Tao Yang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HAWIS: Hardware-Aware Automated Width Search for Accurate Robust BNN on ReRAM</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Qidong Tang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Tao Yang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2021</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[Frontiers]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient SNN Training</a> <span style="font-size: 11px; color: #666; font-style: italic;">(SCI Tier 2, IF: 4.7)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao=, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of NN</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.4%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCV '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Improving NN Efficiency via Post-training Quantization with Adaptive Floating-Point</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25.9%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Vision)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Bit-Transformer: Transforming Bit-level Sparsity into High Performance in ReRAM Accelerator</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23.5%</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 11px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[GLSVLSI '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+<!-- 
+<div style="font-size: 13px; color: #666; margin-bottom: 20px; padding: 6px 12px; background: #f9f9f9; border-left: 4px solid #538F79;">
+    <span style="margin-right: 20px;"><b>{=}</b> Equal contribution &nbsp; <b>{*}</b> Corresponding author</span>
+    <a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[Google Scholar Profile]</a>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2026</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li, Bowen Zhu, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Xinran Liang, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Shiyuan Huang, Ning Yang, Chenyang Guan, Tao Yang, Xinran Liang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ExQuant: Global Expert Ranking–Guided Mixed-Precision Quantization for Efficient MoE Inference</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Chenyang Guan, <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Ning Yang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">The Phantom of PCIe: Constraining Generative Artificial Intelligences for Practical Peripherals Trace Synthesizing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhibai Huang, Chen Chen, James Yen, Yihan Shen, Yongchen Xie, Zhixiang Wei, Kailiang Xu, Yun Wang, <u><b>Fangxin Liu*</b></u>, Tao Song, Mingyuan Xia and Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SkiST: Memory-Efficient Fine-Tuning of Spiking Neural Networks via Spatio-Temporal Adaptation</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhibai Huang, James Yen, Zhixiang Wei, Yun Wang, <u><b>Fangxin Liu*</b></u> and Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TR '26]</span> <a href="http://arxiv.org/abs/2602.00748" style="font-weight: 700; color: #222; text-decoration: none;">HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at HUAWEI MindSpore</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Qinghua Zhang=, Hanjing Shen=, Zhibo Liang, Li Jiang, Haibing Guan, Chong Bao, and Xuefeng Jin</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Ning Yang=, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Haomin Li, Hongbo Zhao, Xinran Liang, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acceptance: 10.6%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=,*</b></u>, Ning Yang=, Jingkui Yang, Zongwu Wang, Chenyang Guan, Yu Feng, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acceptance: 10.6%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">He Zhu, Zheng Liu, Xingyang Li, Anbang Wu, Jieru Zhao, <u><b>Fangxin Liu</b></u>, Yiming Gan, Jingwen Leng, and Yu Feng</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[PPoPP '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BEEMS: Boosting Machine Vision Efficiency via Computation Graph-Based Memory Smoothing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Systems)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 11.5%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Hanjing Shen, <u><b>Fangxin Liu=,*</b></u>, Jian Liu, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[PPoPP '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Accelerating Sparse Transformer Inference on GPU</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Systems)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 11.5%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Wenhao Dai, Haodong Deng, Mengfei Rong, Xinyu Yang, <u><b>Fangxin Liu</b></u>, Hailong Yang, Qianwen Cao, and Qingxiao Sun</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li, <u><b>Fangxin Liu*</b></u>, Chenyang Guan, Zongwu Wang, Li Jiang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[AAAI '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 17.6%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhixiong Zhao, <u><b>Fangxin Liu=*</b></u>, Junjie Wang, Chenyang Guan, Zongwu Wang, Li Jiang, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ORANGE: Exploring Ockham's Razor for Neural Rendering by Accelerating 3DGS on NPUs</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 19.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li, Yue Liang, <u><b>Fangxin Liu=,*</b></u>, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 19.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Xiaotong Huang, He Zhu, Tianrui Ma, Yuxiang Xiaong, <u><b>Fangxin Liu</b></u>, Zhezhi He, Yiming Gan, Jingwen Leng, Yu Feng, and Minyi Guo</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BLADE: Boosting LLM Decoding's Communication Efficiency in DRAM-based PIM</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yilong Zhao, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Mingjian Li, Mingxing Zhang, Chixiao Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Haomin Li=, Bowen Zhu, Zongwu Wang, Zhuoran Song, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '26]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yilong Zhao, Mingyu Gao, Huanchen Zhang, <u><b>Fangxin Liu*</b></u>, Gongye Chen, He Xian, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2025</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Rethinking Variable-Length Encoding: Exploiting Bit Sparsity for Parallel Decoding in LLM Accelerators</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Ning Yang, <u><b>Fangxin Liu*</b></u>, Junjie Wang, Chenyang Guan, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang, <u><b>Fangxin Liu=,*</b></u>, Zongwu Wang, Ning Yang, Haomin Li, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[EMNLP '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in NLP)</span> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at Ant Group</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wongwu Wang, Jinhong Xia, Junping Zhao*, Shouren Zhao, Jinjin Li, Jian Liu, Li Jiang*, Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ACM MM '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Outstanding Paper</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Junjie Wang=, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhixiong Zhao=, Haomin Li=, <u><b>Fangxin Liu*</b></u>, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PLAIN: Leveraging High Internal Bandwidth in PIM for Accelerating LLM Inference via Mixed-Precision</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yiwei Hu, <u><b>Fangxin Liu=*</b></u>, Zongwu Wang, Yilong Zhao, Tao Yang, Haibing Guan, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">DevTrace: Efficient and Fine-grained PCIe Transaction Tracing for Edge Intelligence Workloads</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhibai Huang, Kailiang Xu, Zhixiang Wei, Yinghao Deng, Chen Chen, James Yen, Yun Wang, <u><b>Fangxin Liu*</b></u>, MingYuan Xia, and Zhengwei Qi</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">A Sub-10 μs In-Memory-Search Collision Detection Accelerator Based on RRAM-TCAMs</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Jiahao Sun, Yijian Zhang, <u><b>Fangxin Liu*</b></u>, Li Jiang, and Rui Yang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TACO '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with Flexible Numerical Data Type</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=*</b></u>, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Chenning Tao, Liqiang Lu, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, <u><b>Fangxin Liu</b></u>, Kaiwen Zhou and Jianwei Yin</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">MILLION: MasterIng Long-Context LLM Inference Via Outlier-Immunized KV Product OuaNtization</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at HUAWEI</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang=, Peng Xu=, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Qingxiao Sun, Gezi Li, Cheng Li, Xuan Wang, Li Jiang, and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at ZTE</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=*</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang and Haibing Guan</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <u><b>Fangxin Liu*</b></u></div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperDyn: Dynamic Dimensional Masking for Effcient Hyper-Dimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Dongxu Lyu, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperNeO: Efficient and Accurate Hyper-Dimensional Regression via Neural Optimization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zewen Sun, Zongwu Wang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TAIL: Exploiting Temporal Asynchronous Execution for Efficient SNNs with Inter-Layer Parallelism</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Dongxu Lyu, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">OPS: Outlier-aware Precision-Slice Framework for LLM Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Qi Sun, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EVASION: Efficient KV Cache Compression via Product Quantization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu</b></u>, Peng Xu, Qingxiao Sun, Junping Zhao and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Shiyuan Huang=, Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">GSArch: Breaking Memory Barriers in 3D Gaussian Splatting Training via Architectural Support</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Houshu he, Gang Li, <u><b>Fangxin Liu</b></u>, Li Jiang, Xiaoyang Liang, and Zhuoran Song</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Exploiting Differential-Based Data Encoding for Enhanced Query Efficiency</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Zongwu Wang=, Peng Xu, Shiyuan Huang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '25]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Zewen Sun, Zongwu Wang, Shiyuan Huang, Ning Yang, and Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2024</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAS-AI '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SearchQ: Search-based Fine-Grained Quantization for Data-Free Model Compression</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at HUAWEI</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Imp. Jour. in Design Automation)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Ning Yang=, <u><b>Fangxin Liu=</b></u>, Zongwu Wang, Junping Zhao, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TODAES '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization</a> <span style="font-size: 11px; color: #cf1322; background: #fff1f0; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffa39e;">Applied at Yizhu Tech.</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Imp. Jour. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Ning Yang, Haomin Li and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang, <u><b>Fangxin Liu*</b></u>, Tao Yang, Zongwu Wang Ning Yang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">T-BUS: Taming Bipartite Unstructured Sparsity for Energy-Efficient DNN Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Import. Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zongwu Wang, Zhiyan Song, Tao Yang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HOLES: Boosting LLMs Efficiency with Hardware-friendly Lossless Encoding</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Import. Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Zhiyan Song, Zongwu Wang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PS4: A Low Power SNN Accelerator with Spike Speculative Scheme</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Import. Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang=, <u><b>Fangxin Liu=</b></u>, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Ninja: A Hardware Assisted System for Accelerating Nested Address Translation</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Import. Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Longyu Zhao, Zongwu Wang, <u><b>Fangxin Liu*</b></u>, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[MICRO '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 22%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Ning Yang, Shiyuan Huang, Haomin Li, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[MICRO '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 22%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhuoran Song, Houshu He, <u><b>Fangxin Liu*</b></u>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TPDS '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISLPED '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Low Power Design)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 21%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ISCA '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 18%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 μs Collision Detection</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Jiahao Sun, <u><b>Fangxin Liu=</b></u>, Yijian Zhang, Li Jiang and Rui Yang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPLOS '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zhuoran Song, Chunyu Qi, <u><b>Fangxin Liu=</b></u>, Naifeng Jing, Xiaoyao Liang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[HPCA '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Architecture)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 18%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 29%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2023</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 28%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Ning Yang=, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[IEEE TC '23]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Architecture)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '24]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2022</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[SIGIR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Information Retrieval)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Haomin Li, Xiaokang Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[TCAD '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Jour. in Design Automation)</span> <span style="font-size: 11px; color: #1a73e8; background: #eef6ff; padding: 0px 4px; border-radius: 3px; border: 1px solid #d0e7ff;">CCF-A</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized DNNs</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.7%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICASSP '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Signal Processing)</span> <span style="font-size: 11px; color: #67c23a; background: #f0f9eb; padding: 0px 4px; border-radius: 3px; border: 1px solid #e1f3d8;">CCF-B</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[AAAI '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between ANNs and SNNs</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Oral (Top 15%)</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in AI)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICMR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval</a></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICMR '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval</a></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f; font-weight: bold;">🏆 Best Paper Award</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Zongwu Wang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DATE '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture</a> <span style="font-size: 11px; color: #d48806; background: #fffbe6; padding: 0px 4px; border-radius: 3px; border: 1px solid #ffe58f;">Best Paper Nomination</span> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Tao Yang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ASPDAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">HAWIS: Hardware-Aware Automated Width Search for Accurate, Energy-Efficient BNN on ReRAM</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Design Automation)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Qidong Tang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[DAC '22]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;">Tao Yang, <u><b>Fangxin Liu</b></u>, et al.</div>
+</div>
+
+<div style="border-bottom: 2px solid #538F79; font-size: 18px; font-weight: bold; margin: 30px 0 12px 0; color: #333;">2021</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[Frontiers]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient SNN Training</a> <span style="font-size: 11px; color: #666; font-style: italic;">(SCI Tier 2, Impact Factor: 4.7)</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao=, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCD '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24.4%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCV '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in Computer Vision)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 25.9%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[ICCAD '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">Bit-Transformer: Transforming Bit-level Sparsity into Higher Performance in ReRAM Accelerator</a> <span style="font-size: 11px; color: #666; font-style: italic;">(Top Conf. in EDA)</span> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 23.5%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang</div>
+</div>
+
+<div style="margin-bottom: 12px; line-height: 1.4;">
+    <div style="font-size: 14px;"><span style="display: inline-block; width: 95px; font-weight: 800;">[GLSVLSI '21]</span> <a href="#" style="font-weight: 700; color: #222; text-decoration: none;">IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration</a> <span style="font-size: 11px; color: #52c41a; background: #f6ffed; padding: 0px 4px; border-radius: 3px; border: 1px solid #b7eb8f;">Acc: 24%</span></div>
+    <div style="font-size: 13px; color: #555; padding-left: 95px;"><u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang</div>
+</div> -->
+
+<!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a></u> -->
+<!-- <font color=538F79>{=} denotes equal contribution; &emsp; {*} denotes corresponding author</font> -->
 
 
 <!-- After joining SJTU. -->
-<table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+<!-- <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 <tr><td style="font-size:inherit;"><strong>DAC 2026</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> Haomin Li, Bowen Zhu, <u><b>Fangxin Liu*</b></u>, Zongwu Wang, Xinran Liang, Li Jiang and Haibing Guan<br> <a href="#">GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</a> <strong>(CCF Tier A)</strong>
 </td></tr>
 
@@ -299,116 +1213,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Tao Yang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a>
 </td></tr>
 
-</table>
+</table> -->
 
-<!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
-
-<!-- --------
-**Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-**Fangxin Liu**=, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang, "TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-Shiyuan Huang=, **Fangxin Liu**=, Tian Li, Zongwu Wang, Haomin Li, Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-Haomin Li=, **Fangxin Liu**=, Yichi Chen, Li Jiang, "HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
-
---------
-**Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
-
---------
-
-Haomin Li=, **Fangxin Liu**=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 23%).** 
-
---------
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang, "ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity." to appear in IEEE Transactions on Computers 2023 ( <font color="#2a9d8f">TC'2023</font>). **(Top Journal in Computer Architecture, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/10177200)
-
-
---------
-**Fangxin Liu**=, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing ." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23</font>). **(Top Conference in Design Automation, Acceptance Rate: 23%).**
-
---------
-**Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Li Jiang, "Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs ." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'22</font>). **(Acceptance Rate: 24%).**
-
---------
-**Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang, "SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator.", IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems ( <font color="#2a9d8f">IEEE TCAD</font>), 2022. **(Top Journal in Computer-Aided Design, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/9769275)
-
---------
-**Fangxin Liu**, Haomin Li, Xiaokang Yang, Li Jiang, "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks." to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval ( <font color="#2a9d8f">SIGIR'22 </font> ). **(Top Conference in  Information Retrieval, Acceptance Rate: 24.7%).** [Code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC) [Link](https://dl.acm.org/doi/abs/10.1145/3477495.3531761)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang,  "IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization." to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ( <font color="#2a9d8f"> IEEE TCAD </font> ). **(Top Journal in Computer-Aided Design, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/972425)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang, "EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f"> DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DEBSP_slides.pdf) [Link](/files/%5BDAC-2022%5DEBSP_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo, Li Jiang, "PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f">DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DPIM-DH_slides.pdf) [Link](/files/%5BDAC-2022%5DPIM-DH_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang, "SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f">DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DSATO_slides.pdf) [Link](/files/%5BDAC-2022%5DSATO_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai,  "Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks." to appear in 47th IEEE International Conference on Acoustics, Speech and Signal Processing ( <font color="#2a9d8f">ICASSP'22 </font> ). **(Top Conference in Signal Processing, CCF Tier B).** [Slides](/files/%5BICASSP-22%5DDynSNN_poster.pdf) [Link](/files/%5BICASSP-22%5DDynSNN_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Top Conference in Artificial Intelligence, Acceptance Rate: 15%).** [Poster](/files/%5BAAAI-22%5DSpikeConverter_poster.pdf) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20061) [News](href="https://mp.weixin.qq.com/s/OZ-dsdwqGqUJWUqQretclQ") [Talk](href="https://www.bilibili.com/video/BV1fr4y1s7dK")
-
---------
-
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang, "SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training." to appear in Frontiers in Neuroscience, 15 (2021)( <font color="#2a9d8f">SCI Tier 2</font> ). **(Impact Factor 4.2).** [Code](https://github.com/MXHX7199/SNN-SSTDP) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang, "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." to appear in 39th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'21 </font> ). **(Acceptance Rate: 24.4%).** [Slides](/files/%5BICCD-21%5DSME_slides.pdf) [Link](https://ieeexplore.ieee.org/document/9643646)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang, "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point.." to appear in International Conference on Computer Vision 2021 ( <font color="#2a9d8f">ICCV'21 </font> ). **(Top Conference in  Computer Vision, Acceptance Rate: 25.9%).** [Poster](/files/%5BICCV-21%5DAFP_poster.pdf) [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang,  "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator." to appear in 40th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'21 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 23.5%).** [Slides](/files/%5BICCAD-21%5DBit-Transformer_preprint.pdf) [Link](https://ieeexplore.ieee.org/document/9643569)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
-
---------
-
-Yongbiao Chen, **Fangxin Liu**, et al. "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval." to appear in ACM International Conference on Multimedia Retrieval 2022( <font color="#2a9d8f">ICMR'22 </font> ). **(Acceptance Rate: 30%).** [Link](https://dl.acm.org/doi/abs/10.1145/3512527.3531405)
-
---------
-
-
-Yongbiao Chen, **Fangxin Liu**, et al. "Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval.." to appear in ACM International Conference on Multimedia Retrieval 2022( <font color="#2a9d8f">ICMR'22 </font> ). **(Acceptance Rate: 30%).** [Link](https://dl.acm.org/doi/abs/10.1145/3512527.3531432)
-
---------
-
-
-Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(Best Paper Award)).** [Slides](/files/%5BDATE-22%5DSTW_slides.pdf) [Link](/files/%5BDATE-22%5DSTW_preprint.pdf)
-
---------
-
-
-Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%5BDATE-22%5DDTQAtten_slides.pdf) [Link](/files/%5BDATE-22%5DDTQAtten_slides.pdf)
-
---------
-
-Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%5BASPDAC-22%5DHAWIS_slides.pdf) [Link](/files/%5BASPDAC-22%5DHAWIS_preprint.pdf)
-
---------
-
-Tao Yang, **Fangxin Liu**, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." to appear in Design Automation Conference ( <font color="#2a9d8f">DAC'21 </font> ). **(Acceptance Rate: 26.5%).**  [Link](https://ieeexplore.ieee.org/abstract/document/9586231)
 
 --------
 <!-- {% for post in site.publications reversed %}
