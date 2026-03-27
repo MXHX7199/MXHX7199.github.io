@@ -41,27 +41,26 @@ author_profile: true
     .link-btn { padding: 1px 6px; font-size: 11px; }
   }
 
- /* 强制单行容器 */
-  .stats-simple-row {
+.stats-final-row {
     display: flex !important;
     flex-direction: row !important;
-    flex-wrap: nowrap !important; /* 强制不换行 */
-    justify-content: space-between;
+    flex-wrap: nowrap !important;
+    justify-content: space-around;
     align-items: center;
-    background: #fcfcfc;
-    border: 1px solid #eee;
+    background: #fdfdfd;
+    border: 1px solid #efefef;
     border-radius: 6px;
-    padding: 10px 0;
-    margin: 20px 0 30px 0;
+    padding: 12px 0;
+    margin: 20px 0 35px 0;
     width: 100%;
   }
 
   .stat-unit {
     flex: 1;
     text-align: center;
-    border-right: 1px dotted #ddd;
-    padding: 0 5px;
-    min-width: 0; /* 防止内容撑开容器 */
+    border-right: 1px solid #eee;
+    padding: 0 2px;
+    min-width: 0;
   }
 
   .stat-unit:last-child {
@@ -69,8 +68,8 @@ author_profile: true
   }
 
   .stat-num {
-    font-size: 19px;
-    font-weight: 800;
+    font-size: 20px;
+    font-weight: 850;
     color: #538F79;
     display: block;
     line-height: 1.1;
@@ -78,32 +77,41 @@ author_profile: true
 
   .stat-text {
     font-size: 12.5px;
-    font-weight: 600;
+    font-weight: 700;
     color: #333;
-    white-space: nowrap; /* 强制文字不换行 */
+    white-space: nowrap;
   }
 
+  /* 备注信息：默认显示 */
   .stat-sub {
     font-size: 10px;
-    color: #999;
+    color: #aaa;
     display: block;
-    transform: scale(0.9); /* 让备注更小更精致 */
+    margin-top: 2px;
+    transform: scale(0.9);
+    white-space: nowrap;
   }
 
-  /* 移动端微调：依然保持一行，缩小字号 */
-  @media (max-width: 600px) {
+  /* 移动端优化：不隐藏，仅缩小 */
+  @media (max-width: 768px) {
     .stat-num { font-size: 16px; }
-    .stat-text { font-size: 11px; }
-    .stat-sub { display: none; }
+    .stat-text { font-size: 10px; }
+    .stat-sub { 
+      font-size: 8px; 
+      transform: scale(0.85);
+      margin-top: 0px;
+    }
+    .stats-final-row { padding: 8px 0; }
   }
 </style>
 
-<div class="stats-simple-row"><div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">Architecture</span><span class="stat-sub">ISCA / MICRO / HPCA / ASPLOS</span></div>
+<div class="stats-final-row"><div class="stat-unit"><span class="stat-num" style="color:#222;">60+</span><span class="stat-text">CCF-A</span><span class="stat-sub">Overall Pubs</span></div>
 
-<div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">EDA / Automation</span><span class="stat-sub">DAC / ICCAD</span></div>
+<div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">Architecture </span><span class="stat-sub">ISCA / MICRO / HPCA/ ASPLOS</span></div>
 
-<div class="stat-unit" style="border-bottom:none;"><span class="stat-num" style="color: #d48806;">3+</span><span class="stat-text" style="color: #d48806;">Awards</span><span class="stat-sub">Best / Outstanding / Features Papers</span></div></div>
+<div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">EDA & Automation</span><span class="stat-sub">DAC / ICCAD</span>
 
+</div><div class="stat-unit"><span class="stat-num" style="color: #d48806;">3+</span><span class="stat-text" style="color: #d48806;">Awards</span><span class="stat-sub">Best /Outstanding/ Feature Papers</span></div></div>
 <div class="pub-container">
   <div class="pub-legend">
     <span><b>{=}</b> Equal contribution &nbsp;&nbsp; <b>{*}</b> Corresponding author</span>
