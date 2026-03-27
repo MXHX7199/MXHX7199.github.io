@@ -10,77 +10,81 @@ redirect_from:
 <style>
   .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #333; line-height: 1.6; }
   
-  /* 进化版统计看板：强化第一/通讯及企业合作概念 */
+  /* 统计看板：进化版 - 侧重工业应用 */
   .stats-board {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 15px;
+    gap: 12px;
     margin: 30px 0;
-    padding: 20px;
-    background: #f8f9fa;
+    padding: 22px 15px;
+    background: linear-gradient(145deg, #ffffff, #f9f9f9);
     border-radius: 12px;
     border: 1px solid #eee;
-    box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
   }
-  .stat-card { text-align: center; }
+  .stat-card { text-align: center; border-right: 1px solid #eee; }
+  .stat-card:last-child { border-right: none; }
   .stat-num {
     display: block;
-    font-size: 28px;
+    font-size: 26px;
     font-weight: 900;
-    color: #538F79; /* 交大绿 */
+    color: #538F79;
     font-family: "Arial Black", sans-serif;
+    line-height: 1.2;
   }
   .stat-label {
     display: block;
     font-size: 13px;
     font-weight: 700;
     color: #222;
-    margin-top: 4px;
+    margin-top: 5px;
   }
   .stat-sub {
     font-size: 10px;
     color: #888;
     line-height: 1.2;
-    margin-top: 2px;
+    margin-top: 3px;
     display: block;
   }
 
-  /* News 列表：保持呼吸感与对齐 */
+  /* News 列表：保持严格间距与链接颜色 */
   .news-box { margin-top: 25px; }
   .news-item {
     display: flex;
-    margin-bottom: 16px; /* 确保回车感 */
+    margin-bottom: 20px; /* 充足的回车间距 */
     align-items: flex-start;
   }
   .news-date {
-    font-family: 'Courier New', monospace;
-    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12.5px;
     font-weight: 700;
     color: #538F79;
     background: #f0f4f2;
-    padding: 2px 8px;
+    padding: 2px 6px;
     border-radius: 4px;
     margin-right: 15px;
-    min-width: 115px;
+    min-width: 110px;
     text-align: center;
     flex-shrink: 0;
   }
-  .news-text { font-size: 14.5px; flex: 1; }
+  .news-text { font-size: 14.5px; flex: 1; color: #444; }
+  .news-text a { color: #1a73e8; text-decoration: none; }
+  .news-text a:hover { text-decoration: underline; }
   
-  /* 调整详情页样式 */
   summary { cursor: pointer; color: #538F79; font-weight: bold; padding: 10px 0; outline: none; }
-  summary:hover { text-decoration: underline; }
 
   @media (max-width: 768px) {
-    .stats-board { grid-template-columns: 1fr 1fr; }
+    .stats-board { grid-template-columns: 1fr 1fr; gap: 20px; }
+    .stat-card:nth-child(even) { border-right: none; }
     .news-item { flex-direction: column; }
-    .news-date { margin-bottom: 6px; }
+    .news-date { margin-bottom: 8px; }
   }
 </style>
 
 Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. I also serve as a Research Fellow at the **Shanghai Qi Zhi Institute** and a part-time Associate Professor at **Shanghai Customs College**. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
 
-I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of **Prof. Li Jiang**. My research has led to over <font color=538F79><b>**60 publications**</b></font> as <font color=538F79><b>**first or corresponding author**</b></font>, including more than <font color=538F79><b>**40 in CCF Tier A**</b></font> venues such as **ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD**. These contributions have been recognized with several honors, including the **Spark Award from HUAWEI**, the **Outstanding Doctoral Dissertation Award** from the Shanghai Computer Society, the **ACM China Shanghai Excellent Doctoral Dissertation Award**, and the **Best Paper Award at DATE 2022**.
+I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To date, I have published over **60 papers** as **first or corresponding author**, with more than **40 in CCF Tier A** venues, including top-tier architecture conferences and journals such as **ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD**. My work has been recognized with honors such as the **Spark Award from HUAWEI**, the **Outstanding Doctoral Dissertation Award** from the Shanghai Computer Society, the **ACM China Shanghai Excellent Doctoral Dissertation Award**, and the **Best Paper Award at DATE 2022**.
+
 <div class="stats-board">
   <div class="stat-card">
     <span class="stat-num" style="color:#222;">40+</span>
@@ -90,17 +94,17 @@ I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao
   <div class="stat-card">
     <span class="stat-num">60+</span>
     <span class="stat-label">Total Pubs</span>
-    <span class="stat-sub">as 1st or Corr. Author</span>
+    <span class="stat-sub">as 1st or Corr. Author/span>
   </div>
   <div class="stat-card">
-    <span class="stat-num">5+</span>
-    <span class="stat-label">Industry Partners</span>
-    <span class="stat-sub">Huawei, Ant, ZTE, etc.</span>
+    <span class="stat-num">4+</span>
+    <span class="stat-label">Industrial Adoption</span>
+    <span class="stat-sub">Applied at Huawei, Ant, etc.</span>
   </div>
   <div class="stat-card">
     <span class="stat-num" style="color:#d48806;">5+</span>
     <span class="stat-label">Major Awards</span>
-    <span class="stat-sub">Best Paper & Dissertation</span>
+    <span class="stat-sub">Best Paper/Dissert.</span>
   </div>
 </div>
 
