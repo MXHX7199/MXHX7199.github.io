@@ -63,7 +63,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Ning Yang=, Zongwu Wang, Chenyang Guan, Haomin Li, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -73,7 +73,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">COMET: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Yilong Zhao, Onur Mutlu, Mingyu Gao, <b>Fangxin Liu*</b>, Jian Liu, Haibing Guan, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -83,7 +83,7 @@ author_profile: true
     <span class="pub-venue">[DAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Haomin Li, Bowen Zhu, <b>Fangxin Liu*</b>, Zongwu Wang, Xinran Liang, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -93,7 +93,7 @@ author_profile: true
     <span class="pub-venue">[DAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Haomin Li, <b>Fangxin Liu*</b>, Z. Wang, S. Huang, N. Yang, C. Guan, T. Yang, X. Liang, H. Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -103,7 +103,7 @@ author_profile: true
     <span class="pub-venue">[DAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ExQuant: Global Expert Ranking–Guided Mixed-Precision Quantization for Efficient MoE Inference</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Chenyang Guan, <b>Fangxin Liu=*</b>, Junjie Wang, Ning Yang and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -113,7 +113,7 @@ author_profile: true
     <span class="pub-venue">[DAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">The Phantom of PCIe: Constraining Generative AIs for Practical Peripherals Trace Synthesizing</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Zhibai Huang, Chen Chen, James Yen, ... <b>Fangxin Liu*</b>, Tao Song, Mingyuan Xia, Zhengwei Qi</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -123,7 +123,7 @@ author_profile: true
     <span class="pub-venue">[DAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">SkiST: Memory-Efficient Fine-Tuning of Spiking Neural Networks via Spatio-Temporal Adaptation</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Zhibai Huang, James Yen, Zhixiang Wei, Yun Wang, <b>Fangxin Liu*</b> and Zhengwei Qi</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -143,7 +143,7 @@ author_profile: true
     <span class="pub-venue">[TACO '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Ning Yang=, <b>Fangxin Liu=,*</b>, Zongwu Wang, Haomin Li, Li Jiang, and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -163,7 +163,7 @@ author_profile: true
     <span class="pub-venue">[ASPLOS '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering</a>
-      <span class="tag tag-acc">Acc: 10.6%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 10.6%</span>
       <div class="pub-authors">He Zhu, Zheng Liu, Xingyang Li, Anbang Wu, Jieru Zhao, <b>Fangxin Liu</b>, Jingwen Leng, Yu Feng</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -173,7 +173,7 @@ author_profile: true
     <span class="pub-venue">[PPoPP '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">BEEMS: Boosting Machine Vision Efficiency via Computation Graph-Based Memory Smoothing</a>
-      <span class="tag tag-acc">Acc: 11.5%</span>
+      <span class="tag-italic">(Top Conf. in Sys.)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 11.5%</span>
       <div class="pub-authors">Hanjing Shen, <b>Fangxin Liu=,*</b>, Jian Liu, Li Jiang, and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -183,7 +183,7 @@ author_profile: true
     <span class="pub-venue">[PPoPP '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Accelerating Sparse Transformer Inference on GPU</a>
-      <span class="tag tag-acc">Acc: 11.5%</span>
+      <span class="tag-italic">(Top Conf. in Sys.)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 11.5%</span>
       <div class="pub-authors">Wenhao Dai, Haodong Deng, Mengfei Rong, Xinyu Yang, <b>Fangxin Liu</b>, Hailong Yang, Qianwen Cao, Qingxiao Sun</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -193,7 +193,7 @@ author_profile: true
     <span class="pub-venue">[DATE '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM</a>
-      <span class="tag tag-acc">Acc: 25%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 25%</span>
       <div class="pub-authors">Haomin Li, <b>Fangxin Liu*</b>, Chenyang Guan, Zongwu Wang, Li Jiang and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -203,7 +203,7 @@ author_profile: true
     <span class="pub-venue">[AAAI '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization</a>
-      <span class="tag tag-acc">Acc: 17.6%</span>
+      <span class="tag-italic">(Top Conf. in AI)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 17.6%</span>
       <div class="pub-authors">Zhixiong Zhao, <b>Fangxin Liu=*</b>, Junjie Wang, Chenyang Guan, Zongwu Wang, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -213,7 +213,7 @@ author_profile: true
     <span class="pub-venue">[HPCA '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ORANGE: Exploring Ockham's Razor for Neural Rendering by Accelerating 3DGS on NPUs</a>
-      <span class="tag tag-acc">Acc: 19.7%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 19.7%</span>
       <div class="pub-authors">Haomin Li, Yue Liang, <b>Fangxin Liu=,*</b>, Bowen Zhu, Zongwu Wang, Yu Feng, Li Jiang, and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -223,7 +223,7 @@ author_profile: true
     <span class="pub-venue">[HPCA '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing</a>
-      <span class="tag tag-acc">Acc: 19.7%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 19.7%</span>
       <div class="pub-authors">Xiaotong Huang, He Zhu, Tianrui Ma, <b>Fangxin Liu</b>, Zhezhi He, Yiming Gan, Jingwen Leng, Yu Feng, Minyi Guo</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -233,7 +233,7 @@ author_profile: true
     <span class="pub-venue">[ASPDAC '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">BLADE: Boosting LLM Decoding's Communication Efficiency in DRAM-based PIM</a>
-      <span class="tag tag-acc">Acc: 29%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 29%</span>
       <div class="pub-authors">Yilong Zhao, <b>Fangxin Liu*</b>, Zongwu Wang, Mingjian Li, Mingxing Zhang, Chixiao Chen, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -243,7 +243,7 @@ author_profile: true
     <span class="pub-venue">[ASPLOS '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors"><b>Fangxin Liu=*</b>, Haomin Li=, Bowen Zhu, Zongwu Wang, Zhuoran Song, Haibing Guan, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -253,7 +253,7 @@ author_profile: true
     <span class="pub-venue">[ASPLOS '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors">Yilong Zhao, Mingyu Gao, Huanchen Zhang, <b>Fangxin Liu*</b>, Gongye Chen, He Xian, Haibing Guan, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -265,7 +265,7 @@ author_profile: true
     <span class="pub-venue">[TACO '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Rethinking Variable-Length Encoding: Bit Sparsity for Parallel Decoding in LLM Accelerators</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Ning Yang, <b>Fangxin Liu*</b>, Junjie Wang, Chenyang Guan, Zongwu Wang, Junping Zhao, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -275,7 +275,7 @@ author_profile: true
     <span class="pub-venue">[TACO '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Shiyuan Huang, <b>Fangxin Liu=,*</b>, Zongwu Wang, Ning Yang, Haomin Li, Haibing Guan, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -285,7 +285,7 @@ author_profile: true
     <span class="pub-venue">[EMNLP '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization</a>
-      <span class="tag tag-industry">Applied at Ant Group</span>
+      <span class="tag-italic">(Top Conf. in NLP)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-industry">Applied at Ant Group</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Wongwu Wang, Jinhong Xia, Junping Zhao*, Shouren Zhao, Li Jiang*, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -295,7 +295,7 @@ author_profile: true
     <span class="pub-venue">[ACM MM '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via MDP</a>
-      <span class="tag tag-award">🏆 Outstanding Paper</span>
+      <span class="tag-italic">(Top Conf. in Multimedia/AI)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-award">🏆 Outstanding Paper</span>
       <div class="pub-authors"><b>Fangxin Liu=*</b>, Junjie Wang=, Ning Yang, Zongwu Wang, Junping Zhao, Li Jiang, and Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -305,7 +305,7 @@ author_profile: true
     <span class="pub-venue">[ICCAD '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration via Pattern Exploiting</a>
-      <span class="tag tag-acc">Acc: 24%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 24%</span>
       <div class="pub-authors">Zhixiong Zhao=, Haomin Li=, <b>Fangxin Liu*</b>, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -315,7 +315,7 @@ author_profile: true
     <span class="pub-venue">[ICCAD '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">PLAIN: Leveraging High Internal Bandwidth in PIM for LLM Inference via Mixed-Precision</a>
-      <span class="tag tag-acc">Acc: 24%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 24%</span>
       <div class="pub-authors">Yiwei Hu, <b>Fangxin Liu=*</b>, Zongwu Wang, Yilong Zhao, Tao Yang, Haibing Guan, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -325,7 +325,7 @@ author_profile: true
     <span class="pub-venue">[ICCAD '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">DevTrace: Efficient and Fine-grained PCIe Transaction Tracing for Edge Intelligence Workloads</a>
-      <span class="tag tag-acc">Acc: 24%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 24%</span>
       <div class="pub-authors">Zhibai Huang, Kailiang Xu, Zhixiang Wei, Yinghao Deng, Chen Chen, James Yen, <b>Fangxin Liu*</b>, MingYuan Xia, Zhengwei Qi</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -335,7 +335,7 @@ author_profile: true
     <span class="pub-venue">[TCAD '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">A Sub-10 μs In-Memory-Search Collision Detection Accelerator Based on RRAM-TCAMs</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Jiahao Sun, Yijian Zhang, <b>Fangxin Liu*</b>, Li Jiang, and Rui Yang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -345,7 +345,7 @@ author_profile: true
     <span class="pub-venue">[TACO '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Haomin Li, <b>Fangxin Liu*</b>, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -355,7 +355,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">FATE: Boosting HDC Intelligence Performance with Flexible Numerical Data Type</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors">Haomin Li=, <b>Fangxin Liu=*</b>, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -365,7 +365,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors">Chenning Tao, Liqiang Lu, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, <b>Fangxin Liu</b>, Kaiwen Zhou, Jianwei Yin</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -375,7 +375,7 @@ author_profile: true
     <span class="pub-venue">[DAC '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -385,7 +385,7 @@ author_profile: true
     <span class="pub-venue">[DAC '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">MILLION: MasterIng Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization</a>
-      <span class="tag tag-industry">Applied at HUAWEI</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-industry">Applied at HUAWEI</span>
       <div class="pub-authors">Zongwu Wang=, Peng Xu=, <b>Fangxin Liu*</b>, Yiwei Hu, Qingxiao Sun, Xuan Wang, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -395,7 +395,7 @@ author_profile: true
     <span class="pub-venue">[DAC '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">BLOOM: Bit-Slice Framework for DNN Acceleration with Mixed-Precision</a>
-      <span class="tag tag-industry">Applied at ZTE</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-industry">Applied at ZTE</span>
       <div class="pub-authors"><b>Fangxin Liu=*</b>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -405,7 +405,7 @@ author_profile: true
     <span class="pub-venue">[DAC '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors">Ning Yang, Zongwu Wang, Qingxiao Sun, Liqiang Lu, and <b>Fangxin Liu*</b></div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -415,7 +415,7 @@ author_profile: true
     <span class="pub-venue">[DATE '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Zongwu Wang, Dongxu Lyu, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -425,7 +425,7 @@ author_profile: true
     <span class="pub-venue">[DATE '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">HyperNeO: Efficient and Accurate Hyper-Dimensional Regression via Neural Optimization</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Zewen Sun, Zongwu Wang, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -435,7 +435,7 @@ author_profile: true
     <span class="pub-venue">[DATE '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">TAIL: Temporal Asynchronous Execution for Efficient SNNs with Inter-Layer Parallelism</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors">Haomin Li=, <b>Fangxin Liu=</b>, Z. Wang, D. Lyu, S. Huang, N. Yang, Q. Sun, Z. Song, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -445,7 +445,7 @@ author_profile: true
     <span class="pub-venue">[DATE '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">OPS: Outlier-aware Precision-Slice Framework for LLM Acceleration</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Ning Yang=, Zongwu Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Qi Sun, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -455,7 +455,7 @@ author_profile: true
     <span class="pub-venue">[DATE '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">EVASION: Efficient KV Cache Compression via Product Quantization</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors">Zongwu Wang, <b>Fangxin Liu</b>, Peng Xu, Qingxiao Sun, Junping Zhao and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -465,7 +465,7 @@ author_profile: true
     <span class="pub-venue">[HPCA '25]</span>
     <div class="pub-content">
       <a href="https://ieeexplore.ieee.org/abstract/document/10946829" class="pub-title">CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Shiyuan Huang=, Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang</div>
       <div class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10946829" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -475,7 +475,7 @@ author_profile: true
     <span class="pub-venue">[HPCA '25]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">GSArch: Breaking Memory Barriers in 3D Gaussian Splatting Training via Architectural Support</a>
-      <span class="tag tag-acc">Acc: 21%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 21%</span>
       <div class="pub-authors">Houshu He, Gang Li, <b>Fangxin Liu</b>, Li Jiang, Xiaoyang Liang, and Zhuoran Song</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -527,7 +527,7 @@ author_profile: true
     <span class="pub-venue">[TCAD '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in EDA)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors">Shiyuan Huang, <b>Fangxin Liu*</b>, Tao Yang, Zongwu Wang Ning Yang, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -577,7 +577,7 @@ author_profile: true
     <span class="pub-venue">[MICRO '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</a>
-      <span class="tag tag-acc">Acc: 22%</span><span class="tag-italic">(Top Conf. in Arch)</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 22%</span>
       <div class="pub-authors">Zongwu Wang, <b>Fangxin Liu*</b>, Ning Yang, Shiyuan Huang, Haomin Li, and Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -587,7 +587,7 @@ author_profile: true
     <span class="pub-venue">[MICRO '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering</a>
-      <span class="tag tag-acc">Acc: 22%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 22%</span>
       <div class="pub-authors">Zhuoran Song, Houshu He, <b>Fangxin Liu*</b>, Yifan Hao, Xinkai Song, Li Jiang and Xiaoyao Liang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -597,7 +597,7 @@ author_profile: true
     <span class="pub-venue">[TPDS '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>
-      <span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors"><b>Fangxin Liu</b>, Z. Wang, W. Zhao, N. Yang, Y. Chen, S. Huang, H. Li, T. Yang, S. Pei, X. Liang, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -617,7 +617,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>
-      <span class="tag tag-acc">Acc: 18%</span><span class="tag-italic">(Top Conf. in Arch)</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 18%</span>
       <div class="pub-authors">Yilong Zhao, Mingyu Gao, <b>Fangxin Liu*</b>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Naifeng Jing, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -627,7 +627,7 @@ author_profile: true
     <span class="pub-venue">[DAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -637,7 +637,7 @@ author_profile: true
     <span class="pub-venue">[DAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -647,7 +647,7 @@ author_profile: true
     <span class="pub-venue">[DATE '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 μs Collision Detection</a>
-      <span class="tag tag-acc">Acc: 24%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-B</span><span class="tag tag-acc">Acc: 24%</span>
       <div class="pub-authors">Jiahao Sun, <b>Fangxin Liu=</b>, Yijian Zhang, Li Jiang and Rui Yang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -657,7 +657,7 @@ author_profile: true
     <span class="pub-venue">[ASPLOS '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing</a>
-      <span class="tag tag-acc">Acc: 24%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 24%</span>
       <div class="pub-authors">Zhuoran Song, Chunyu Qi, <b>Fangxin Liu=</b>, Naifeng Jing, Xiaoyao Liang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -667,7 +667,7 @@ author_profile: true
     <span class="pub-venue">[HPCA '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</a>
-      <span class="tag tag-acc">Acc: 18%</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 18%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -677,7 +677,7 @@ author_profile: true
     <span class="pub-venue">[ASPDAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a>
-      <span class="tag tag-acc">Acc: 29%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 29%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -687,7 +687,7 @@ author_profile: true
     <span class="pub-venue">[ASPDAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a>
-      <span class="tag tag-acc">Acc: 29%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 29%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -697,7 +697,7 @@ author_profile: true
     <span class="pub-venue">[ASPDAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a>
-      <span class="tag tag-acc">Acc: 29%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 29%</span>
       <div class="pub-authors">Shiyuan Huang=, <b>Fangxin Liu=</b>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -707,7 +707,7 @@ author_profile: true
     <span class="pub-venue">[ASPDAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>
-      <span class="tag tag-acc">Acc: 29%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 29%</span>
       <div class="pub-authors">Haomin Li=, <b>Fangxin Liu=</b>, Yichi Chen, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -717,7 +717,7 @@ author_profile: true
     <span class="pub-venue">[DAC '24]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
-      <span class="tag tag-acc">Acc: 23%</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors"><b>Fangxin Liu=</b>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -729,7 +729,7 @@ author_profile: true
     <span class="pub-venue">[IEEE TC '23]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">ERA-BS: Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
-      <span class="tag tag-ccf">CCF-A</span><span class="tag-italic">(Top Jour. in Arch)</span>
+      <span class="tag-italic">(Top Jour. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
       <div class="pub-authors"><b>Fangxin Liu</b>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
@@ -749,7 +749,7 @@ author_profile: true
     <span class="pub-venue">[ICCAD '23]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>
-      <span class="tag tag-acc">Acc: 23%</span><span class="tag-italic">(Top Conf. in EDA)</span>
+      <span class="tag-italic">(Top Conf. in EDA)</span><span class="tag tag-acc">Acc: 23%</span>
       <div class="pub-authors">Haomin Li=, <b>Fangxin Liu=</b>, Yichi Chen, Li Jiang</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
