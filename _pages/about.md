@@ -7,135 +7,214 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #333; line-height: 1.6; }
+  
+  /* 进化版统计看板：强化第一/通讯及企业合作概念 */
+  .stats-board {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin: 30px 0;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 12px;
+    border: 1px solid #eee;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .stat-card { text-align: center; }
+  .stat-num {
+    display: block;
+    font-size: 28px;
+    font-weight: 900;
+    color: #538F79; /* 交大绿 */
+    font-family: "Arial Black", sans-serif;
+  }
+  .stat-label {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    color: #222;
+    margin-top: 4px;
+  }
+  .stat-sub {
+    font-size: 10px;
+    color: #888;
+    line-height: 1.2;
+    margin-top: 2px;
+    display: block;
+  }
 
-Fangxin (Leon) Liu is an Assistant Professor and Ph.D. supervisor at Shanghai Jiao Tong University (SJTU). I also serve as a Research Fellow at the Shanghai Qi Zhi Institute and a part-time Associate Professor at Shanghai Customs College. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
+  /* News 列表：保持呼吸感与对齐 */
+  .news-box { margin-top: 25px; }
+  .news-item {
+    display: flex;
+    margin-bottom: 16px; /* 确保回车感 */
+    align-items: flex-start;
+  }
+  .news-date {
+    font-family: 'Courier New', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: #538F79;
+    background: #f0f4f2;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-right: 15px;
+    min-width: 115px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+  .news-text { font-size: 14.5px; flex: 1; }
+  
+  /* 调整详情页样式 */
+  summary { cursor: pointer; color: #538F79; font-weight: bold; padding: 10px 0; outline: none; }
+  summary:hover { text-decoration: underline; }
 
-I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. My work has been recognized with several honors, including the Spark Award from HUAWEI, the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM China Shanghai Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2022. Up to now, I have published over 60 papers (as <u><b>first or corresponding author</b></u>), with more than <u><b>40</b></u> of them in <u><b>CCF Tier A</b></u>, including top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD.
-<!-- You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
+  @media (max-width: 768px) {
+    .stats-board { grid-template-columns: 1fr 1fr; }
+    .news-item { flex-direction: column; }
+    .news-date { margin-bottom: 6px; }
+  }
+</style>
 
-My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to 40% reductions in computational costs for large-scale AI deployments. I am committed to bridging cutting-edge research with practical industry solutions and welcome opportunities for further collaboration.
-<!-- 
-The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future. -->
+Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. I also serve as a Research Fellow at the **Shanghai Qi Zhi Institute** and a part-time Associate Professor at **Shanghai Customs College**. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
 
-News
------------
-`Feb./24/2026` Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to DAC 2026. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!
+I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of **Prof. Li Jiang**. My research has led to over <font color=538F79><b>**60 publications**</b></font> as <font color=538F79><b>**first or corresponding author**</b></font>, including more than <font color=538F79><b>**40 in CCF Tier A**</b></font> venues such as **ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD**. These contributions have been recognized with several honors, including the **Spark Award from HUAWEI**, the **Outstanding Doctoral Dissertation Award** from the Shanghai Computer Society, the **ACM China Shanghai Excellent Doctoral Dissertation Award**, and the **Best Paper Award at DATE 2022**.
+<div class="stats-board">
+  <div class="stat-card">
+    <span class="stat-num" style="color:#222;">40+</span>
+    <span class="stat-label">CCF Tier A</span>
+    <span class="stat-sub">as 1st or Corr. Author</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num">60+</span>
+    <span class="stat-label">Total Pubs</span>
+    <span class="stat-sub">as 1st or Corr. Author</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num">5+</span>
+    <span class="stat-label">Industry Partners</span>
+    <span class="stat-sub">Huawei, Ant, ZTE, etc.</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num" style="color:#d48806;">5+</span>
+    <span class="stat-label">Major Awards</span>
+    <span class="stat-sub">Best Paper & Dissertation</span>
+  </div>
+</div>
 
-`Feb./04/2026` Our joint technical report with Huawei MindSpore team, HyperOffload (a supernode memory management framework), is released. It enables proactive remote memory scheduling, overlaps data transfer and computation, cuts peak memory by 26% with end-to-end performance lossless in MindSpore. arXiv: [http://arxiv.org/abs/2602.00748](http://arxiv.org/abs/2602.00748)
+My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments. I am committed to bridging cutting-edge research with practical industry solutions and welcome opportunities for further collaboration.
 
-`Jan./24/2026` Our paper "NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression" has been accepted to ACM TACO 2026. Congratulations to Ning Yang and all co-authors!
+---
 
-`Jan./21/2026` Our work “TFLOP: An FPGA-Affinity Edge LLM Accelerator with Unified LUT-based Optimization” has received the [Special Feature Award](https://mp.weixin.qq.com/s/rLS4hiEnpIpnJWj6FWYikg) at the ASP-DAC University LSI Design Contest 2026.
+### 🔥 Recruitment
+Our [team](https://acalab.sjtu.edu.cn/CN/Default.aspx) is actively seeking self-motivated **PhD, Master, and Undergraduate students** who are interested in Computer Architecture, Efficient AI acceleration, and PIM Design. If you are interested, please [email me](mailto:liufangxin@sjtu.edu.cn) your CV.
 
-`Nov./26/2025` Our two papers on MoE memory bottleneck optimization and 3DGS collaborative rendering acceleration have been accepted to ASPLOS 2026. Congratulations to Ning Yang and all co-authors!
+---
 
-`Nov./11/2025` Our two papers on graph-based memory optimization and sparse Transformer acceleration have been accepted to PPoPP 2026. Congratulations to Hanjing and all co-authors!
+### News
+<div class="news-box">
 
-`Nov./11/2025` Our three papers on Large Number Modular Multiplication, LLM Inference Acceleration, and CPU-GPU Heterogeneous Computing have been accepted to DATE 2026. Congratulations to Haomin, Yuwei, Yuang and all co-authors!
+<div class="news-item">
+  <span class="news-date">Feb./24/2026</span>
+  <div class="news-text">🚀 Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
+</div>
 
-`Nov./10/2025` Our paper "ASTER: Adaptive Dynamic Layer-Skipping for Efficient Transformer Inference via Markov Decision Process" has been awarded [Outstanding Paper](https://acmmm2025.org/awards/) in Systems Theme at ACM MM 2025. Congratulations to Junjie and all co-authors!
+<div class="news-item">
+  <span class="news-date">Feb./04/2026</span>
+  <div class="news-text">📄 Our joint technical report with Huawei MindSpore team, <b>HyperOffload</b> (a supernode memory management framework), is released. It cuts peak memory by 26% with end-to-end performance lossless. arXiv: <a href="http://arxiv.org/abs/2602.00748">2602.00748</a></div>
+</div>
 
-`Nov./08/2025` Our two papers on 3D Gaussian Splatting (3DGS) Acceleration have been accepted to HPCA 2026. Congratulations to Haomin and all co-authors!
+<div class="news-item">
+  <span class="news-date">Jan./24/2026</span>
+  <div class="news-text">📄 Our paper "NICE: Deep Neural Network Acceleration via Index Assisted Compression" has been accepted to <b>ACM TACO 2026</b>. Congratulations to Ning Yang!</div>
+</div>
 
-`Nov./08/2025` Our paper "SpecQuant" on Frequency-Domain Low-Bit Quantization has been accepted to AAAI 2026. Congratulations to Zhixiong and all co-authors!
+<div class="news-item">
+  <span class="news-date">Jan./21/2026</span>
+  <div class="news-text">🏆 Our work “TFLOP” has received the <b>Special Feature Award</b> at the ASP-DAC University LSI Design Contest 2026.</div>
+</div>
 
-`Nov./03/2025` Our paper "MIXQ" on Mixed-Precision Compiler Acceleration has been accepted to ACM TACO 2025! Congratulations to Shiyuan and all co-authors!
+<div class="news-item">
+  <span class="news-date">Nov./26/2025</span>
+  <div class="news-text">📄 Our two papers on MoE memory bottleneck and 3DGS rendering have been accepted to <b>ASPLOS 2026</b>. Congratulations to Ning Yang and all!</div>
+</div>
 
-`Nov./02/2025` Our paper on Variable-Length Encoding for Mixed-Precision LLM Acceleration has been accepted to ACM TACO 2025! Congratulations to Ning Yang and all co-authors!
+<div class="news-item">
+  <span class="news-date">Nov./11/2025</span>
+  <div class="news-text">📄 Two papers on graph-based memory and sparse Transformer accepted to <b>PPoPP 2026</b>. Congrats to Hanjing!</div>
+</div>
 
-`Oct./11/2025` Our team won the [First Prize and Third Prize](https://mp.weixin.qq.com/s/wZfZkDkeL2mrB8OWYXd4Jw) in the 2nd Open Source Community Competition on Integrated Chip and Chiplet Technology (Chinese: [第二届集成芯片和芯粒技术开源社区大赛一等奖](https://mp.weixin.qq.com/s/1r7IpKMPQMPnPtRcgxYwxQ)), which was held alongside the [3rd Integrated Chip and Chiplet Conference](https://mp.weixin.qq.com/s/uk7T5agpwqQtEFaLGzAyNA) co-hosted by Wuhan University, Institute of Computing Technology of the Chinese Academy of Sciences, and Fudan University . Congratulations to Ning Yang, Junjie and teammates.
+<div class="news-item">
+  <span class="news-date">Nov./11/2025</span>
+  <div class="news-text">📄 Three papers on Modular Multiplication, LLM, and Heterogeneous Computing accepted to <b>DATE 2026</b>.</div>
+</div>
 
+<div class="news-item">
+  <span class="news-date">Nov./10/2025</span>
+  <div class="news-text">🏆 <b>ASTER</b> awarded <b>Outstanding Paper</b> (Systems Theme) at ACM MM 2025. Congratulations to Junjie!</div>
+</div>
 
-`Sep./20/2025` Our team won the Grand Prize (Chinese: 图计算系统设计大赛特等奖) in the [CCF Sys2025 Graph Computing System Design Competition](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A), and was also honored with the [Best Project Poster Award](https://mp.weixin.qq.com/s/UflGd8325kiKbmE-lA9o6A) (Chinese: 最佳项目海报奖). Congratulations to Zongwu, Chenyang, and teammates.
+<details>
+<summary>🕒 Click to view all 40+ Archived News (2025 - 2022)</summary>
+<br>
 
-`Sep./05/2025` Our paper "BLADE" on DRAM-based LLM Acceleration has been accepted to [ASP-DAC 2026](https://www.aspdac.com/aspdac2026). Congratulations to Yilong.
+<div class="news-item"><span class="news-date">Nov./08/2025</span><div class="news-text">📄 Two papers on 3DGS Acceleration accepted to <b>HPCA 2026</b>. Congrats to Haomin!</div></div>
+<div class="news-item"><span class="news-date">Nov./08/2025</span><div class="news-text">📄 Paper "SpecQuant" accepted to <b>AAAI 2026</b>. Congrats to Zhixiong!</div></div>
+<div class="news-item"><span class="news-date">Nov./03/2025</span><div class="news-text">📄 Paper "MIXQ" on Mixed-Precision Compiler accepted to <b>ACM TACO 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./02/2025</span><div class="news-text">📄 Paper on Variable-Length Encoding for LLMs accepted to <b>ACM TACO 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Oct./11/2025</span><div class="news-text">🏆 Won <b>First & Third Prize</b> in the 2nd Chiplet Technology Open Source Competition.</div></div>
+<div class="news-item"><span class="news-date">Sep./20/2025</span><div class="news-text">🏆 Won <b>Grand Prize</b> and <b>Best Poster Award</b> in CCF Sys2025 Graph Computing Competition.</div></div>
+<div class="news-item"><span class="news-date">Sep./05/2025</span><div class="news-text">📄 Paper "BLADE" on DRAM-based LLM Acceleration accepted to <b>ASP-DAC 2026</b>.</div></div>
+<div class="news-item"><span class="news-date">Aug./29/2025</span><div class="news-text">📰 "FlexQuant" framework reported by <b>Ant Group Asystem Team</b>. Congrats to Zongwu!</div></div>
+<div class="news-item"><span class="news-date">Aug./21/2025</span><div class="news-text">📄 Paper on Flexible Quantization for LLM accepted to <b>EMNLP 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./15/2025</span><div class="news-text">📄 Paper on Quantum Computing Acceleration accepted to <b>MICRO-58 (2025)</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./06/2025</span><div class="news-text">📄 Adaptive Dynamic Layer-skipping for LLM accepted to <b>ACM MM (Oral) 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./01/2025</span><div class="news-text">📄 Three papers on PIM-LLM, Circuit Opt, and PCIe Tracing accepted to <b>ICCAD 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">May./03/2025</span><div class="news-text">📄 "Collision Detection Accelerator Based on RRAM-TCAMs" accepted to <b>IEEE TCAD 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Apr./29/2025</span><div class="news-text">📄 Two papers on PIM+NeRF and PIM+Database accepted to <b>ASPLOS 2026</b>.</div></div>
+<div class="news-item"><span class="news-date">Apr./16/2025</span><div class="news-text">📄 "Enhancing Robustness of Binary HDC" accepted to <b>ACM TACO 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Mar./22/2025</span><div class="news-text">📄 Two papers on HDC and Quantum-Classical Computing accepted to <b>ISCA 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Feb./15/2025</span><div class="news-text">📄 Four papers on LLM acceleration and FHE accepted to <b>DAC 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./13/2024</span><div class="news-text">📄 Five papers on HDC and LLM acceleration accepted to <b>DATE 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./03/2024</span><div class="news-text">📄 Two papers on Sparse Compilation and Gaussian Splatting accepted to <b>HPCA 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./01/2024</span><div class="news-text">📄 "SearchQ" on data-free LLM compression accepted to <b>TCAS-AI 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Oct./03/2024</span><div class="news-text">📄 "STCO" on AI Compilation accepted to <b>TODAES 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Sep./08/2024</span><div class="news-text">📄 Two papers on PQ Compression and SNN Quantization accepted to <b>ASP-DAC 2025</b>.</div></div>
+<div class="news-item"><span class="news-date">Aug./26/2024</span><div class="news-text">💰 Received <b>NSFC Youth Fund</b> grant for Adaptive Compression Encoding.</div></div>
+<div class="news-item"><span class="news-date">Aug./22/2024</span><div class="news-text">📄 Paper on compiler plug-in for SpMM accepted to <b>IEEE TCAD 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Aug./02/2024</span><div class="news-text">📄 Four papers on LLMs, SNNs, and Nested Address Translation accepted to <b>ICCD 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./18/2024</span><div class="news-text">📄 Two papers on SNN and NeRF accelerators accepted to <b>MICRO 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./06/2024</span><div class="news-text">🏆 Received <b>2023 ACM Shanghai Doctoral Dissertation Award</b>.</div></div>
+<div class="news-item"><span class="news-date">Jun./07/2024</span><div class="news-text">📄 Paper on SNN Accelerator accepted to <b>TPDS 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">May./25/2024</span><div class="news-text">📄 Three papers accepted by <b>ChinaSys24</b> in Hangzhou.</div></div>
+<div class="news-item"><span class="news-date">May./20/2024</span><div class="news-text">📄 "LowPASS" ReRAM SNN Accelerator accepted to <b>ISLPED 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Mar./20/2024</span><div class="news-text">📄 "UM-PIM" uniform memory mechanism accepted to <b>ISCA 2024</b>.</div></div>
+<div class="news-item"><span class="news-date">Mar./18/2024</span><div class="news-text">🏆 Received <b>2023 Shanghai CCF Outstanding Dissertation Award</b>.</div></div>
+<div class="news-item"><span class="news-date">Feb./27/2024</span><div class="news-text">📄 Two papers accepted by <b>DAC 2024</b>. Congrats to Ning Yang!</div></div>
+<div class="news-item"><span class="news-date">Dec./29/2023</span><div class="news-text">📰 "SPARK" framework reported by <b>Jiqizhixin (机器之心)</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./12/2023</span><div class="news-text">📄 "RTSA" accepted by <b>DATE 2024</b>. Congrats to Jiahao!</div></div>
+<div class="news-item"><span class="news-date">Oct./23/2023</span><div class="news-text">📄 "SPARK" accepted by <b>HPCA 2024</b>. Congrats to Ning Yang!</div></div>
+<div class="news-item"><span class="news-date">Sep./09/2023</span><div class="news-text">📄 Four papers accepted by <b>ASP-DAC 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Aug./25/2023</span><div class="news-text">📄 "PSQ" accepted by <b>ICCD 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./21/2023</span><div class="news-text">📄 "HyperNode" accepted by <b>ICCAD 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Jul./18/2023</span><div class="news-text">📄 "ERA-BS" accepted by <b>IEEE TC 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Feb./24/2023</span><div class="news-text">📄 "HyperAttack" accepted by <b>DAC 2023</b>.</div></div>
+<div class="news-item"><span class="news-date">Nov./18/2022</span><div class="news-text">📄 "SIMSnn" accepted by <b>DATE 2023</b>.</div></div>
 
+</details>
 
-`Aug./29/2025` The "FlexQuant" quantization framework for LLM Acceleration has been reported by [Asystem Team](https://mp.weixin.qq.com/s/E3WQiKRk5-jLML5Mg0jEgw) From Ant Group (Chinese: 蚂蚁集团). Congratulations to Zongwu.
+</div>
 
-`Aug./21/2025` Our paper on Flexbile Quantization for LLM Acceleration has been accepted to EMNLP 2025. Congratulations to Zongwu and Jinghong.
+---
 
-`Jul./15/2025` Our paper on Quantum Computing Acceleration has been accepted to MICRO-58 (2025). 
-
-`Jul./06/2025` Our paper on Adaptive Dynamic Layer-skipping Framework for LLM acceleration has been accepted to ACM MM (Oral) 2025. Congratulations to Junjie.
-
-`Jul./01/2025` Our three papers on PIM-based LLM acceleration, circuit optimization for nonlinear operations, and PCIe tracing for edge AI have been accepted to ICCAD 2025. Congratulations to Yiwe, Zhixiong, and Zhibai.
-
-`May/03/2025` Our paper on "Collision Ditection Accelerator Based on RRAM-TCAMs" has been accepted by IEEE TCAD 2025! Congratulations to Yijian.
-
-`Apr./29/2025` Our two papers on "PIM+NeRF" and "PIM+Database (OLAP and OLTP)" have been accepted by ASPLOS 2026! Congratulations to Haomin and Yilong.
-
-`Apr./16/2025` Our paper on "Enhancing Robustness of Binary Hyper-Dimensional Computing" has been accepted by ACM TACO 2025! Congratulations to Haomin.
-
-`Mar./22/2025` Our two papers on brain-inspired computing (HDC) and Quantum-Classical Computing have been accepted by ISCA 2025! Congratulations to Haomin.
-
-`Feb./15/2025` Our four papers on LLM acceleration and FHE have been accepted by DAC 2025 ! Congratulations to Haomin, Zongwu, Ning Yang.
-
-`Nov./13/2024` Our five papers on the brain-inspired HDC and LLM acceleration have been accepted by DATE 2025! Congratulations to Haomin, Zongwu, Ning Yang.
-
-`Nov./03/2024` Our two papers on the Acceleration with Sparse Compilation Optimization and Guassian Splatting have been accepted by HPCA 2025! Congratulations to Shiyuan.
-
-`Nov./01/2024` Our paper "SearchQ" on the post-training & data-free compression on LLMs have been accepted by TCAS-AI 2024! Congratulations to Ning Yang.
-
-`Oct./03/2024` Our Paper "STCO" on the AI Compilation Optimization have been accepted by TODAES 2024! Congratulations to Shiyuan.
-
-`Sep./08/2024` Our two papers on the PQ Compression and SNN Quantization have been accepted by ASP-DAC 2025! Congratulations to Zongwu and Haomin.
-
-`Aug./26/2024` I received a grant from the NSFC Youth Fund titled "Neural Network Hardware-Software Co-design Architecture Based on Adaptive Compression Ecoding".
-
-`Aug./22/2024` Our paper on a novel compiler plug-in for efficient SpMM has been accepted by IEEE TCAD 2024! Congratulations to Shiyuan.
-
-`Aug./2/2024` Our four papers on the Accelerations of LLMs, SNNs, and nested address translation in virtualized environments have been accepted by ICCD 2024! Congratulations to Ning Yang, Zongwu and Longyu.
-
-`Jul./18/2024` Our two papers on the Accelerators of Spiking Neural Networks and Neural Radiance Fields have been accepted by MICRO 2024! Congratulations to Zongwu.
-
-`Jul./06/2024` Fangxin Liu received 2023 ACM Shanghai Doctoral Dissertation Award.
-
-`Jun./07/2024` Our paper on SNN Accelerator has been accepted by TPDS 2024!
-
-`May/25/2024` Our three papers on DRAM PIM, video acceleration, and LLM acceleration have been accepted by ChinaSys24. We look forward to sharing them in Hangzhou!
-
-`May/20/2024` Our "LowPASS" A ReRAM-based SNN Accelerator has been accepted by ISLPED 2024! Congratulations to Zongwu.
-
-`Mar./20/2024` Our "UM-PIM" Data re-layouted machnism has been accepted by ISCA 2024! Congratulations to Yilong.
-
-`Mar./18/2024` Fangxin Liu received 2023 Shanghai CCF Outstanding Dissertation Award.
-
-`Feb./27/2024` Our 2 papers have been accepted by DAC 2024! Congratulations to Ning Yang.
-
-`Dec./29/2023` The "SPARK" acceleration framework has been reported in [Jiqizhixin](https://mp.weixin.qq.com/s/SvLTyAyY8mZEmPL4OZ5Bcw)(机器之心).
-
-`Nov./12/2023` Our paper "RTSA" has been accepted by DATE 2024! Congratulations to Jiahao.
-
-`Oct./23/2023` Our paper "SPARK" has been accepted by HPCA 2024! Congratulations to Ning Yang.
-
-`Sep./09/2023` Our 4 papers have been accepted by ASP-DAC 2023! Congratulations to Haomin, Shiyuan, Tian Li.
-
-`Aug./25/2023` Our paper "PSQ" has been accepted by ICCD 2023! Congratulations to Ning Yang.
-
-`Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! Congratulations to Haomin.
-
-`Jul./18/2023` Our paper "ERA-BS" has been accepted by TC 2023!
-
-`Feb./24/2023` Our paper "HyperAttack" has been accepted by DAC 2023! 
-
-`Nov./18/2022` Our paper "SIMSnn" has been accepted by DATE 2023!
-
-Research
------------
-Current research interests focuses on:
-
-- LLMs/Neural Network Acceleration (大模型/神经网络训练、推理加速)
-- In-memory Computing (存内计算)
-- Brain-inspired Neuromorphic Computing (神经模态计算)
-- AI Compilation Optimization (AI编译优化)
-
-
-Recruitment
------------
-<p>Our <a href="https://acalab.sjtu.edu.cn/CN/Default.aspx">team</a> is seeking self-motivated PhD, Master and Undergraduate students who are interested in Computer Architecture, Efficient AI acceleration, and PIM Design. If you are interested, please <a href="mailto:liufangxin@sjtu.edu.cn">email me</a> your CV.</p>
-
-
+### Research
+His research bridges the gap between **Cutting-edge Architecture** and **Practical AI Solutions**, focusing on:
+* **LLM & Generative AI Acceleration** (Mixed-precision, Quantization, MoE)
+* **In-Memory Computing** (RRAM/DRAM-based PIM/CiM)
+* **Brain-inspired Computing** (Spiking Neural Networks, HDC)
+* **AI Compilation & HW/SW Co-design**
 
 Recent Visits to this Site
 -----------
