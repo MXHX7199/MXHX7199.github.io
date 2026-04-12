@@ -121,6 +121,11 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 ### News
 <div class="news-box">
 <div class="news-item">
+  <span class="news-date">Apr. 06, 2026</span>
+  <div class="news-text">🚀 <b>ACL 2026</b>: Our paper (<b>CSD</b>) on <b>Speculative Decoding Acceleration</b> has been accepted to the ACL 2026 Main Conference. Congratulations to <b>Xuwen</b> and all co-authors!</div>
+</div>
+
+<div class="news-item">
   <span class="news-date">Mar. 28, 2026</span>
   <div class="news-text">🚀 <b>ISCA 2026</b>: Three papers covering Sparse Matrix Multiplication (<b>Harmonia</b>), MoE Inference Optimization (<b>STEP</b>), and Mobile PIM/CPU Scheduling (<b>COMET</b>) have been accepted to the 53rd International Symposium on Computer Architecture. Congratulations to Jingkui, Ning, Yilong, and all co-authors!</div>
 </div>

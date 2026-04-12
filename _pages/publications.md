@@ -119,7 +119,20 @@ author_profile: true
   </div>
 
   <div class="year-header">2026</div>
-
+  <div class="pub-item">
+    <span class="pub-venue">[ACL '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">Calibrated Speculative Decoding: Frequency-Guided Candidate Selection for Efficient Inference</a>
+      <span class="tag-italic">(Top Conf. in NLP)</span><span class="tag tag-acc">Main Conference</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Xuwen Zhou, <b>Fangxin Liu*</b>, Chao Wang, Xiao Zheng, Hao Zheng, Min He, Li Jiang, and Haibing Guan</div>
+      <div class="pub-links">
+        <a href="#" class="link-btn">[Paper]</a>
+        <a href="#" class="link-btn">[Code]</a>
+        <a href="#" class="link-btn">[BibTeX]</a>
+      </div>
+    </div>
+  </div>
+  
   <div class="pub-item">
     <span class="pub-venue">[ISCA '26]</span>
     <div class="pub-content">
