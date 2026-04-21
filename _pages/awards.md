@@ -33,9 +33,8 @@ redirect_from:
     .award-section h3 { font-size: 1.1em; border-bottom: 2px solid #538F79; display: inline-block; padding-bottom: 2px; }
   }
 </style>
-
-<div class="award-section">
 ### 🔬 Academic & Research Honors
+<div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
   <span class="award-main"><span class="award-title">Special Feature Award</span>, IEEE ASP-DAC University LSI Design Contest <span class="selectivity">(Only 2 teams)</span></span>
@@ -63,9 +62,8 @@ redirect_from:
 </div>
 
 
-
-<div class="award-section">
 ### 🚀 Industrial Impact & Contribution
+<div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
   <span class="award-main"><span class="award-title">CANN Core Developer Certification</span>, Huawei Ascend Ecosystem</span>
@@ -76,9 +74,8 @@ redirect_from:
 </div>
 </div>
 
-
-<div class="award-section">
 ### 🎓 Dissertation Awards
+<div class="award-section">
 <div class="award-item">
   <span class="award-yr">2023</span>
   <span class="award-main"><span class="award-title">ACM Shanghai Outstanding Doctoral Dissertation Award</span> <span class="selectivity">(Only 3 in Shanghai)</span></span>
