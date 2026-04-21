@@ -121,6 +121,11 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 ### News
 <div class="news-box">
 <div class="news-item">
+  <span class="news-date">Apr. 14, 2026</span>
+  <div class="news-text">🛠️ Our high-performance <b>Attention Sparse Acceleration Kernels</b> have been officially integrated into the <b>Huawei CANN</b> (Compute Architecture for Neural Networks) software stack. Furthermore, our team has successfully passed the <b>CANN Core Developer Certification</b>, marking a significant step in bridging architectural research with large-scale industrial infrastructure.</div>
+</div>
+
+<div class="news-item">
   <span class="news-date">Apr. 06, 2026</span>
   <div class="news-text">🚀 <b>ACL 2026</b>: Our paper (<b>CSD</b>) on <b>Speculative Decoding Acceleration</b> has been accepted to the ACL 2026 Main Conference. Congratulations to <b>Xuwen</b> and all co-authors!</div>
 </div>
