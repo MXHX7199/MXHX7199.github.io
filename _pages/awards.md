@@ -85,20 +85,24 @@ redirect_from:
   <span class="award-main"><span class="award-title">Shanghai CCF Outstanding Dissertation Award</span> <span class="selectivity">(Only 2 in Shanghai)</span></span>
 </div>
 <div class="award-item">
-  <span class="award-yr">21 & 22</span>
+  <span class="award-yr">2023</span>
+  <span class="award-main"><span class="award-title">Shanghai Outstanding Graduate</span></span>
+</div>
+<div class="award-item">
+  <span class="award-yr">2023</span>
+  <span class="award-main"><span class="award-title">SJTU Principal's Award (校长奖)</span></span>
+</div>
+<div class="award-item">
+  <span class="award-yr">2023</span>
+  <span class="award-main"><span class="award-title">CCF Architecture Doctoral Dissertation Nomination Award</span></span>
+</div>
+<div class="award-item">
+  <span class="award-yr">2021&2022</span>
   <span class="award-main"><span class="award-title">National Scholarship for Ph.D. Students</span> <span class="selectivity">(Consecutive Year, Top 1%)</span></span>
 </div>
 <div class="award-item">
   <span class="award-yr">2021</span>
   <span class="award-main"><span class="award-title">Wu Wen Jun Honorary Doctoral Scholarship</span>, SJTU <span class="selectivity">(Inaugural Class)</span></span>
-</div>
-<div class="award-item">
-  <span class="award-yr">2023</span>
-  <span class="award-main">SJTU Principal's Award (校长奖) & Shanghai Outstanding Graduate</span>
-</div>
-<div class="award-item">
-  <span class="award-yr">2023</span>
-  <span class="award-main">CCF Architecture Doctoral Dissertation Nomination Award</span>
 </div>
 </div>
 <!-- {% include base_path %} -->
