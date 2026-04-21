@@ -6,51 +6,20 @@ author_profile: true
 ---
 
 <style>
-  .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 100%; color: #333; }
-  .pub-legend { font-size: 13px; color: #666; margin-bottom: 25px; padding: 12px 15px; background: #fbfbfb; border-left: 5px solid #538F79; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
-  .year-header { border-bottom: 2px solid #538F79; font-size: 22px; font-weight: bold; margin: 45px 0 20px 0; color: #222; }
-  
-  .pub-item { margin-bottom: 25px; display: flex; flex-direction: row; align-items: flex-start; line-height: 1.5; }
-  .pub-venue { font-weight: 800; min-width: 115px; flex-shrink: 0; color: #111; font-size: 14.5px; padding-top: 2px; }
-  .pub-content { flex-grow: 1; }
-  .pub-title { font-weight: 700; color: #111; text-decoration: none; font-size: 16px; display: inline; transition: 0.2s; }
-  .pub-title:hover { color: #538F79; border-bottom: 1px solid #538F79; }
-  .pub-authors { font-size: 14px; color: #555; margin-top: 5px; }
-  .pub-authors b { color: #000; text-decoration: none; border-bottom: 1.5px solid #333; }
+  .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 100%; color: #333; padding: 0 5px; }
 
-  /* 按钮链接样式 */
-  .pub-links { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
-  .link-btn { font-size: 12px; font-weight: 600; color: #538F79; text-decoration: none; padding: 2px 8px; border: 1px solid #538F79; border-radius: 4px; transition: 0.2s; }
-  .link-btn:hover { background: #538F79; color: #fff; }
-
-  /* 标签体系 */
-  .tag { font-size: 11px; padding: 1px 6px; border-radius: 4px; font-weight: 600; display: inline-block; margin-left: 4px; vertical-align: middle; }
-  .tag-ccf { color: #1a73e8; background: #eef6ff; border: 1px solid #d0e7ff; }
-  .tag-acc { color: #52c41a; background: #f6ffed; border: 1px solid #b7eb8f; }
-  .tag-award { color: #d48806; background: #fffbe6; border: 1px solid #ffe58f; }
-  .tag-industry { color: #cf1322; background: #fff1f0; border: 1px solid #ffa39e; }
-  .tag-italic { font-size: 11px; color: #777; font-style: italic; margin-left: 4px; }
-
-  /* 移动端适配 */
-  @media (max-width: 768px) {
-    .pub-item { flex-direction: column; }
-    .pub-venue { margin-bottom: 6px; font-size: 13px; background: #eee; padding: 1px 8px; border-radius: 4px; min-width: auto; }
-    .pub-title { font-size: 15px; }
-    .pub-authors { font-size: 13px; }
-    .pub-links { gap: 5px; }
-    .link-btn { padding: 1px 6px; font-size: 11px; }
-  }
-
-.stats-final-row {
+  /* 统计看板：深度适配移动端 */
+  .stats-final-row {
     display: flex !important;
     flex-direction: row !important;
-    flex-wrap: nowrap !important;
+    flex-wrap: nowrap !important; 
     justify-content: space-around;
     align-items: center;
     background: #fdfdfd;
     border: 1px solid #efefef;
+    border-top: 3px solid #538F79;
     border-radius: 6px;
-    padding: 12px 0;
+    padding: 10px 0;
     margin: 20px 0 35px 0;
     width: 100%;
   }
@@ -59,16 +28,13 @@ author_profile: true
     flex: 1;
     text-align: center;
     border-right: 1px solid #eee;
-    padding: 0 2px;
+    padding: 0 1px; /* 极端紧凑 */
     min-width: 0;
   }
-
-  .stat-unit:last-child {
-    border-right: none;
-  }
+  .stat-unit:last-child { border-right: none; }
 
   .stat-num {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 850;
     color: #538F79;
     display: block;
@@ -76,34 +42,62 @@ author_profile: true
   }
 
   .stat-text {
-    font-size: 12.5px;
+    font-size: 11.5px;
     font-weight: 700;
     color: #333;
     white-space: nowrap;
   }
 
-  /* 备注信息：默认显示 */
   .stat-sub {
     font-size: 10px;
     color: #aaa;
     display: block;
     margin-top: 2px;
-    transform: scale(0.9);
     white-space: nowrap;
+    transform: scale(0.9); /* PC端轻微缩放 */
   }
 
-  /* 移动端优化：不隐藏，仅缩小 */
+  /* 论文列表基础样式 */
+  .year-header { border-bottom: 2px solid #538F79; font-size: 22px; font-weight: bold; margin: 40px 0 20px 0; color: #222; }
+  .pub-item { margin-bottom: 25px; display: flex; flex-direction: row; align-items: flex-start; line-height: 1.5; }
+  .pub-venue { font-weight: 800; min-width: 115px; flex-shrink: 0; color: #111; font-size: 14.5px; padding-top: 2px; }
+  .pub-content { flex-grow: 1; min-width: 0; }
+  .pub-title { font-weight: 700; color: #111; text-decoration: none; font-size: 16px; display: inline; transition: 0.2s; }
+  .pub-authors { font-size: 14px; color: #555; margin-top: 5px; }
+  .pub-authors b { color: #000; text-decoration: none; border-bottom: 1.5px solid #333; }
+
+  /* 标签与按钮 */
+  .pub-links { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .link-btn { font-size: 11px; font-weight: 600; color: #538F79; text-decoration: none; padding: 1px 8px; border: 1px solid #538F79; border-radius: 4px; }
+  .tag { font-size: 10px; padding: 1px 5px; border-radius: 3px; font-weight: 600; display: inline-block; margin-left: 4px; vertical-align: middle; }
+  .tag-ccf { color: #1a73e8; background: #eef6ff; border: 1px solid #d0e7ff; }
+  .tag-award { color: #d48806; background: #fffbe6; border: 1px solid #ffe58f; }
+
+  /* 📱 移动端针对性强制适配 (Max-width: 768px) */
   @media (max-width: 768px) {
-    .stat-num { font-size: 16px; }
-    .stat-text { font-size: 10px; }
+    /* 看板：强制三行全部显示 */
+    .stat-num { font-size: 15px; }
+    .stat-text { font-size: 9px; letter-spacing: -0.2px; }
+    
     .stat-sub { 
-      font-size: 8px; 
-      transform: scale(0.85);
-      margin-top: 0px;
+      display: block !important; /* 强制显示 */
+      font-size: 8px !important; 
+      transform: scale(0.8); /* 深度缩放 */
+      margin-top: -1px; /* 压缩行间距 */
+      color: #bbb;
     }
-    .stats-final-row { padding: 8px 0; }
+    
+    .stats-final-row { padding: 6px 0; }
+
+    /* 论文列表：上下结构 */
+    .pub-item { flex-direction: column; }
+    .pub-venue { min-width: auto; margin-bottom: 4px; font-size: 12px; background: #f0f4f2; padding: 1px 6px; border-radius: 3px; }
+    .pub-title { font-size: 14.5px; }
+    .pub-authors { font-size: 12.5px; }
+    .link-btn { padding: 2px 8px; font-size: 11.5px; }
   }
 </style>
+
 
 <div class="stats-final-row"><div class="stat-unit"><span class="stat-num" style="color:#222;">60+</span><span class="stat-text">CCF-A</span><span class="stat-sub">Overall Pubs</span></div>
 
