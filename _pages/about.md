@@ -120,6 +120,12 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 ### News
 <div class="news-box">
+
+<div class="news-item">
+<span class="news-date">Apr. 26, 2026</span>
+<div class="news-text">🏆 <b>Best Paper Candidate</b>: Our paper "<b>COMET</b>: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices" has been selected as one of the <b>five finalists for the Best Paper Award at ISCA 2026</b>. Congratulations to Yilong and all co-authors on this prestigious honor!</div>
+</div>
+
 <div class="news-item">
   <span class="news-date">Apr. 14, 2026</span>
   <div class="news-text">🛠️ Our high-performance <b>Attention Sparse Acceleration Kernels</b> have been officially integrated into the <b>Huawei CANN</b> (Compute Architecture for Neural Networks) software stack. Furthermore, our team has successfully passed the <b>CANN Core Developer Certification</b>, marking a significant step in bridging architectural research with large-scale industrial infrastructure.</div>
