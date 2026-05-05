@@ -80,11 +80,24 @@ redirect_from:
     .news-item { flex-direction: column; }
     .news-date { margin-bottom: 8px; }
   }
+
+/* 学术成果高亮样式：低调而显著 */
+  .highlight-award {
+    /* 采用更淡的渐变，确保在段落中不显突兀 */
+    background: linear-gradient(120deg, rgba(83, 143, 121, 0.12) 0%, rgba(83, 143, 121, 0.05) 100%);
+    border-bottom: 1px solid rgba(83, 143, 121, 0.2);
+    padding: 1px 3px;
+    border-radius: 3px;
+    color: #111;
+    /* 这里的 key 是防止背景色切断文字 */
+    white-space: nowrap; 
+  }
+  
 </style>
 
-Fangxin (Leon) Liu is an Assistant Professor and Ph.D. supervisor in the School of Computer Science at Shanghai Jiao Tong University (SJTU). He is a core member of the [Institute of Scalable Computing](https://www.cs.sjtu.edu.cn/yjjg/818.html) at SJTU. I also serve as a Research Fellow at the **Shanghai Qi Zhi Institute**. My research interests include neural network acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
+Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Institute of Scalable Computing](https://www.cs.sjtu.edu.cn/yjjg/818.html) at SJTU, working closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. His research interests include AI acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
 
-I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To date, I have published over **60 papers** as **first or corresponding author**, with more than **40 in CCF Tier A** venues, including top-tier architecture conferences and journals such as **ISCA, MICRO, ASPLOS, HPCA, PPoPP, DAC, IEEE TC, TPDS, and TCAD**. My work has been recognized with honors such as the **Spark Award from HUAWEI**, the **Outstanding Doctoral Dissertation Award** from the Shanghai Computer Society, the **ACM China Shanghai Excellent Doctoral Dissertation Award**, and the **Best Paper Award at DATE 2022**.
+I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To date, I have published over **60 papers** as **first or corresponding author**, with more than **40 in CCF Tier A** venues (e.g., **ISCA, MICRO, ASPLOS, HPCA, PPoPP**). My work has been recognized with prestigious honors, including the <span class="highlight-award"><b>Best Paper Finalist at ISCA 2026</b></span>, the <span class="highlight-award"><b>Outstanding Paper Award at ACM MM 2025 (Systems Theme)</b></span>, the <span class="highlight-award"><b>Best Paper Award at DATE 2022</b></span>, and the <span class="highlight-award"><b>Spark Award (火花奖) from HUAWEI</b></span>. I am also the recipient of **Outstanding Doctoral Dissertation Awards** from both **ACM China (Shanghai)** and the **Shanghai Computer Society**.
 
 <div class="stats-board">
   <div class="stat-card">

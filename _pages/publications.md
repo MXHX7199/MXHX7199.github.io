@@ -151,7 +151,7 @@ author_profile: true
     <span class="pub-venue">[ISCA '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">COMET: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices</a>
-      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-award">🏆 Best Paper Award Finalist</span>
       <div class="pub-authors">Yilong Zhao=, <b>Fangxin Liu=</b>, Onur Mutlu, Mingyu Gao, Jian Liu, Li Jiang, Haibing Guan</div>
       <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
