@@ -81,16 +81,25 @@ redirect_from:
     .news-date { margin-bottom: 8px; }
   }
 
-/* 学术成果高亮样式：低调而显著 */
+/* 学术成果高亮 */
   .highlight-award {
-    /* 采用更淡的渐变，确保在段落中不显突兀 */
-    background: linear-gradient(120deg, rgba(83, 143, 121, 0.12) 0%, rgba(83, 143, 121, 0.05) 100%);
-    border-bottom: 1px solid rgba(83, 143, 121, 0.2);
-    padding: 1px 3px;
+    /* 1. 颜色与权重 */
+    color: #990000; 
+    font-weight: 700;
+
+    font-family: "Georgia", "Times New Roman", Times, serif;
+
+    /* 3. 背景与装饰 */
+    background: rgba(153, 0, 0, 0.05); 
+    padding: 1px 4px;
     border-radius: 3px;
-    color: #111;
-    /* 这里的 key 是防止背景色切断文字 */
-    white-space: nowrap; 
+    border-bottom: 1.5px solid rgba(153, 0, 0, 0.2);
+
+    /* 4. 布局微调 */
+    display: inline; 
+    white-space: normal;
+    /* 稍微收缩字间距，让 Serif 字体在视觉上更精致 */
+    letter-spacing: -0.01em; 
   }
   
 </style>
