@@ -37,6 +37,14 @@ redirect_from:
 <div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
+  <span class="award-main">
+    <span class="award-main"><span class="award-title">Best Paper Award Finalist</span>, 
+    IEEE/ACM ISCA <span class="selectivity">(Selected for Plenary Session, Only 5 papers)</span>
+  </span>
+</div>
+
+<div class="award-item">
+  <span class="award-yr">2026</span>
   <span class="award-main"><span class="award-title">Special Feature Award</span>, IEEE ASP-DAC University LSI Design Contest <span class="selectivity">(Only 2 teams)</span></span>
 </div>
 <div class="award-item">
