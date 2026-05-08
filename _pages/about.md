@@ -83,24 +83,13 @@ redirect_from:
 
 /* 学术成果高亮 */
   .highlight-award {
-    /* 1. 颜色与权重 */
-    color: #990000; 
-    font-weight: 700;
-
-    font-family: "Georgia", "Times New Roman", Times, serif;
-
-    /* 3. 背景与装饰 */
-    background: rgba(153, 0, 0, 0.05); 
-    padding: 1px 4px;
-    border-radius: 3px;
-    border-bottom: 1.5px solid rgba(153, 0, 0, 0.2);
-
-    /* 4. 布局微调 */
-    display: inline; 
-    white-space: normal;
-    /* 稍微收缩字间距，让 Serif 字体在视觉上更精致 */
-    letter-spacing: -0.01em; 
-  }
+  color: #990000; /* 经典的深学术红 */
+  font-weight: 700; /* 足够醒目 */
+  /* 保持与正文一致的字体，不破坏段落的阅读流 */
+  font-family: inherit; 
+  /* 仅保留最轻微的间距调整 */
+  padding: 0 1px; 
+}
   
 </style>
 
