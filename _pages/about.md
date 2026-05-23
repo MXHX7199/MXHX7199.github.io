@@ -119,10 +119,10 @@ redirect_from:
     margin: 0;
   }
   
-  /* 具体小点技术描述：13.5px */
+  /* 具体小点技术描述：12px */
   .res-item-compact { 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-size: 13.5px; 
+    font-size: 12px; 
     line-height: 1.5; 
     color: #333; 
     margin: 3px 0;          
