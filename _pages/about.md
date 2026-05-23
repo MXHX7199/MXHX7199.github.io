@@ -194,7 +194,7 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
   </div>
 </div>
 
-My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments. I am committed to bridging cutting-edge research with practical industry solutions and welcome opportunities for further collaboration.
+My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments.
 
 ---
 
