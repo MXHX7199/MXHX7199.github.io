@@ -91,7 +91,7 @@ redirect_from:
   padding: 0 1px; 
 }
 
-
+ /* 研究方向 */
 .res-compact-container { 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
     max-width: 100%; 
@@ -112,29 +112,30 @@ redirect_from:
     margin-bottom: 3px;
   }
   
-  /* 子列表容器：利用标准无序列表实现空心圆与原生缩进 */
+  /* 子列表容器：强制改为空心圆圈与原生缩进 */
   .res-sub-list { 
-    list-style-type: circle; /* 关键：强制改为空心圆圈 */
-    padding-left: 18px;      /* 关键：控制整个列表的左侧缩进量 */
+    list-style-type: circle; 
+    padding-left: 18px;      
     margin: 0;
   }
   
-  /* 具体小点：消除默认 margin，收紧行高 */
+  /* 具体小点：统一继承系统默认字体，收紧行高 */
   .res-item-compact { 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: 13.5px; 
     line-height: 1.5; 
     color: #333; 
-    margin: 3px 0;          /* 精准控制小点之间的上下间距 */
+    margin: 3px 0;          
     padding: 0;
   }
   
-  /* 论文方括号样式 */
+  /* 论文方括号样式：已修改为与大标题完全一致的系统无衬线字体，保持视觉高度统一 */
   .res-pub-compact { 
-    font-family: 'Courier New', monospace; 
-    font-weight: 700; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-weight: 600; 
     color: #437865; 
-    font-size: 12.5px; 
-    margin-left: 4px; 
+    font-size: 13px; 
+    margin-left: 5px; 
   }
   
   /* B站视频微型按钮 */
