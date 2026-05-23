@@ -103,7 +103,7 @@ redirect_from:
     margin-bottom: 14px; 
   }
   
-  /* 大方向标题 */
+  /* 大方向标题：保持 15px 700字重 */
   .res-title-compact { 
     font-size: 15px; 
     font-weight: 700; 
@@ -119,7 +119,7 @@ redirect_from:
     margin: 0;
   }
   
-  /* 具体小点：统一继承系统默认字体，收紧行高 */
+  /* 具体小点技术描述：13.5px */
   .res-item-compact { 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: 13.5px; 
@@ -129,13 +129,14 @@ redirect_from:
     padding: 0;
   }
   
-  /* 论文方括号样式：已修改为与大标题完全一致的系统无衬线字体，保持视觉高度统一 */
+  /* 论文方括号样式：下调至 12px，字重改为 500 适度中粗，彻底压低视觉体积感 */
   .res-pub-compact { 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-weight: 600; 
+    font-weight: 500; 
     color: #437865; 
-    font-size: 13px; 
+    font-size: 12px; 
     margin-left: 5px; 
+    letter-spacing: 0.01em;
   }
   
   /* B站视频微型按钮 */
