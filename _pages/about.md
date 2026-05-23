@@ -90,7 +90,52 @@ redirect_from:
   /* 仅保留最轻微的间距调整 */
   padding: 0 1px; 
 }
-  
+
+
+
+  /* 详情列表样式 */
+  .res-container { 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+    max-width: 100%; 
+    margin-top: 25px;
+  }
+  .res-group { margin-bottom: 28px; }
+  .res-title { 
+    font-size: 17px; 
+    font-weight: 700; 
+    color: #111; 
+    margin-bottom: 10px; 
+    display: block; 
+    border-bottom: 1px dashed #ddd; 
+    padding-bottom: 4px; 
+  }
+  .res-sub { margin-left: 5px; }
+  .res-item { font-size: 14.5px; line-height: 1.6; color: #333; margin-bottom: 8px; }
+  .res-pub { 
+    font-family: 'Courier New', monospace; 
+    font-weight: 700; 
+    color: #538F79; 
+    font-size: 13.5px; 
+    margin-left: 4px; 
+  }
+  .res-video { 
+    font-size: 11.5px; 
+    color: #990000; 
+    font-weight: 600; 
+    text-decoration: none; 
+    border: 1px solid rgba(153,0,0,0.25); 
+    padding: 1px 5px; 
+    border-radius: 3px; 
+    margin-left: 6px; 
+    background: rgba(153, 0, 0, 0.02); 
+  }
+
+  /* 📱 移动端自适应优化 */
+  @media (max-width: 768px) {
+    .res-title { font-size: 15.5px; }
+    .res-item { font-size: 13.5px; }
+  }
+
 </style>
 
 Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Institute of Scalable Computing](https://www.cs.sjtu.edu.cn/yjjg/818.html) at SJTU, working closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. His research interests include AI acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
@@ -121,6 +166,20 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
 </div>
 
 My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments. I am committed to bridging cutting-edge research with practical industry solutions and welcome opportunities for further collaboration.
+
+---
+
+### 🔬 Research Interests
+His research focuses on Hardware-Software Co-design for efficient AI systems:
+
+<ul class="res-bullet-list">
+  <li class="res-bullet-item">💾 <b>Computing-in-Memory (CiM/PIM) Architecture:</b> Hardware-algorithm co-design & heterogeneous PIM scheduling <span class="res-pub">[<span class="highlight-award">ISCA’26 Finalist</span>, MICRO’24, DATE’25, TPDS’24, ASP-DAC’24, APPT’25]</span></li>
+  <li class="res-bullet-item">🚀 <b>LLMs & NN Acceleration:</b> Algorithm-system co-optimization, adaptive deployment & sparse compilation <span class="res-pub">[HPCA’25, HPCA’24, ISCA’25, <span class="highlight-award">ACM MM’25 Outstanding</span>, EMNLP, DAC’26, ICCAD’25, DAC’24, ASP-DAC’25, TODAES’24]</span></li>
+ <li class="res-bullet-item">👁️ <b>Spatial Intelligence:</b> 3D scene reconstruction, neural rendering acceleration & deformable attention <span class="res-pub">[HPCA’26, ASPLOS’25, DAC’26, DAC’24]</span> <a href="#" class="bili-video-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" style="vertical-align: -0.15em; margin-right: 0.2em;"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.764-.556-3.76-1.56S.05 18.858 0 17.347v-7.36c.05-1.51.574-2.765 1.573-3.76.999-.996 2.258-1.52 3.76-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.572-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.764-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387z"/></svg> <b>Overview Video</b></a></li>
+  <li class="res-bullet-item">🧠 <b>Brain-inspired Computing:</b> Spiking neural network accelerators & effective neuromorphic applications <span class="res-pub">[ICCAD’23, SIGIR’22]</span></li>
+  <li class="res-bullet-item">🛡️ <b>Secure AI:</b> Area-efficient cryptographic hardware design & secure neuromorphic architecture <span class="res-pub">[TACO’25, DATE’26, DAC’25, DAC’24, ASP-DAC’24, DAC’23]</span></li>
+</ul>
+
 
 ---
 
@@ -217,14 +276,6 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 </div>
 
----
-
-### Research
-His research bridges the gap between **Cutting-edge Architecture** and **Practical AI Solutions**, focusing on:
-* **LLM & Generative AI Acceleration** (Mixed-precision, Quantization, MoE)
-* **In-Memory Computing** (RRAM/DRAM-based PIM/CiM)
-* **Brain-inspired Computing** (Spiking Neural Networks, HDC)
-* **AI Compilation & HW/SW Co-design**
 
 Recent Visits to this Site
 -----------
