@@ -140,7 +140,7 @@ redirect_from:
     margin-left: 4px; 
   }
   
-  /* B站视频按钮样式 */
+/* B站视频按钮样式 */
   .bili-video-btn {
     display: inline-flex;
     align-items: center;
@@ -149,11 +149,15 @@ redirect_from:
     font-size: 11.5px;
     font-weight: 600;
     border: 1px solid rgba(0, 161, 214, 0.25);
-    padding: 0px 5px;
+    padding: 1px 5px;
     border-radius: 3px;
     background: rgba(0, 161, 214, 0.02);
     margin-left: 6px;
     vertical-align: middle;
+  }
+  .bili-video-btn:hover {
+    background: rgba(0, 161, 214, 0.08);
+    border-color: rgba(0, 161, 214, 0.45);
   }
   
   @media (max-width: 768px) { 
@@ -203,9 +207,9 @@ His research focuses on Hardware-Software Co-design for efficient AI systems:
   <div class="res-group">
     <span class="res-title">🚀 LLMs & Neural Network Acceleration</span>
     <div class="res-sub">
-      <div class="res-item">• <b>Algorithm-System Co-optimization & AI Deployment</b> <span class="res-pub">[EMNLP, ACM MM’25 (Outstanding Paper), ISCA’25, ASP-DAC’25]</span></div>
-      <div class="res-item">• <b>Execution & Micro-architecture Optimization</b> <span class="res-pub">[2×DATE’25, TPDS’24, ASP-DAC’24, DAC’26]</span></div>
-      <div class="res-item">• <b>Sparsity Compilation & Efficient Encoding Acceleration</b> <span class="res-pub">[HPCA’25, HPCA’24, DAC’24, ICCAD’25, TODAES’24, ASP-DAC’24]</span></div>
+      <div class="res-item">• <b>Algorithm-System Co-optimization & AI Deployment</b> <span class="res-pub">[ACL'26, ASPLOS'25, EMNLP'25, ACM MM’25 (Outstanding Paper), ISCA’25, ASP-DAC’25]</span></div>
+      <div class="res-item">• <b>Execution & Micro-architecture Optimization</b> <span class="res-pub">[ISCA'26, TACO'26, HPCA'25, HPCA'24, 2×DATE’25, TPDS’24, ASP-DAC’24, DAC’26]</span></div>
+      <div class="res-item">• <b>Sparsity Compilation & Efficient Encoding Acceleration</b> <span class="res-pub">[PPoPP'26, HPCA’25, HPCA’24, DAC’24, ICCAD’25, TODAES’24, ASP-DAC’24]</span></div>
     </div>
   </div>
 
@@ -213,7 +217,7 @@ His research focuses on Hardware-Software Co-design for efficient AI systems:
   <div class="res-group">
     <span class="res-title">💾 Computing-in-Memory (CiM/PIM) Architecture</span>
     <div class="res-sub">
-      <div class="res-item">• <b>Hardware-Algorithm Co-design & PIM Scheduling</b> <span class="res-pub">[ISCA’26 (Best Paper Finalist), MICRO’24, ASP-DAC’24, APPT’25]</span></div>
+      <div class="res-item">• <b>Hardware-Algorithm Co-design & PIM Scheduling</b> <span class="res-pub">[ISCA’26 (Best Paper Finalist), ICCAD'25, MICRO’24, ASP-DAC’24, APPT’25]</span></div>
     </div>
   </div>
 
@@ -221,7 +225,7 @@ His research focuses on Hardware-Software Co-design for efficient AI systems:
   <div class="res-group">
     <span class="res-title">👁️ Spatial Intelligence (Efficient 3D Perception & Rendering)</span>
     <div class="res-sub">
-      <div class="res-item">• <b>3D Scene Reconstruction & Rendering Acceleration</b> <span class="res-pub">[HPCA’26, ASPLOS’25, DAC’26]</span> <a href="#" class="bili-video-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" style="vertical-align: -0.15em; margin-right: 0.2em;"><path d="[M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.764-.556-3.76-1.56S.05 18.858 0 17.347v-7.36c.05-1.51.574-2.765 1.573-3.76.999-.996 2.258-1.52 3.76-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.572-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.764-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387z](https://www.bilibili.com/video/BV1w5L265ESd/?vd_source=0df1b2c1f1dbe767f5fe4275d404142d)"/></svg> <b>Overview Video</b></a></div>
+      <div class="res-item">• <b>3D Scene Reconstruction & Rendering Acceleration</b> <span class="res-pub">[HPCA’26, ASPLOS’25, DAC’26]</span> <a href="https://www.bilibili.com/video/BV1w5L265ESd/" target="_blank" class="bili-video-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" style="vertical-align: -0.15em; margin-right: 0.2em;"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.764-.556-3.76-1.56S.05 18.858 0 17.347v-7.36c.05-1.51.574-2.765 1.573-3.76.999-.996 2.258-1.52 3.76-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.572-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.764-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387z"/></svg> <b>Overview Video</b></a></div>
       <div class="res-item">• <b>Deformable Attention Optimization for Efficient 3D Detection</b> <span class="res-pub">[DAC’24]</span></div>
     </div>
   </div>
@@ -230,7 +234,7 @@ His research focuses on Hardware-Software Co-design for efficient AI systems:
   <div class="res-group">
     <span class="res-title">🧠 Brain-inspired Neuromorphic Computing</span>
     <div class="res-sub">
-      <div class="res-item">• <b>Neuromorphic Algorithms & Brain-inspired Applications</b> <span class="res-pub">[ICCAD’23, SIGIR’22]</span></div>
+      <div class="res-item">• <b>Neuromorphic Algorithms & Brain-inspired Applications</b> <span class="res-pub">[ISCA'25, MICRO'24, DAC'24, DAC'23, AAAI'23, ICCAD’23, SIGIR’22]</span></div>
     </div>
   </div>
 
