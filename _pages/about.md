@@ -190,59 +190,6 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
 
 My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments.
 
----
-
-### 🔬 Research Interests
-His research focuses on Hardware-Software Co-design for efficient AI systems:
-
-<div class="res-compact-container">
-
-  <!-- Focus 1: 大模型与神经网络加速栈 -->
-  <div class="res-group-compact">
-    <span class="res-title-compact">🚀 LLMs & Neural Network Acceleration</span>
-    <ul class="res-sub-list">
-      <li class="res-item-compact"><b>Algorithm-System Co-optimization & AI Deployment</b> <span class="res-pub-compact">[ACL'26, ASPLOS'25, EMNLP'25, <span class="highlight-award">ACM MM’25 (Outstanding Paper)</span>, ISCA’25, ASP-DAC’25]</span></li>
-      <li class="res-item-compact"><b>Execution & Micro-architecture Optimization</b> <span class="res-pub-compact">[ISCA'26, <span class="highlight-award">LSI’25 Feature Awards</span>, TACO'26, HPCA'25, HPCA'24, 2×DATE’25, TPDS’24, ASP-DAC’24, DAC’26]</span></li>
-      <li class="res-item-compact"><b>Sparsity Compilation & Efficient Encoding Acceleration</b> <span class="res-pub-compact">[PPoPP'26, HPCA’25, HPCA’24, DAC’24, ICCAD’25, TODAES’24, ASP-DAC’24]</span></li>
-    </ul>
-  </div>
-
-  <!-- Focus 2: 存内计算 -->
-  <div class="res-group-compact">
-    <span class="res-title-compact">💾 Computing-in-Memory (CiM/PIM) Architecture</span>
-    <ul class="res-sub-list">
-      <li class="res-item-compact"><b>Hardware-Algorithm Co-design & PIM Scheduling</b> <span class="res-pub-compact">[<span class="highlight-award">ISCA’26 (Best Paper Finalist)</span>, ICCAD'25, MICRO’24, ASP-DAC’24, APPT’25, <span class="highlight-award">DATE’22 (Best Paper)</span>]</span></li>
-    </ul>
-  </div>
-
-  <!-- Focus 3: 空间智能 -->
-  <div class="res-group-compact">
-    <span class="res-title-compact">👁️ Spatial Intelligence (Efficient 3D Perception & Rendering)</span>
-    <ul class="res-sub-list">
-      <li class="res-item-compact"><b>3D Scene Reconstruction & Rendering Acceleration</b> <span class="res-pub-compact">[HPCA’26, ASPLOS’25, DAC’26]</span> <a href="https://www.bilibili.com/video/BV1w5L265ESd/" target="_blank" class="bili-video-btn-micro"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" style="vertical-align: -0.15em; margin-right: 0.2em;"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.764-.556-3.76-1.56S.05 18.858 0 17.347v-7.36c.05-1.51.574-2.765 1.573-3.76.999-.996 2.258-1.52 3.76-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.572-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.764-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387z"/></svg> <b>Video</b></a></li>
-      <li class="res-item-compact"><b>Deformable Attention Optimization for Efficient 3D Detection</b> <span class="res-pub-compact">[DAC’24]</span></li>
-    </ul>
-  </div>
-
-  <!-- Focus 4: 类脑计算 -->
-  <div class="res-group-compact">
-    <span class="res-title-compact">🧠 Brain-inspired Neuromorphic Computing</span>
-    <ul class="res-sub-list">
-      <li class="res-item-compact"><b>Neuromorphic Algorithms & Brain-inspired Applications</b> <span class="res-pub-compact">[ISCA'25, MICRO'24, DAC'24, DAC'23, AAAI'23, ICCAD’23, SIGIR’22]</span></li>
-    </ul>
-  </div>
-
-  <!-- Focus 5: 安全AI -->
-  <div class="res-group-compact">
-    <span class="res-title-compact">🛡️ Hardware-assisted Secure & Trustworthy AI</span>
-    <ul class="res-sub-list">
-      <li class="res-item-compact"><b>Area-Efficient Cryptographic Design for LUT-based Modular Reduction</b> <span class="res-pub-compact">[DATE’26, DAC’25]</span></li>
-      <li class="res-item-compact"><b>Secure Neuromorphic Computing Architecture</b> <span class="res-pub-compact">[TACO’25, DAC’24, ASP-DAC’24, DAC’23]</span></li>
-    </ul>
-  </div>
-
-</div>
-
 
 ---
 
@@ -336,6 +283,59 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item"><span class="news-date">Nov. 18, 2022</span><div class="news-text">📄 Paper "SIMSnn" accepted by <b>DATE 2023</b>.</div></div>
 
 </details>
+
+</div>
+
+---
+
+### 🔬 Research Interests
+His research focuses on Hardware-Software Co-design for efficient AI systems:
+
+<div class="res-compact-container">
+
+  <!-- Focus 1: 大模型与神经网络加速栈 -->
+  <div class="res-group-compact">
+    <span class="res-title-compact">🚀 LLMs & Neural Network Acceleration</span>
+    <ul class="res-sub-list">
+      <li class="res-item-compact"><b>Algorithm-System Co-optimization & AI Deployment</b> <span class="res-pub-compact">[ACL'26, ASPLOS'25, EMNLP'25, <span class="highlight-award">ACM MM’25 (Outstanding Paper)</span>, ISCA’25, ASP-DAC’25]</span></li>
+      <li class="res-item-compact"><b>Execution & Micro-architecture Optimization</b> <span class="res-pub-compact">[ISCA'26, <span class="highlight-award">LSI’25 Feature Awards</span>, TACO'26, HPCA'25, HPCA'24, 2×DATE’25, TPDS’24, ASP-DAC’24, DAC’26]</span></li>
+      <li class="res-item-compact"><b>Sparsity Compilation & Efficient Encoding Acceleration</b> <span class="res-pub-compact">[PPoPP'26, HPCA’25, HPCA’24, DAC’24, ICCAD’25, TODAES’24, ASP-DAC’24]</span></li>
+    </ul>
+  </div>
+
+  <!-- Focus 2: 存内计算 -->
+  <div class="res-group-compact">
+    <span class="res-title-compact">💾 Computing-in-Memory (CiM/PIM) Architecture</span>
+    <ul class="res-sub-list">
+      <li class="res-item-compact"><b>Hardware-Algorithm Co-design & PIM Scheduling</b> <span class="res-pub-compact">[<span class="highlight-award">ISCA’26 (Best Paper Finalist)</span>, ICCAD'25, MICRO’24, ASP-DAC’24, APPT’25, <span class="highlight-award">DATE’22 (Best Paper)</span>]</span></li>
+    </ul>
+  </div>
+
+  <!-- Focus 3: 空间智能 -->
+  <div class="res-group-compact">
+    <span class="res-title-compact">👁️ Spatial Intelligence (Efficient 3D Perception & Rendering)</span>
+    <ul class="res-sub-list">
+      <li class="res-item-compact"><b>3D Scene Reconstruction & Rendering Acceleration</b> <span class="res-pub-compact">[HPCA’26, ASPLOS’25, DAC’26]</span> <a href="https://www.bilibili.com/video/BV1w5L265ESd/" target="_blank" class="bili-video-btn-micro"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" style="vertical-align: -0.15em; margin-right: 0.2em;"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.764-.556-3.76-1.56S.05 18.858 0 17.347v-7.36c.05-1.51.574-2.765 1.573-3.76.999-.996 2.258-1.52 3.76-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.572-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.764-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.946.258-.258.574-.387.947-.387z"/></svg> <b>Video</b></a></li>
+      <li class="res-item-compact"><b>Deformable Attention Optimization for Efficient 3D Detection</b> <span class="res-pub-compact">[DAC’24]</span></li>
+    </ul>
+  </div>
+
+  <!-- Focus 4: 类脑计算 -->
+  <div class="res-group-compact">
+    <span class="res-title-compact">🧠 Brain-inspired Neuromorphic Computing</span>
+    <ul class="res-sub-list">
+      <li class="res-item-compact"><b>Neuromorphic Algorithms & Brain-inspired Applications</b> <span class="res-pub-compact">[ISCA'25, MICRO'24, DAC'24, DAC'23, AAAI'23, ICCAD’23, SIGIR’22]</span></li>
+    </ul>
+  </div>
+
+  <!-- Focus 5: 安全AI -->
+  <div class="res-group-compact">
+    <span class="res-title-compact">🛡️ Hardware-assisted Secure & Trustworthy AI</span>
+    <ul class="res-sub-list">
+      <li class="res-item-compact"><b>Area-Efficient Cryptographic Design for LUT-based Modular Reduction</b> <span class="res-pub-compact">[DATE’26, DAC’25]</span></li>
+      <li class="res-item-compact"><b>Secure Neuromorphic Computing Architecture</b> <span class="res-pub-compact">[TACO’25, DAC’24, ASP-DAC’24, DAC’23]</span></li>
+    </ul>
+  </div>
 
 </div>
 
