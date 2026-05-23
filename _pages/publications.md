@@ -105,7 +105,7 @@ author_profile: true
 
 <div class="stat-unit"><span class="stat-num">20+</span><span class="stat-text">EDA & Automation</span><span class="stat-sub">DAC / ICCAD</span>
 
-</div><div class="stat-unit"><span class="stat-num" style="color: #d48806;">3+</span><span class="stat-text" style="color: #d48806;">Awards</span><span class="stat-sub">Best /Outstanding/ Feature Papers</span></div></div>
+</div><div class="stat-unit"><span class="stat-num" style="color: #d48806;">4+</span><span class="stat-text" style="color: #d48806;">Awards</span><span class="stat-sub">Best /Outstanding/ Feature Papers</span></div></div>
 <div class="pub-container">
   <div class="pub-legend">
     <span><b>{=}</b> Equal contribution &nbsp;&nbsp; <b>{*}</b> Corresponding author</span>

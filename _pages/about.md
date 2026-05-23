@@ -183,7 +183,7 @@ I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To 
     <span class="stat-sub">Applied at Huawei, Ant, etc.</span>
   </div>
   <div class="stat-card">
-    <span class="stat-num" style="color:#d48806;">5+</span>
+    <span class="stat-num" style="color:#d48806;">6+</span>
     <span class="stat-label">Major Awards</span>
     <span class="stat-sub">Best Paper/Dissert.</span>
   </div>
