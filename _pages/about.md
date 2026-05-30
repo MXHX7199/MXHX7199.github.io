@@ -9,138 +9,74 @@ redirect_from:
 ---
 
 <style>
+  /* 现代克制学术风：去掉多余边框、阴影与复杂渐变 */
   .pub-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #333; line-height: 1.6; }
   
-  /* 统计看板：进化版 - 侧重工业应用 */
+  /* 开放式统计看板：无框大呼吸感 */
   .stats-board {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
-    margin: 30px 0;
-    padding: 22px 15px;
-    background: linear-gradient(145deg, #ffffff, #f9f9f9);
-    border-radius: 12px;
-    border: 1px solid #eee;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    margin: 25px 0;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
   }
   .stat-card { text-align: center; border-right: 1px solid #eee; }
   .stat-card:last-child { border-right: none; }
   .stat-num {
     display: block;
-    font-size: 26px;
-    font-weight: 900;
+    font-size: 28px;
+    font-weight: 700;
     color: #538F79;
-    font-family: "Arial Black", sans-serif;
     line-height: 1.2;
   }
   .stat-label {
     display: block;
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #222;
-    margin-top: 5px;
+    margin-top: 4px;
   }
   .stat-sub {
-    font-size: 10px;
-    color: #999;
-    line-height: 1.2;
-    margin-top: 3px;
+    font-size: 11px;
+    color: #777;
+    margin-top: 2px;
     display: block;
   }
 
-  /* News 列表：保持严格间距与链接颜色 */
-  .news-box { margin-top: 25px; }
+  /* News 列表：去掉背景色块，利用字重和间距制造高级感 */
+  .news-box { margin-top: 15px; }
   .news-item {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     align-items: flex-start;
   }
   .news-date {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 12.5px;
-    font-weight: 700;
-    color: #538F79;
-    background: #f0f4f2;
-    padding: 2px 6px;
-    border-radius: 4px;
-    margin-right: 15px;
-    min-width: 110px;
-    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #666;
+    min-width: 105px;
     flex-shrink: 0;
+    padding-top: 2px;
   }
-  .news-text { font-size: 14.5px; flex: 1; color: #444; }
-  .news-text a { color: #1a73e8; text-decoration: none; }
+  .news-text { font-size: 14.5px; flex: 1; color: #333; line-height: 1.5; }
+  .news-text a { color: #538F79; text-decoration: none; font-weight: 600; }
   .news-text a:hover { text-decoration: underline; }
   
-  summary { cursor: pointer; color: #538F79; font-weight: bold; padding: 10px 0; outline: none; }
+  summary { cursor: pointer; color: #538F79; font-weight: 600; padding: 8px 0; outline: none; font-size: 14px; }
 
-  @media (max-width: 768px) {
-    .stats-board { grid-template-columns: 1fr 1fr; gap: 20px; }
-    .stat-card:nth-child(even) { border-right: none; }
-    .news-item { flex-direction: column; }
-    .news-date { margin-bottom: 8px; }
-  }
+  /* 学术红高亮 */
+  .highlight-award { color: #b30000; font-weight: 600; }
 
-/* 学术成果高亮 */
-  .highlight-award {
-  color: #990000; /* 经典的深学术红 */
-  font-weight: 700; /* 足够醒目 */
-  /* 保持与正文一致的字体，不破坏段落的阅读流 */
-  font-family: inherit; 
-  /* 仅保留最轻微的间距调整 */
-  padding: 0 1px; 
-}
-
- /* 研究方向 */
-.res-compact-container { 
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
-    max-width: 100%; 
-    margin-top: 12px;
-  }
+  /* 研究方向精简版 */
+  .res-compact-container { margin-top: 15px; }
+  .res-group-compact { margin-bottom: 16px; }
+  .res-title-compact { font-size: 15px; font-weight: 700; color: #111; margin-bottom: 4px; }
+  .res-sub-list { list-style-type: circle; padding-left: 18px; margin: 0; }
+  .res-item-compact { font-size: 13px; color: #333; margin: 4px 0; }
+  /* 压低括号内文献的视觉权重，让出主线视线 */
+  .res-pub-compact { color: #666; font-size: 12.5px; margin-left: 6px; }
   
-  /* 每个研究大方向区块的间距 */
-  .res-group-compact { 
-    margin-bottom: 14px; 
-  }
-  
-  /* 大方向标题：保持 15px 700字重 */
-  .res-title-compact { 
-    font-size: 15px; 
-    font-weight: 700; 
-    color: #111; 
-    display: inline-block;
-    margin-bottom: 3px;
-  }
-  
-  /* 子列表容器：强制改为空心圆圈与原生缩进 */
-  .res-sub-list { 
-    list-style-type: circle; 
-    padding-left: 18px;      
-    margin: 0;
-  }
-  
-  /* 具体小点技术描述：12px */
-  .res-item-compact { 
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-weight: 500; 
-    font-size: 12px; 
-    line-height: 1.5; 
-    color: #333; 
-    margin: 3px 0;          
-    padding: 0;
-  }
-  
-  /* 论文方括号样式：下调至 12px，字重改为 500 适度中粗，彻底压低视觉体积感 */
-  .res-pub-compact { 
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-weight: 500; 
-    color: #437865; 
-    font-size: 12px; 
-    margin-left: 5px; 
-    letter-spacing: 0.01em;
-  }
-  
-  /* B站视频微型按钮 */
   .bili-video-btn-micro {
     display: inline-flex;
     align-items: center;
@@ -151,47 +87,47 @@ redirect_from:
     border: 1px solid rgba(0, 161, 214, 0.2);
     padding: 0px 4px;
     border-radius: 2px;
-    background: rgba(0, 161, 214, 0.01);
-    margin-left: 4px;
-    vertical-align: middle;
+    margin-left: 6px;
   }
   
-  @media (max-width: 768px) { 
-    .res-title { font-size: 14.5px; }
-    .res-item { font-size: 13.5px; }
-    .res-header-text { font-size: 15px; }
+  @media (max-width: 768px) {
+    .stats-board { grid-template-columns: 1fr 1fr; gap: 16px; }
+    .stat-card:nth-child(even) { border-right: none; }
+    .news-item { flex-direction: column; }
+    .news-date { margin-bottom: 4px; }
   }
 </style>
+Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Scalable Computing and Systems Lab](https://www.cs.sjtu.edu.cn/yjjg/818.html), collaborating closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and Prof. [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. 
 
-Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Institute of Scalable Computing](https://www.cs.sjtu.edu.cn/yjjg/818.html) at SJTU, working closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. His research interests include AI acceleration (e.g., mixed-precision computing and SW/HW co-design), in-memory computing, and brain-inspired neuromorphic computing.
+His research focuses on **computer architecture and hardware-software co-design for efficient AI systems**, particularly for LLM/VLM, Computing-in-Memory (CIM/PIM) architectures, and Brain-inspired Computing. 
 
-I received my Ph.D. degree from SJTU in 2023, advised by **Prof. Li Jiang**. To date, I have published over **60 papers** as **first or corresponding author**, with more than **40 in CCF Tier A** venues (e.g., **ISCA, MICRO, ASPLOS, HPCA, PPoPP**). My work has been recognized with prestigious honors, including the <span class="highlight-award"><b>Best Paper Finalist at ISCA 2026</b></span>, the <span class="highlight-award"><b>Outstanding Paper Award at ACM MM 2025 (Systems Theme)</b></span>, the <span class="highlight-award"><b>Best Paper Award at DATE 2022</b></span>, and the <span class="highlight-award"><b>Spark Award (火花奖) from HUAWEI</b></span>. I am also the recipient of **Outstanding Doctoral Dissertation Awards** from both **ACM China (Shanghai)** and the **Shanghai Computer Society**.
+Dr. Liu has published over **60 papers**, including **40+ in CCF Tier-1** venues (e.g., *ISCA, MICRO, ASPLOS, HPCA, PPoPP*). His work has been recognized with the <span class="highlight-award">Best Paper Finalist at ISCA 2026</span>, the <span class="highlight-award">Outstanding Paper Award at ACM MM 2025 (Systems Theme)</span>, the <span class="highlight-award">Best Paper Award at DATE 2022</span>, and the **HUAWEI Spark Award (火花奖)**.
+
 
 <div class="stats-board">
   <div class="stat-card">
-    <span class="stat-num" style="color:#222;">40+</span>
+    <span class="stat-num">40+</span>
     <span class="stat-label">CCF Tier A</span>
-    <span class="stat-sub">as 1st or Corr. Author</span>
+    <span class="stat-sub">1st / Corr. Author</span>
   </div>
   <div class="stat-card">
     <span class="stat-num">60+</span>
     <span class="stat-label">Total Pubs</span>
-    <span class="stat-sub">as 1st or Corr. Author</span>
+    <span class="stat-sub">1st / Corr. Author</span>
   </div>
   <div class="stat-card">
-    <span class="stat-num">5+</span>
-    <span class="stat-label">Industrial Adoption</span>
+    <span class="stat-num">40%</span>
+    <span class="stat-label">Cost Saved</span>
     <span class="stat-sub">Applied at Huawei, Ant, etc.</span>
   </div>
   <div class="stat-card">
-    <span class="stat-num" style="color:#d48806;">6+</span>
+    <span class="stat-num">6+</span>
     <span class="stat-label">Major Awards</span>
-    <span class="stat-sub">Best Paper/Dissert.</span>
+    <span class="stat-sub">Best Paper / Dissert.</span>
   </div>
 </div>
 
-My research has been successfully adopted by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, to advance real-world applications such as efficient LLM inference, low-precision deployment, and optimized AI compilation. For instance, my work on mixed-precision computing and SW/HW co-design has enabled up to **40% reductions** in computational costs for large-scale AI deployments.
-
+His architectural and system solutions have been deployed by leading technology companies, including <font color=538F79><b>Huawei, Ant Group, ZTE, and Yizhu Tech.</b></font>, resulting in up to **40% computational cost reductions** in large-scale AI deployments.
 
 ---
 
