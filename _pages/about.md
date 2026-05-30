@@ -106,7 +106,7 @@ Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the
 
 His research focuses on **computer architecture and hardware-software co-design for efficient AI systems**, particularly for LLM/VLM, Computing-in-Memory (CIM/PIM) architectures, and Brain-inspired Computing. 
 
-Dr. Liu has published over **60 papers**, including **40+ in CCF Tier-1** venues (e.g., *ISCA, MICRO, ASPLOS, HPCA, PPoPP*). His work has been recognized with the <span class="highlight-award">Best Paper Finalist at ISCA 2026</span>, the <span class="highlight-award">Outstanding Paper Award at ACM MM 2025 (Systems Theme)</span>, the <span class="highlight-award">Best Paper Award at DATE 2022</span>, and the **HUAWEI Spark Award (火花奖)**.
+Dr. Liu has published over **60 papers**, including **40+ in CCF Tier-A** venues (e.g., *ISCA, MICRO, ASPLOS, HPCA, PPoPP*). His work has been recognized with the <span class="highlight-award">Best Paper Finalist at ISCA 2026</span>, the <span class="highlight-award">Outstanding Paper Award at ACM MM 2025 (Systems Theme)</span>, the <span class="highlight-award">Best Paper Award at DATE 2022</span>, and the **HUAWEI Spark Award (火花奖)**.
 
 
 <div class="stats-board">
