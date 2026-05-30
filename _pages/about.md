@@ -97,7 +97,7 @@ redirect_from:
     .news-date { margin-bottom: 4px; }
   }
 </style>
-Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Scalable Computing and Systems Lab](https://www.cs.sjtu.edu.cn/yjjg/818.html), collaborating closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and Prof. [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. 
+Fangxin (Leon) Liu is an **Assistant Professor** and **Ph.D. Supervisor** in the School of Computer Science at **Shanghai Jiao Tong University (SJTU)**. He is a core member of the [Scalable Computing and Systems Lab](https://www.cs.sjtu.edu.cn/yjjg/818.html), collaborating closely with Prof. [Haibing Guan](https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html) and Prof. [Li Jiang](https://www.cs.sjtu.edu.cn/jiaoshiml/jiangli.html). He also serves as a Research Fellow at the **Shanghai Qi Zhi Institute**. 
 
 His research focuses on **computer architecture and hardware-software co-design for efficient AI systems**, particularly for LLM/VLM, Computing-in-Memory (CIM/PIM) architectures, and Brain-inspired Computing. 
 
