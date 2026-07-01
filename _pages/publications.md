@@ -150,10 +150,10 @@ author_profile: true
   <div class="pub-item">
     <span class="pub-venue">[ISCA '26]</span>
     <div class="pub-content">
-      <a href="#" class="pub-title">COMET: A Cooperative Scheduling Framework for Concurrent PIM/CPU Execution on Mobile Devices</a>
-      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><span class="tag tag-award">🏆 Best Paper Award Finalist</span>
-      <div class="pub-authors">Yilong Zhao=, <b>Fangxin Liu=</b>, Onur Mutlu, Mingyu Gao, Jian Liu, Li Jiang, Haibing Guan</div>
-      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+      <a href="https://iscaconf.org/isca2026/program/#1a" target="_blank" class="pub-title">COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span><a href="https://iscaconf.org/isca2026/program/#1a" target="_blank" class="tag tag-award" style="text-decoration: none;">🏆 Best Paper Award Finalist</a>
+      <div class="pub-authors">Yilong Zhao=, <b>Fangxin Liu=</b>, Onur Mutlu, Mingyu Gao, Jian Liu, Haibing Guan, Li Jiang</div>
+      <div class="pub-links"><a href="https://iscaconf.org/isca2026/program/#1a" target="_blank" class="link-btn">[Program]</a><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
     </div>
   </div>
 
