@@ -113,6 +113,67 @@ author_profile: true
   </div>
 
   <div class="year-header">2026</div>
+
+<div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">MOSAIC: Exploiting Structured Tolerance for Adaptive LLM Inference Mapping in Heterogeneous PIM Accelerators</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors"><b>Fangxin Liu=,*</b>, Jingkui Yang=, Yilong Zhao, Haomin Li, Wen Mei, Xinran Liang, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">ULTRA: Bridging the VQ Gap in Anisotropic LLM Quantization via a Unified LUT-Based Transformer Architecture</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Zongwu Wang, Zhongyi Tang, <b>Fangxin Liu*</b>, Shiyuan Huang, Chenyang Guan, Haomin Li, Gang Li, Liqiang Lu, Mingyu Gao, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">SNN-4-All: Breaking the Edge Fine-Tuning Barrier with Heterogeneous Sparsity Exploitation</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Zhibai Huang, James Yen, Zhixiang Wei, Xingzi Yu, Chen Chen, Lingyun Yang, <b>Fangxin Liu*</b>, Zhengwei Qi, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, <b>Fangxin Liu</b>, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, Yiming Gan, Yu Feng</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">TensorMLD: A Tensorized and Compressed qLDPC Maximum-Likelihood Decoder for Accurate and Fast Detection of the Most Likely Logical Error</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Debin Xiang, Liqiang Lu, Kaiwen Zhou, Boyu Jin, Chenning Tao, Wuwei Tian, Anbang Wu, <b>Fangxin Liu</b>, Jingwen Leng, Minyi Guo, Jianwei Yin</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <span class="pub-venue">[MICRO '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Minnan Pei, Gang Li, Zeyu Zhu, Siting Wang, Junwen Si, Zhuoran Song, Yu Feng, <b>Fangxin Liu*</b>, Xiaoyao Liang, Jian Cheng</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
   <div class="pub-item">
     <span class="pub-venue">[ACL '26]</span>
     <div class="pub-content">
