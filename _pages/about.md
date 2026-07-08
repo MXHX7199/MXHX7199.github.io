@@ -146,7 +146,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Jul. 07, 2026</span>
   <div class="news-text">
-    🔥 <b>MICRO 2026 Grand Slam</b>: An incredible milestone! <span class="highlight-award">Six papers</span> spanning heterogeneous PIM (<b>MOSAIC</b>), LLM quantization (<b>ULTRA</b>), embodied AI VLA acceleration (<b>Deltoris</b>), SNN edge fine-tuning (<b>SNN-4-All</b>), quantum qLDPC decoding (<b>TensorMLD</b>), and scalable 3DGS architecture (<b>DeGS</b>) have been accepted to the 59th IEEE/ACM International Symposium on Microarchitecture. Huge congratulations to Jingkui, Zongwu, Zhibai, Minnan, and all our collaborators!
+    🔥 <b>MICRO 2026 Grand Slam</b>: An incredible milestone! <span class="highlight-award">Six papers</span> spanning heterogeneous PIM (<b>MOSAIC</b>), LLM quantization (<b>ULTRA</b>), SNN edge fine-tuning (<b>SNN-4-All</b>), quantum qLDPC decoding (<b>TensorMLD</b>), embodied AI VLA acceleration (<b>Deltoris</b>), and scalable 3DGS architecture (<b>DeGS</b>) have been accepted to the 59th IEEE/ACM International Symposium on Microarchitecture. Huge congratulations to Jingkui, Zongwu, Zhibai, Minnan, and all our collaborators!
   </div>
 </div>
 
