@@ -115,6 +115,16 @@ author_profile: true
   <div class="year-header">2026</div>
 
 <div class="pub-item">
+    <span class="pub-venue">[ACM MM '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">DNA-ViT: Developmental Neural Archiving for Storage-Efficient Vision Transformers</a>
+      <span class="tag-italic">(Top Conf. in Multimedia)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Junjie Wang=, Can Cui=, <b>Fangxin Liu*</b>, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+<div class="pub-item">
     <span class="pub-venue">[MICRO '26]</span>
     <div class="pub-content">
       <a href="#" class="pub-title">MOSAIC: Exploiting Structured Tolerance for Adaptive LLM Inference Mapping in Heterogeneous PIM Accelerators</a>
