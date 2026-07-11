@@ -143,6 +143,14 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 ### News
 <div class="news-box">
+
+<div class="news-item">
+  <span class="news-date">Jul. 10, 2026</span>
+  <div class="news-text">
+    🎉 <b>ACM MM 2026</b>: Our paper "<b>DNA-ViT</b>: Storage-Efficient Vision Transformers" has been accepted to the ACM International Conference on Multimedia 2026 Main Track. Congratulations to Junjie, Can, and all co-authors!
+  </div>
+</div>
+
 <div class="news-item">
   <span class="news-date">Jul. 07, 2026</span>
   <div class="news-text">
