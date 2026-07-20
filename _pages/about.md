@@ -143,6 +143,12 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 ### News
 <div class="news-box">
+<div class="news-item">
+  <span class="news-date">Jul. 20, 2026</span>
+  <div class="news-text">
+    🇪🇸 <b>IEEE/ACM ESWEEK 2026 </b>: Deeply honored that two papers focusing on 4-bit LLM quantization (<b>SqzAct</b>) and adaptive BEV acceleration with CIM (<b>Look Once, Compute Less</b>) have been accepted as full journal papers (IEEE TCAD Track) at ESWEEK 2026. Looking forward to presenting our work in person at (Barcelona, Spain) this September!
+  </div>
+</div>
 
 <div class="news-item">
   <span class="news-date">Jul. 10, 2026</span>

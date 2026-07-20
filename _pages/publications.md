@@ -113,6 +113,28 @@ author_profile: true
   </div>
 
   <div class="year-header">2026</div>
+<!-- 1. SqzAct (LLM Quantization) -->
+  <div class="pub-item">
+    <span class="pub-venue">[TCAD/ESWEEK '26]</span>
+    <div class="pub-content">
+      <a href="https://cases26.hotcrp.com/paper/195" target="_blank" class="pub-title">SqzAct: Taming Activation Outliers for Efficient 4-bit LLM Inference via Block-Level Squeezing</a>
+      <span class="tag-italic">(IEEE TCAD Special Issue / ESWEEK 2026)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors"><b>Fangxin Liu=,*</b>, Xin Ju=, Jingkui Yang, Zongwu Wang, Chenyang Guan, Junjie Wang, Xuanpeng Zhu, Haidong Yao, Xiankui Xiong, Wen Mei, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="https://cases26.hotcrp.com/paper/195" target="_blank" class="link-btn">[HotCRP]</a><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <!-- 2. BEV CIM Accelerator (Spatial Intelligence) -->
+  <div class="pub-item">
+    <span class="pub-venue">[TCAD/ESWEEK '26]</span>
+    <div class="pub-content">
+      <a href="https://cases26.hotcrp.com/paper/182" target="_blank" class="pub-title">Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation</a>
+      <span class="tag-italic">(IEEE TCAD Special Issue / ESWEEK 2026)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Haomin Li=, <b>Fangxin Liu=</b>, Zongwu Wang, Ning Yang, Shiyuan Huang, Yilong Zhao, Chenyang Guan, Jian Liu, Xinran Liang, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="https://cases26.hotcrp.com/paper/182" target="_blank" class="link-btn">[HotCRP]</a><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
 
 <div class="pub-item">
     <span class="pub-venue">[ACM MM '26]</span>
