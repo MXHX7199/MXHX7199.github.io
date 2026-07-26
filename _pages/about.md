@@ -309,5 +309,9 @@ His research focuses on Hardware-Software Co-design for efficient AI systems:
 
 Recent Visits to this Site
 -----------
+<!-- 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=sNUIIgL1WU3gnVp7Lq7JpnhV-2YGPzHk9c4NSyeNuIc&co=4c98ce'></script> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=sNUIIgL1WU3gnVp7Lq7JpnhV-2YGPzHk9c4NSyeNuIc&co=4c98ce'></script>
+<div id="visitor-map-container" style="text-align: center; margin: 10px 0;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zaZzAitJzFnp9Q3UL0m62OTfqjaO4F5VxQL-5m-bt00&cl=ffffff&w=a"></script>
+</div>
