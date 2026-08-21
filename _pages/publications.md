@@ -113,6 +113,39 @@ author_profile: true
   </div>
 
   <div class="year-header">2026</div>
+<!-- 1. DELTA (EMNLP '26) -->
+  <div class="pub-item">
+    <span class="pub-venue">[EMNLP '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">DELTA: Decoupling Latent Heterogeneity in Asymmetric Low-Rank Compression</a>
+      <span class="tag-italic">(Top Conf. in NLP / Main Conference)</span><span class="tag tag-ccf">CCF-B</span>
+      <div class="pub-authors">Jialin Zhan, <b>Fangxin Liu*</b>, Junjie Wang, Ning Yang, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+<!-- 2. PCoMoE (EMNLP '26) -->
+  <div class="pub-item">
+    <span class="pub-venue">[EMNLP '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition</a>
+      <span class="tag-italic">(Top Conf. in NLP / Main Conference)</span><span class="tag tag-ccf">CCF-B</span>
+      <div class="pub-authors">Ziyan Gan, <b>Fangxin Liu*</b>, Chenyang Guan, Junjie Wang, Ning Yang, Haomin Li, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Zongwu Wang, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+<!-- 3. Seer (EMNLP '26) -->
+  <div class="pub-item">
+    <span class="pub-venue">[EMNLP '26]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">Seer: Efficient KV Cache Management for LLM Acceleration via Mitigating Semantic Search Inefficiency</a>
+      <span class="tag-italic">(Top Conf. in NLP / Main Conference)</span><span class="tag tag-ccf">CCF-B</span>
+      <div class="pub-authors">Yiwei Hu, <b>Fangxin Liu*</b>, Yue Liang, Xuan Wang, Cheng Li, Gezi Li, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
 <!-- 1. SqzAct (LLM Quantization) -->
   <div class="pub-item">
     <span class="pub-venue">[TCAD/ESWEEK '26]</span>

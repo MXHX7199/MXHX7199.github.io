@@ -143,6 +143,14 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 ### News
 <div class="news-box">
+
+<div class="news-item">
+  <span class="news-date">Aug. 21, 2026</span>
+  <div class="news-text">
+    🇭🇺 <b>EMNLP 2026</b>: Three papers spanning asymmetric low-rank compression (<b>DELTA</b>), fine-grained path-composed MoE inference (<b>PCoMoE</b>), and semantic KV cache management (<b>Seer</b>) have been accepted to the EMNLP 2026 Main Conference.  Congratulations to Yiwei, Jialin, Ziyan, and all co-authors! Looking forward to presenting our work in Budapest!
+  </div>
+</div>
+
 <div class="news-item">
   <span class="news-date">Jul. 20, 2026</span>
   <div class="news-text">
