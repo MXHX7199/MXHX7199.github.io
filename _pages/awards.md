@@ -35,6 +35,18 @@ redirect_from:
 </style>
 ### 🔬 Academic & Research Honors
 <div class="award-section">
+
+<div class="award-item">
+  <span class="award-yr">2026</span>
+  <span class="award-main"><span class="award-title">Top-Pick Presentation</span>, 2026 CCF TCArch Student Research Challenge <span class="selectivity">(Advisor, Presenter: Haomin Li)</span></span>
+</div>
+
+<div class="award-item">
+  <span class="award-yr">2026</span>
+  <span class="award-main"><span class="award-title">Top-Pick Presentation</span>, APPT 2026 PhD Forum <span class="selectivity">(Advisor, Presenter: Haomin Li)</span></span>
+</div>
+
+
 <div class="award-item">
   <span class="award-yr">2026</span>
   <span class="award-main"><span class="award-title">Best Paper Award Finalist</span>, IEEE/ACM ISCA <span class="selectivity">(Only 5 papers)</span></span>

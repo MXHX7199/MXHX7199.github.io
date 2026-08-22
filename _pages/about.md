@@ -144,10 +144,18 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 ### News
 <div class="news-box">
 
+
 <div class="news-item">
   <span class="news-date">Aug. 21, 2026</span>
   <div class="news-text">
     🇭🇺 <b>EMNLP 2026</b>: Three papers spanning asymmetric low-rank compression (<b>DELTA</b>), fine-grained path-composed MoE inference (<b>PCoMoE</b>), and semantic KV cache management (<b>Seer</b>) have been accepted to the EMNLP 2026 Main Conference.  Congratulations to Yiwei, Jialin, Ziyan, and all co-authors! Looking forward to presenting our work in Budapest!
+  </div>
+</div>
+
+<div class="news-item">
+  <span class="news-date">Jul. 31, 2026</span>
+  <div class="news-text">
+    🏆 <b>Double Top-Pick Presentations</b>: Congratulations to Haomin Li! His presentations "<b>Brain-Inspired Edge Intelligence</b>" and "<b>Efficient and Secure Edge Intelligence: Perception and Cognition with Hardware-Software Co-Design</b>" were both selected as <b>Top-Pick Presentations</b> at the 2026 CCF TCArch Student Research Challenge and the APPT 2026 PhD Forum, respectively!
   </div>
 </div>
 
