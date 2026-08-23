@@ -148,7 +148,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Aug. 21, 2026</span>
   <div class="news-text">
-    🇭🇺 <b>EMNLP 2026</b>: Three papers spanning asymmetric low-rank compression (<b>DELTA</b>), fine-grained path-composed MoE inference (<b>PCoMoE</b>), and semantic KV cache management (<b>Seer</b>) have been accepted to the EMNLP 2026 Main Conference.  Congratulations to Yiwei, Jialin, Ziyan, and all co-authors! Looking forward to presenting our work in Budapest!
+    🇭🇺 <b>EMNLP 2026 Main (3 Papers)</b>: Three papers spanning asymmetric low-rank compression (<b>DELTA</b>), fine-grained path-composed MoE inference (<b>PCoMoE</b>), and semantic KV cache management (<b>Seer</b>) have been accepted to the EMNLP 2026 Main Conference.  Congratulations to Yiwei, Jialin, Ziyan, and all co-authors! Looking forward to presenting our work in Budapest!
   </div>
 </div>
 
@@ -162,7 +162,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Jul. 20, 2026</span>
   <div class="news-text">
-    🇪🇸 <b>IEEE/ACM ESWEEK 2026 </b>: Our two papers focusing on 4-bit LLM quantization (<b>SqzAct</b>) and adaptive BEV acceleration with CIM (<b>Look Once, Compute Less</b>) have been accepted as full journal papers (IEEE TCAD Track) at ESWEEK 2026. Looking forward to presenting our work in person at (Barcelona, Spain) this September!
+    🇪🇸 <b>IEEE/ACM ESWEEK 2026 (2 Papers)</b>: Our two papers focusing on 4-bit LLM quantization (<b>SqzAct</b>) and adaptive BEV acceleration with CIM (<b>Look Once, Compute Less</b>) have been accepted as full journal papers (IEEE TCAD Track) at ESWEEK 2026. Looking forward to presenting our work in person at (Barcelona, Spain) this September!
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Jul. 07, 2026</span>
   <div class="news-text">
-    🔥 <b>MICRO 2026 Grand Slam</b>: An incredible milestone! <span class="highlight-award">Six papers</span> spanning heterogeneous PIM (<b>MOSAIC</b>), LLM quantization (<b>ULTRA</b>), SNN edge fine-tuning (<b>SNN-4-All</b>), quantum qLDPC decoding (<b>TensorMLD</b>), embodied AI VLA acceleration (<b>Deltoris</b>), and scalable 3DGS architecture (<b>DeGS</b>) have been accepted to the 59th IEEE/ACM International Symposium on Microarchitecture. Huge congratulations to Jingkui, Zongwu, Zhibai, Minnan, and all our collaborators!
+    🔥 <b>MICRO 2026 Grand Slam (6 Papers)</b>: An incredible milestone! <span class="highlight-award">Six papers</span> spanning heterogeneous PIM (<b>MOSAIC</b>), LLM quantization (<b>ULTRA</b>), SNN edge fine-tuning (<b>SNN-4-All</b>), quantum qLDPC decoding (<b>TensorMLD</b>), embodied AI VLA acceleration (<b>Deltoris</b>), and scalable 3DGS architecture (<b>DeGS</b>) have been accepted to the 59th IEEE/ACM International Symposium on Microarchitecture. Huge congratulations to Jingkui, Zongwu, Zhibai, Minnan, and all our collaborators!
   </div>
 </div>
 
@@ -201,12 +201,12 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 <div class="news-item">
   <span class="news-date">Mar. 28, 2026</span>
-  <div class="news-text">🚀 <b>ISCA 2026</b>: Three papers covering Sparse Matrix Multiplication (<b>Harmonia</b>), MoE Inference Optimization (<b>STEP</b>), and Mobile PIM/CPU Scheduling (<b>COMET</b>) have been accepted to the 53rd International Symposium on Computer Architecture. Congratulations to Jingkui, Ning, Yilong, and all co-authors!</div>
+  <div class="news-text">🚀 <b>ISCA 2026 (3 Papers)</b>: Three papers covering Sparse Matrix Multiplication (<b>Harmonia</b>), MoE Inference Optimization (<b>STEP</b>), and Mobile PIM/CPU Scheduling (<b>COMET</b>) have been accepted to the 53rd International Symposium on Computer Architecture. Congratulations to Jingkui, Ning, Yilong, and all co-authors!</div>
 </div>
 
 <div class="news-item">
   <span class="news-date">Feb. 24, 2026</span>
-  <div class="news-text">🚀 Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
+  <div class="news-text">🚀DAC 2026 (5 Papers): Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
 </div>
 
 <div class="news-item">
