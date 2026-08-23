@@ -206,7 +206,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 <div class="news-item">
   <span class="news-date">Feb. 24, 2026</span>
-  <div class="news-text">🚀DAC 2026 (5 Papers): Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
+  <div class="news-text">🚀 <b>DAC 2026 (5 Papers)</b>: Five papers covering Neuromorphic Computing, 3DGS, MoE and PCIe Simulation have been accepted to <b>DAC 2026</b>. Congratulations to Haomin, Chenyang, Zhibai and all co-authors!</div>
 </div>
 
 <div class="news-item">
