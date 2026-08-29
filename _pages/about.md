@@ -146,6 +146,15 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 
 
 <div class="news-item">
+<div class="award-item">
+
+<div class="news-item">
+  <span class="news-date">Aug. 28, 2026</span>
+  <div class="news-text">
+    🏆 <b>Huawei OlympusMons Award</b>: Honored to receive the <b>Huawei OlympusMons Pioneer Award (奥林帕斯先锋奖) (Fangxin Liu, Li Jiang, Haibing Guan)</b> for our research on <i>"Semantic Information Condensation for Efficient LLM Inference (面向大模型高效推理的语义信息凝练技术)"</i>. Sincere gratitude to Huawei for recognizing our work!
+  </div>
+</div>
+
   <span class="news-date">Aug. 21, 2026</span>
   <div class="news-text">
     🇭🇺 <b>EMNLP 2026 Main (3 Papers)</b>: Three papers spanning asymmetric low-rank compression (<b>DELTA</b>), fine-grained path-composed MoE inference (<b>PCoMoE</b>), and semantic KV cache management (<b>Seer</b>) have been accepted to the EMNLP 2026 Main Conference.  Congratulations to Yiwei, Jialin, Ziyan, and all co-authors! Looking forward to presenting our work in Budapest!
