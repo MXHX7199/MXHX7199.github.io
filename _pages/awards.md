@@ -83,6 +83,11 @@ redirect_from:
 <div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
+  <span class="award-main"><span class="award-title">Huawei OlympusMons Pioneer Award</span>, Huawei Technologies Co., Ltd. <span class="selectivity">(Fangxin Liu, Li Jiang, Haibing Guan)</span></span>
+</div>
+
+<div class="award-item">
+  <span class="award-yr">2026</span>
   <span class="award-main"><span class="award-title">CANN Core Developer Certification</span>, Huawei Ascend Ecosystem</span>
 </div>
 <div class="award-item">
