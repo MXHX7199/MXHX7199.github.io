@@ -83,7 +83,7 @@ redirect_from:
 <div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
-  <span class="award-main"><span class="award-title">Huawei OlympusMons Pioneer Award</span>, Huawei Technologies Co., Ltd. <span class="selectivity">(Fangxin Liu, Li Jiang, Haibing Guan)</span></span>
+  <span class="award-main"><span class="award-title">Huawei OlympusMons Pioneer Award</span>, Huawei Technologies Co., Ltd. <span class="selectivity">(Fangxin Liu, Li Jiang, Haibing Guan)</span> <a href="https://mp.weixin.qq.com/s/RuxT2UeW9n1-ryXTtYizug" target="_blank" style="color: inherit; text-decoration: none;"><b>[News]</b><a> </span> 
 </div>
 
 <div class="award-item">
