@@ -83,7 +83,9 @@ redirect_from:
 <div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
-  <span class="award-main"><span class="award-title">Huawei OlympusMons Pioneer Award</span>, Huawei Technologies Co., Ltd. <span class="selectivity">(Fangxin Liu, Li Jiang, Haibing Guan)</span> <a href="https://mp.weixin.qq.com/s/RuxT2UeW9n1-ryXTtYizug" target="_blank" style="color: inherit; text-decoration: none;"><b>[News]</b><a> </span> 
+  <span class="award-main">
+    <span class="award-title"><a href="https://mp.weixin.qq.com/s/RuxT2UeW9n1-ryXTtYizug" target="_blank" style="color: inherit; text-decoration: none;">Huawei OlympusMons Pioneer Award (奥林帕斯先锋奖)</a></span>, Huawei Technologies Co., Ltd. <span class="selectivity">(Fangxin Liu, Li Jiang, Haibing Guan — <i>Semantic Information Condensation for Efficient LLM Inference</i>)</span> <a href="https://mp.weixin.qq.com/s/RuxT2UeW9n1-ryXTtYizug" target="_blank" style="font-size: 11px; font-weight: 600; color: #00A1D6; text-decoration: none; border: 1px solid rgba(0, 161, 214, 0.3); padding: 1px 4px; border-radius: 2px; margin-left: 4px;">[Link]</a>
+  </span>
 </div>
 
 <div class="award-item">
