@@ -149,7 +149,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Aug. 28, 2026</span>
   <div class="news-text">
-    🏆 <b>Huawei OlympusMons Award</b>: Honored to receive the <b>Huawei OlympusMons Pioneer Award (奥林帕斯先锋奖) (Fangxin Liu, Li Jiang, Haibing Guan)</b> for our research on <i>"Semantic Information Condensation for Efficient LLM Inference (面向大模型高效推理的语义信息凝练技术)"</i>. Sincere gratitude to Huawei for recognizing our work!
+    🏆 <b>Huawei OlympusMons Award</b>: Honored to receive the <a href="https://mp.weixin.qq.com/s/RuxT2UeW9n1-ryXTtYizug" target="_blank" style="color: inherit; text-decoration: none;"><b>Huawei OlympusMons Pioneer Award (奥林帕斯先锋奖) (Fangxin Liu, Li Jiang, Haibing Guan)</b></a> for our research on <i>"Semantic Information Condensation for Efficient LLM Inference (面向大模型高效推理的语义信息凝练技术)"</i>. Sincere gratitude to Huawei for recognizing our work!
   </div>
 </div>
 
