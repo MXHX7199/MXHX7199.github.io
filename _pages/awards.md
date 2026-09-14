@@ -35,6 +35,10 @@ redirect_from:
 </style>
 ### 🔬 Academic & Research Honors
 <div class="award-section">
+<div class="award-item">
+  <span class="award-yr">2026</span>
+  <span class="award-main"><span class="award-title">MICRO Hall of Fame</span>, 59th International Symposium on Microarchitecture (MICRO 2026) <span class="selectivity">(Inducted within 3 consecutive years, 2024–2026)</span></span>
+</div>
 
 <div class="award-item">
   <span class="award-yr">2026</span>

@@ -144,7 +144,12 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 ### News
 <div class="news-box">
 
-
+<div class="news-item">
+  <span class="news-date">Sep. 14, 2026</span>
+  <div class="news-text">
+    🏛️ <b>MICRO Hall of Fame</b>: Honored to be inducted into the prestigious <b>MICRO Hall of Fame</b> within just 3 consecutive years (2024–2026). Looking forward to receiving the plaque on-site at MICRO 2026! Sincere gratitude to all my brilliant students, collaborators, and mentors for this incredible journey.
+  </div>
+</div>
 
 <div class="news-item">
   <span class="news-date">Aug. 28, 2026</span>
