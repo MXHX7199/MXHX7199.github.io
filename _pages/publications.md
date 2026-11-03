@@ -113,6 +113,39 @@ author_profile: true
   </div>
 
   <div class="year-header">2026</div>
+<!-- 1. DPI-TC (HPCA '27) -->
+  <div class="pub-item">
+    <span class="pub-venue">[HPCA '27]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">DPI-TC: A Software-Hardware Co-Design for High-Throughput DPI on Customized Tensor Cores</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Shiyuan Huang, <b>Fangxin Liu*</b>, Zongwu Wang, Haomin Li, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <!-- 2. REACT (HPCA '27) -->
+  <div class="pub-item">
+    <span class="pub-venue">[HPCA '27]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">REACT: Exploring Ockham's Razor for Efficient and Accurate 3DGS Compression with GPU-Native Video and Texture Components</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Haomin Li, <b>Fangxin Liu*</b>, Bowen Zhu, Jingtao Chen, Zongwu Wang, Chenyang Guan, Zhuoran Song, Yu Feng, Liqiang Lu, Li Jiang, Haibing Guan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
+  <!-- 3. Twig (HPCA '27) -->
+  <div class="pub-item">
+    <span class="pub-venue">[HPCA '27]</span>
+    <div class="pub-content">
+      <a href="#" class="pub-title">Twig: Parallel and Memory-Efficient Tree Speculative Decoding for Hybrid-Attention LLMs</a>
+      <span class="tag-italic">(Top Conf. in Arch)</span><span class="tag tag-ccf">CCF-A</span>
+      <div class="pub-authors">Li Wang, Yi Su, Xiabao Wu, Chiran You, Yongchao Liu, Zhan Qiu, Juelu Zhang, Jiajun Zheng, <b>Fangxin Liu</b>, Jie Zhang, Chen Tian, Chengying Huan</div>
+      <div class="pub-links"><a href="#" class="link-btn">[Paper]</a><a href="#" class="link-btn">[Code]</a><a href="#" class="link-btn">[BibTeX]</a></div>
+    </div>
+  </div>
+
 <!-- 1. DELTA (EMNLP '26) -->
   <div class="pub-item">
     <span class="pub-venue">[EMNLP '26]</span>

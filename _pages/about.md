@@ -144,6 +144,13 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 ### News
 <div class="news-box">
 <div class="news-item">
+  <span class="news-date">Nov. 03, 2026</span>
+  <div class="news-text">
+    🔥 <b>HPCA 2027 (3 Papers)</b>: Thrilled to share that <b>3</b> new papers on deep packet inspection acceleration (<b>DPI-TC</b>), 3DGS compression (<b>REACT</b>), and tree speculative decoding for LLMs (<b>Twig</b>) have been accepted to HPCA 2027 (17.9% acceptance rate)! Sincere thanks to all students and collaborators!
+  </div>
+</div>
+
+<div class="news-item">
   <span class="news-date">Oct. 10, 2026</span>
   <div class="news-text">
     🌍 <b>World's Top 2% Scientists</b>: <b>Fangxin Liu</b> has been recognized in the <b>Stanford University / Elsevier World's Top 2% Scientists List</b> (Single-Year Impact). Sincere gratitude to all collaborators, students, and mentors for their continuous support!
