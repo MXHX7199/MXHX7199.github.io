@@ -37,7 +37,9 @@ redirect_from:
 <div class="award-section">
 <div class="award-item">
   <span class="award-yr">2026</span>
-  <span class="award-main"><span class="award-title">MICRO Hall of Fame</span>, 59th International Symposium on Microarchitecture (MICRO 2026) <span class="selectivity">(Inducted within 3 consecutive years, 2024–2026)</span></span>
+  <span class="award-main">
+    <span class="award-title"><a href="https://www.sigmicro.org/awards/microhof.php" target="_blank" style="color: inherit; text-decoration: none;">MICRO Hall of Fame</a></span>, 59th International Symposium on Microarchitecture (MICRO 2026) <span class="selectivity">(Inducted within 3 consecutive years, 2024–2026)</span> <a href="https://www.sigmicro.org/awards/microhof.php" target="_blank" style="font-size: 11px; font-weight: 600; color: #00A1D6; text-decoration: none; border: 1px solid rgba(0, 161, 214, 0.3); padding: 1px 4px; border-radius: 2px; margin-left: 4px;">[Link]</a>
+  </span>
 </div>
 
 <div class="award-item">

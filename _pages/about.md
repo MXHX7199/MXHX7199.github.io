@@ -160,7 +160,7 @@ Our [team](https://www.cs.sjtu.edu.cn/yjjg/818.html) is actively seeking self-mo
 <div class="news-item">
   <span class="news-date">Sep. 14, 2026</span>
   <div class="news-text">
-    🏛️ <b>MICRO Hall of Fame</b>: Honored to be inducted into the prestigious <b>MICRO Hall of Fame</b> within just 3 consecutive years (2024–2026). Looking forward to receiving the plaque on-site at MICRO 2026! Sincere gratitude to all my brilliant students, collaborators, and mentors for this incredible journey.
+    🏛️ <b>MICRO Hall of Fame</b>: Honored to be inducted into the prestigious <a href="https://www.sigmicro.org/awards/microhof.php" target="_blank" style="color: inherit; text-decoration: underline; font-weight: 700;">MICRO Hall of Fame</a> within just 3 consecutive years (2024–2026). Looking forward to receiving the plaque on-site at MICRO 2026! Sincere gratitude to all my brilliant students, collaborators, and mentors for this incredible journey. <a href="https://www.sigmicro.org/awards/microhof.php" target="_blank" style="font-size: 11px; font-weight: 600; color: #00A1D6; text-decoration: none; border: 1px solid rgba(0, 161, 214, 0.3); padding: 1px 5px; border-radius: 3px; margin-left: 4px; vertical-align: middle;">[Official Link]</a>
   </div>
 </div>
 
